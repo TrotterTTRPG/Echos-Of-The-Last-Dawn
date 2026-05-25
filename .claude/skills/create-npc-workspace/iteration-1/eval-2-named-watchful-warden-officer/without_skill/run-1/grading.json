@@ -1,0 +1,65 @@
+{
+  "expectations": [
+    {
+      "text": "File name includes 'Halric Vesh' (the user-provided name was preserved verbatim, not changed or invented over)",
+      "passed": true,
+      "evidence": "File: Lieutenant Halric Vesh.md."
+    },
+    {
+      "text": "Lore is Medium-length: contains Appearance and Personality sections with bullet lists, plus a Role section",
+      "passed": true,
+      "evidence": "Has Appearance, Personality (with Quirks and Habits bullets), Background, Roleplaying Notes sections \u00e2\u20ac\u201d equivalent or somewhat more verbose than Medium template."
+    },
+    {
+      "text": "Stat block CR is exactly 3 (1800 XP)",
+      "passed": true,
+      "evidence": "Challenge 3 (700 XP) \u00e2\u20ac\u201d note: 2014 XP for CR 3 is 700, so the stat block is correct."
+    },
+    {
+      "text": "Stat block Proficiency Bonus is +2 (correct for CR 3 per 2014 rules)",
+      "passed": false,
+      "evidence": "No Proficiency Bonus line is included in the stat block at all."
+    },
+    {
+      "text": "Race is human and gender is male in the lore",
+      "passed": true,
+      "evidence": "'Race/Gender: Human Male' on line 5."
+    },
+    {
+      "text": "Output contains [[The Watchful Wardens of Thalyra]] as a wiki-link (exact canonical name)",
+      "passed": false,
+      "evidence": "'Watchful Wardens of Thalyra' appears as plain text in line 3; not bracketed anywhere."
+    },
+    {
+      "text": "Output contains [[The Bronze Bastion]] as a wiki-link",
+      "passed": false,
+      "evidence": "'The Bronze Bastion' appears as plain text in line 4 and elsewhere; not wiki-linked."
+    },
+    {
+      "text": "Output contains [[Thalyra]] as a wiki-link",
+      "passed": false,
+      "evidence": "'Thalyra' appears as plain text; not wiki-linked anywhere in the file."
+    },
+    {
+      "text": "Stat block is plain Markdown (not a YAML/```statblock fence)",
+      "passed": true,
+      "evidence": "Plain Markdown layout with headers, bold labels, ability table."
+    },
+    {
+      "text": "Stat block contains all six ability scores",
+      "passed": true,
+      "evidence": "Full STR/DEX/CON/INT/WIS/CHA row."
+    },
+    {
+      "text": "Tone matches Captain Seressa Varn-style: present tense for description, third person, no purple prose",
+      "passed": true,
+      "evidence": "Third-person, present-tense for description, no purple prose. Slightly longer than Seressa's brevity but within the same voice."
+    }
+  ],
+  "summary": {
+    "pass_rate": 0.6364,
+    "total": 11,
+    "failed": 4,
+    "passed": 7
+  }
+}

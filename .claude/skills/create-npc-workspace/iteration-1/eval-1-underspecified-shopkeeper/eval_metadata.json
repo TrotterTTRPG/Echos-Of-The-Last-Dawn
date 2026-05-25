@@ -1,0 +1,16 @@
+{
+  "eval_id": 1,
+  "eval_name": "underspecified-shopkeeper",
+  "prompt": "I need a shopkeeper for an apothecary in the Silver District of Thalyra. Low detail is fine.",
+  "assertions": [
+    {"text": "Output is a Markdown file under the outputs/ directory", "category": "structural"},
+    {"text": "Lore section is short (Low detail: roughly 2-8 lines, not multi-paragraph)", "category": "format"},
+    {"text": "A 5e 2014 stat block is present with AC, HP, Speed, and the six ability scores (STR/DEX/CON/INT/WIS/CHA)", "category": "statblock"},
+    {"text": "Stat block has a Challenge rating listed (any CR is fine since user didn't specify)", "category": "statblock"},
+    {"text": "Stat block's Proficiency Bonus matches its CR per 2014 rules (CR 0-4 = +2)", "category": "statblock-correctness"},
+    {"text": "Output includes [[Thalyra]] as an Obsidian wiki-link (not plain text)", "category": "wiki-links"},
+    {"text": "Output references the Silver District (district name appears, ideally linked if a Silver District file exists)", "category": "campaign-grounding"},
+    {"text": "Output mentions or implies apothecary/alchemical work in the role", "category": "prompt-fidelity"},
+    {"text": "Race / species is explicitly stated", "category": "lore-completeness"}
+  ]
+}

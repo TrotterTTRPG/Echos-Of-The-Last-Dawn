@@ -1,0 +1,55 @@
+{
+  "expectations": [
+    {
+      "text": "Output is a Markdown file under the outputs/ directory",
+      "passed": true,
+      "evidence": "Mira Solven.md exists in outputs/."
+    },
+    {
+      "text": "Lore section is short (Low detail: roughly 2-8 lines, not multi-paragraph)",
+      "passed": false,
+      "evidence": "File is ~89 lines with Description, Personality, Roleplaying Notes, Shop Inventory sections plus a stat block \u00e2\u20ac\u201d far beyond Low-detail scope; user explicitly said 'Low detail is fine'."
+    },
+    {
+      "text": "A 5e 2014 stat block is present with AC, HP, Speed, and the six ability scores (STR/DEX/CON/INT/WIS/CHA)",
+      "passed": true,
+      "evidence": "AC 11, HP 18, Speed 30 ft., ability table present."
+    },
+    {
+      "text": "Stat block has a Challenge rating listed (any CR is fine since user didn't specify)",
+      "passed": true,
+      "evidence": "Challenge 0 (10 XP)."
+    },
+    {
+      "text": "Stat block's Proficiency Bonus matches its CR per 2014 rules (CR 0-4 = +2)",
+      "passed": false,
+      "evidence": "No Proficiency Bonus line in the stat block at all \u00e2\u20ac\u201d standard 5e 2014 NPC stat blocks include PB."
+    },
+    {
+      "text": "Output includes [[Thalyra]] as an Obsidian wiki-link (not plain text)",
+      "passed": false,
+      "evidence": "'Thalyra' appears only as plain text in '*The Verdant Measure*, Silver District, Thalyra' \u00e2\u20ac\u201d not bracketed as a wiki-link anywhere."
+    },
+    {
+      "text": "Output references the Silver District (district name appears, ideally linked if a Silver District file exists)",
+      "passed": false,
+      "evidence": "Silver District appears as plain text only; not wiki-linked."
+    },
+    {
+      "text": "Output mentions or implies apothecary/alchemical work in the role",
+      "passed": true,
+      "evidence": "'Apothecary Shopkeeper \u00e2\u20ac\u201d The Verdant Measure'; full shop inventory of antitoxins, healing salves, etc."
+    },
+    {
+      "text": "Race / species is explicitly stated",
+      "passed": true,
+      "evidence": "'Race: Half-elf' in the header block."
+    }
+  ],
+  "summary": {
+    "pass_rate": 0.5556,
+    "total": 9,
+    "failed": 4,
+    "passed": 5
+  }
+}
