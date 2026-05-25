@@ -1,0 +1,119 @@
+{
+  "FightName": "New Fight",
+  "HasLairAction": false,
+  "CurrentRound": 1,
+  "CurrentCombatantIndex": 8,
+  "BattleStarted": true,
+  "Combatants": [
+    {
+      "Id": "88bf4fda-712c-4167-9829-e39f3948b02d",
+      "Kind": "PlayerCharacter",
+      "Name": "Aelar Aurelius",
+      "Initiative": 12,
+      "OwnerName": null,
+      "Number": null,
+      "Link": null,
+      "CurrentHp": null,
+      "MaxHp": null
+    },
+    {
+      "Id": "b5b4024e-4ee5-4294-aa2e-b2992424a02d",
+      "Kind": "PlayerCharacter",
+      "Name": "Aulberos Lightmind",
+      "Initiative": 15,
+      "OwnerName": null,
+      "Number": null,
+      "Link": null,
+      "CurrentHp": null,
+      "MaxHp": null
+    },
+    {
+      "Id": "84816096-3c9e-4f0a-b583-b13b39c41353",
+      "Kind": "PlayerCharacter",
+      "Name": "Chein Po",
+      "Initiative": 10,
+      "OwnerName": null,
+      "Number": null,
+      "Link": null,
+      "CurrentHp": null,
+      "MaxHp": null
+    },
+    {
+      "Id": "5fdac215-2719-447a-8fd1-e0acada5bece",
+      "Kind": "Summon",
+      "Name": "Kai",
+      "Initiative": 10,
+      "OwnerName": "Chein Po",
+      "Number": null,
+      "Link": null,
+      "CurrentHp": null,
+      "MaxHp": null
+    },
+    {
+      "Id": "a13598b4-613c-4ee8-b62c-63790e877602",
+      "Kind": "PlayerCharacter",
+      "Name": "Naieht",
+      "Initiative": 13,
+      "OwnerName": null,
+      "Number": null,
+      "Link": null,
+      "CurrentHp": null,
+      "MaxHp": null
+    },
+    {
+      "Id": "a5ab7274-722e-4000-9606-15df909c4b79",
+      "Kind": "PlayerCharacter",
+      "Name": "Vivatrix",
+      "Initiative": 10,
+      "OwnerName": null,
+      "Number": null,
+      "Link": null,
+      "CurrentHp": null,
+      "MaxHp": null
+    },
+    {
+      "Id": "910ea8d7-aa9c-4f8f-a8b8-cdd7f6723994",
+      "Kind": "Summon",
+      "Name": "Edgar",
+      "Initiative": 32,
+      "OwnerName": "Vivatrix",
+      "Number": null,
+      "Link": null,
+      "CurrentHp": null,
+      "MaxHp": null
+    },
+    {
+      "Id": "402082d8-e70d-4c86-a270-165341f415ed",
+      "Kind": "Monster",
+      "Name": "Goblin 1",
+      "Initiative": 7,
+      "OwnerName": null,
+      "Number": null,
+      "Link": "https://brandewinder.com//assets/2018-07-23-goblin.png",
+      "CurrentHp": 7,
+      "MaxHp": 7
+    },
+    {
+      "Id": "79fe4dc9-5135-4c0c-802e-7ed87f453e45",
+      "Kind": "Monster",
+      "Name": "Goblin 2",
+      "Initiative": 9,
+      "OwnerName": null,
+      "Number": null,
+      "Link": "https://brandewinder.com//assets/2018-07-23-goblin.png",
+      "CurrentHp": 0,
+      "MaxHp": 7
+    },
+    {
+      "Id": "e31811e4-10d2-461f-bc73-8f6113896060",
+      "Kind": "Monster",
+      "Name": "Goblin Boss",
+      "Initiative": 2,
+      "OwnerName": null,
+      "Number": null,
+      "Link": "https://www.dndbeyond.com/monsters/5195047-goblin-boss",
+      "CurrentHp": 21,
+      "MaxHp": 21
+    }
+  ]
+}

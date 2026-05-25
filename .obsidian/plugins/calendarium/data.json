@@ -1,0 +1,616 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Verdian Calendar",
+      "description": "Calendar of the world of Ardvelde.",
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "inline-events",
+      "showIntercalarySeparately": true,
+      "static": {
+        "displayDayNumber": false,
+        "firstWeekDay": 2,
+        "incrementDay": false,
+        "displayMoons": true,
+        "overflow": true,
+        "padDays": 2,
+        "padMonths": 2,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Miresen",
+            "id": "ID_3b38aaa81bca"
+          },
+          {
+            "type": "day",
+            "name": "Grissen",
+            "id": "ID_da6b19882baa"
+          },
+          {
+            "type": "day",
+            "name": "Whelsen",
+            "id": "ID_a9cae8f88b98"
+          },
+          {
+            "type": "day",
+            "name": "Conthsen",
+            "id": "ID_e87859eb5aaa"
+          },
+          {
+            "type": "day",
+            "name": "Folsen",
+            "id": "ID_59180abbea8a"
+          },
+          {
+            "type": "day",
+            "name": "Yulisen",
+            "id": "ID_98082bd8d8ca"
+          },
+          {
+            "type": "day",
+            "name": "Da'leysen",
+            "id": "ID_da4ba92b299a"
+          }
+        ],
+        "months": [
+          {
+            "name": "Horisal",
+            "type": "month",
+            "length": 29,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_e89a4ab9995b"
+          },
+          {
+            "name": "Misuthar",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_18b8894bab7b"
+          },
+          {
+            "name": "Dualahei",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_0a9b29f8f8db"
+          },
+          {
+            "name": "Thunsheer",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_6a8a8a5bea5b"
+          },
+          {
+            "name": "Unndilar",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_b8295bdbcafa"
+          },
+          {
+            "name": "Brussendar",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_c92a489bb909"
+          },
+          {
+            "name": "Sydenstar",
+            "type": "month",
+            "length": 32,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_7b48bb1b0a4a"
+          },
+          {
+            "name": "Fessuran",
+            "type": "month",
+            "length": 29,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_289858c97849"
+          },
+          {
+            "name": "Quen'pillar",
+            "type": "month",
+            "length": 27,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_f8abd9a86aa9"
+          },
+          {
+            "name": "Cuersaar",
+            "type": "month",
+            "length": 29,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_7aba59fa2b69"
+          },
+          {
+            "name": "Duscar",
+            "type": "month",
+            "length": 32,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_5819f86b99cb"
+          },
+          {
+            "type": "month",
+            "name": "Srigim",
+            "length": 28,
+            "id": "ID_fbfbaaba7a7a",
+            "interval": 0,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Selara",
+            "cycle": 33,
+            "offset": 7,
+            "faceColor": "#ffffff",
+            "shadowColor": "#9c9fc9",
+            "id": "ID_0ab929092b5b"
+          },
+          {
+            "name": "Umbrya",
+            "cycle": 328,
+            "offset": 80,
+            "faceColor": "#6c48a3",
+            "shadowColor": "#1f1f1f",
+            "id": "ID_b9783ac818e9"
+          }
+        ],
+        "leapDays": [],
+        "eras": []
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_38a84b9abb9b",
+            "name": "Spring",
+            "type": "Dated",
+            "color": "#81d07c",
+            "month": 0,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_c94a9bdab96a",
+            "name": "Summer",
+            "type": "Dated",
+            "color": "#e1d17f",
+            "month": 3,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_3a0acadb9818",
+            "name": "Autumn",
+            "type": "Dated",
+            "color": "#ce8540",
+            "month": 6,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_4838f8f82868",
+            "name": "Winter",
+            "type": "Dated",
+            "color": "#8bf2f9",
+            "month": 9,
+            "day": 1,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          }
+        ],
+        "offset": 0,
+        "type": "Dated",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": true,
+          "seed": -948910176,
+          "tempUnits": "Metric",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      },
+      "current": {
+        "day": 5,
+        "month": 1,
+        "year": 3463
+      },
+      "events": [
+        {
+          "name": "Spring Equinox",
+          "description": "The spring equinox is when the day and the night are equally as long, and are getting longer.",
+          "id": "824430",
+          "note": null,
+          "date": {
+            "day": 19,
+            "month": 1,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "type": "Recurring",
+          "category": "ID_98788bdb98f8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Summer Solstice",
+          "description": "\tAt the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.",
+          "id": "824431",
+          "note": null,
+          "date": {
+            "day": 23,
+            "month": 4,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "type": "Recurring",
+          "category": "ID_98788bdb98f8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Autumn Equinox",
+          "description": "The autumn equinox is when the day and the night are equally as long, and are getting shorter.",
+          "id": "824432",
+          "note": null,
+          "date": {
+            "day": 6,
+            "month": 7,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "type": "Recurring",
+          "category": "ID_98788bdb98f8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Winter Solstice",
+          "description": "The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.",
+          "id": "824433",
+          "note": null,
+          "date": {
+            "day": 10,
+            "month": 10,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "type": "Recurring",
+          "category": "ID_98788bdb98f8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "New Dawn",
+          "description": "The first day of the new year is also the holy day of the Lathander, as the old year gives way to a new path.",
+          "id": "824434",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": [
+              null,
+              null
+            ],
+            "month": 0
+          },
+          "type": "Recurring",
+          "category": "religious-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Renewal Festival",
+          "description": "Celebration of the Start of Spring",
+          "id": "824437",
+          "note": null,
+          "date": {
+            "day": 19,
+            "year": [
+              null,
+              null
+            ],
+            "month": 1
+          },
+          "type": "Recurring",
+          "category": "secular-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Wild's Grandeur",
+          "description": "The peak of the spring season is the holy day of the Silvanus.\n\nPeople celebrate the by journeying to a place of great natural beauty. This could be the top of a mountainous waterfall, the center of a desert, or even an old and peaceful city park. Although Wild's Grandeur is not widely celebrated, the few who do will plant trees in observance of the holiday.",
+          "id": "824438",
+          "note": null,
+          "date": {
+            "day": 6,
+            "year": [
+              null,
+              null
+            ],
+            "month": 3
+          },
+          "type": "Recurring",
+          "category": "religious-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Deep Solace",
+          "description": "Torm's holy day is Deep Solace, which is celebrated on the eighteenth day of the fifth month. Especially devout followers spend the day in isolation, meditating on the meaning of family and how they may be better mothers, fathers, siblings, and children.",
+          "id": "824441",
+          "note": null,
+          "date": {
+            "day": 18,
+            "year": [
+              null,
+              null
+            ],
+            "month": 4
+          },
+          "type": "Recurring",
+          "category": "religious-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Elvendawn",
+          "description": "Mielikki's holy day is called Elvendawn or Midsummer. It is celebrated on the twentieth day\nof the sixth month, and commemorates the elves' first emergence from the Feywild.",
+          "id": "824444",
+          "note": null,
+          "date": {
+            "day": 20,
+            "year": [
+              null,
+              null
+            ],
+            "month": 5
+          },
+          "type": "Recurring",
+          "category": "religious-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Highsummer",
+          "description": "The holy day of the Tyr is the peak of the summer season. People celebrates with a day of gift-giving and feasting, ending at midnight. Some also celebrate with a festival of lights. ",
+          "id": "824445",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": [
+              null,
+              null
+            ],
+            "month": 6
+          },
+          "type": "Recurring",
+          "category": "religious-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Harvest's Close",
+          "description": "Chauntea is typically celebrated on the last day of Fall with feasting in rural regions and with carnivals in the cities. ",
+          "id": "824447",
+          "note": null,
+          "date": {
+            "day": 10,
+            "year": [
+              null,
+              null
+            ],
+            "month": 10
+          },
+          "type": "Recurring",
+          "category": "religious-holidays",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "The Adventurer's Docket",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 1,
+            "year": 3463
+          },
+          "id": "ID_aa793bba1a19",
+          "note": "Notes/Potential Events/The Adventurer's Docket.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Docket Trials 1",
+          "description": null,
+          "date": {
+            "day": 4,
+            "month": 1,
+            "year": 3463
+          },
+          "id": "ID_dbc8186ba99a",
+          "note": "Sessions/Completed Events/The Docket Trials 1.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Docket Trials 2",
+          "description": null,
+          "date": {
+            "day": 4,
+            "month": 1,
+            "year": 3463
+          },
+          "id": "ID_895aca1a0b9b",
+          "note": "Sessions/Completed Events/The Docket Trials 2.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Docket Trials 3",
+          "description": null,
+          "date": {
+            "day": 5,
+            "month": 1,
+            "year": 3463
+          },
+          "id": "ID_6819198828ab",
+          "note": "Sessions/Completed Events/The Docket Trials 3.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Hookmaw Jr. Attacks!",
+          "description": null,
+          "date": {
+            "day": 5,
+            "month": 1,
+            "year": 3463
+          },
+          "id": "ID_b9a90a5b4bda",
+          "note": "Sessions/Scheduled Events/Hookmaw Jr. Attacks!.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Tour of the Hall of Arcane Acuity",
+          "description": null,
+          "date": {
+            "day": 6,
+            "month": 1,
+            "year": 3463
+          },
+          "id": "ID_abf9f818aacb",
+          "note": "Sessions/Potential Events/Tour of the Hall of Arcane Acuity.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
+      "id": "ID_bb1a79288a0a",
+      "categories": [
+        {
+          "name": "Religious Holidays",
+          "id": "religious-holidays",
+          "color": "#0D47A1"
+        },
+        {
+          "name": "Secular Holidays",
+          "id": "secular-holidays",
+          "color": "#4A148C"
+        },
+        {
+          "id": "ID_98788bdb98f8",
+          "color": "#85ff9d",
+          "name": "Solstice/Equinox"
+        }
+      ]
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_bb1a79288a0a",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": true,
+  "syncBehavior": "Always",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}

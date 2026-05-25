@@ -1,0 +1,26 @@
+**Bria:**
+This ambition to herald in the Golden Age is what many politicians claim was the purpose of the fourth and youngest major city: **[[Thalyra]]**.
+
+Where the other great cities grew from necessity or discovery, [[Thalyra]] was born from design. It was to be a place where the triumphs of **[[Dornthalm]]**, **[[Velrosk]]**, and **[[Iridia]]** could be condensed and distilled into a single vision - a city built with intention, meant to serve as the blueprint for civilization’s future. Its founders declared that [[Thalyra]] would be the heart of unity: a seat of governance, a hub of innovation, and a symbol of what humanity could achieve when the fractured nations of **[[Advelde]]** worked as one.
+
+Though the great cities still largely act independently, [[Thalyra]] represents the first true step toward unification. Within its marble halls and bronze avenues lie the fragile beginnings of a realm-wide council, a place where envoys from each city meet to share knowledge, coordinate resources, and plan for the centuries yet to come. It was said that from [[Thalyra]], the Golden Age would be born.
+
+Its location was chosen with precision. To the north stretch rich forests brimming with timber, game, and herbal wealth - resources capable of sustaining a growing population and fueling innovation. Most importantly, [[Thalyra]] lies equidistant between **[[Iridia]]** and **[[Velrosk]]**, forming a perfect midpoint for commerce between the east and west coasts. With its foundation, the cost and danger of transporting goods between the two cities dropped dramatically, and the routes that converge upon [[Thalyra]] became the arteries of **[[The Gilded Age]]**’s prosperity.
+
+
+**Jon:**
+[[Thalyra]] itself gleams—its districts arranged like perfect concentric rings that rise gradually toward the central forum.
+
+The outermost ring, the Bronze District, is a place of industry, community, and vibrancy. Its people come together and support each other at places like [[The Bronzewalk Bazaar]], a sprawling market of open stalls, traveling merchants, tinkers, cooks, and guild peddlers whose wares spill into the street; or [[Hearthwood Park]], a cherished refuge where families gather under old oaks, children play among sculpted fountains, and performers share stories from across [[Advelde]]. Here, public life is lived openly - voices shared, meals exchanged, and problems solved face-to-face. Neighbors know one another, and even strangers find welcome beneath the canopy of community.
+
+Further inward rises the **Silver District**, where ambition takes sharper form. Home to wealthy merchants and minor nobles, it is a place where innovation and excess walk hand-in-hand. In striking contrast to the Bronze District’s openness, every inn, home, and park here is designed with negotiation at the forefront—favoring quiet gardens, shuttered lounges, and secluded balconies over sprawling commons. 
+Dominating the skyline is the legendary [[The Crucible of Crowns]] - an immense colosseum once intended solely for military training and ceremonial contests. Recently, it has grown into a crucible of pride and public spectacle, as warriors and battlemages clash with monsters sourced from throughout [[Advelde]].
+
+**Bria:**
+At the city’s center lies the gleaming Golden District, adorned in white stone and gold finery. Here, politics, philosophy, and commerce intertwine. This is the home to most government buildings including the grand [[Hall of Seasons]] - the seat of governance that houses the councils and representatives who labor (some say squabble) over the future. Amid these formal structures rests opulent luxuries available to everyone but afforded by few. One such place is the opulent bathhouse known as [[The Jade Comb]]. Beloved by nobles and foreign envoys alike, it offers steam pools, gemstone-tiled chambers, and perfumed gardens.
+
+Throughout the city, security is maintained by [[The Watchful Wardens of Thalyra]], a disciplined civic guard known as much for their community outreach as their martial readiness. Even with frequent monster incursions, the guard never fails in their duty to protect the city. They call [[The Bronze Bastion]] in the Bronze District their headquarters, but they move throughout the city to keep vigilant watch over the its borders and to serve as the first line of defense in times of crisis. Overseeing it all is **[[The Vigil Network]]** - a lattice of pulsating, arcane signal-lights placed along walls and popular road ways. Although they are capable of conveying precise warnings across the city using different colors and tones, most citizens have long forgotten the meaning behind the system’s subtleties.
+
+For all its perfection on parchment, [[Thalyra]] is not without fault. Its rapid growth and idealistic foundations have stirred quiet tension. The common folk whisper that while [[Thalyra]] was built for everyone, its golden streets too often lead only to the doors of the powerful. Still, its people - proud and ambitious - believe deeply in their city’s promise. They call themselves _“the builders of the dawn,”_ certain that if the Golden Age is ever to arrive, it will begin here, in the light of [[Thalyra]]’s rising sun.
+
+[[Formation of Adventurers Docket]]

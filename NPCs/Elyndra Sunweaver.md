@@ -1,0 +1,5 @@
+- Head Archivist at the library of [[Dornthalm]]
+- Incredibly passionate about spreading knowledge to all, and assisting in the betterment of all, especially those within [[Dornthalm]]
+- Had to bail [[Aelar Aurelius]] out during the tavern brawl Aelar got into
+    - Overall though, she has been impressed with Aelar himself and his passionate and studious nature.
+- Predominately in summer form

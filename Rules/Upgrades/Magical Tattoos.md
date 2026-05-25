@@ -1,0 +1,34 @@
+**Ability Score Tattoos**
+- **Tattoo of Strength** - Wondrous tattoo, Rare
+	- *Cost*: 2,200gp worth of ruby dust
+	- *Location*: Any part of the body that signifies strength (biceps, abs, thighs, pecs, etc.)
+	- This tattoo imbues your body with ruby dust which increases your Strength ability score by 1 point. 
+- **Tattoo of Dexterity** - Wondrous tattoo, Rare
+	- *Cost*: 2,200gp worth of emerald dust
+	- *Location*: Any part of the body that represents speed or nimbleness (hands, fingers, feet, etc)
+	- This tattoo imbues your body with emerald dust which increases your Dexterity ability score by 1 point.
+- **Tattoo of Constitution** - Wondrous tattoo, Rare
+	- *Cost*: 2,500gp worth of diamond dust
+	- *Location:* Typically somewhere on the front side of your upper torso
+	- This tattoo imbues your body with diamond dust which increases your Constitution ability score by 1 point.
+- **Tattoo of Intelligence** - Wondrous tattoo, Rare
+	- *Cost:* 2,200gp worth of sapphire dust
+	- *Location:* Typically on some part of your head or neck
+	- This tattoo imbues your body with sapphire dust which increases your Intelligence ability score by 1 point.
+- **Tattoo of Wisdom** -  Wondrous tattoo, Rare
+	- *Cost:* 2,200gp worth of jade dust
+	- *Location:* Typically on some part of your head, neck, or heart
+	- This tattoo imbues your body with jade dust which increases your Wisdom ability score by 1 point.
+- **Tattoo of Charisma** - Wondrous tattoo, Rare
+	- *Cost:* 2,200gp worth of aquamarine dust
+	- *Location:* Any part of the body that you feel makes you more charismatic (parts of the face, neck, hands, etc.)
+	- This tattoo imbues your body with aquamarine dust which increases your Charisma ability score by 1 point.
+-**Damage Resistance Tattoos**
+- **Tattoo of Fire Resistance** - Wondrous tattoo, Very Rare
+	- *Cost:* 5,000gp worth of fire opal dust
+	- *Location:* Any part of the body that feels relevant to the character
+	- This tattoo imbues your body with fire opal dust to grant your body permanent resistance to any and all fire damage.
+- **Tattoo of Cold Resistance** - Wondrous tattoo, Very Rare
+	- *Cost:* 5,000gp worth of black star sapphire dust
+	- *Location:* Any part of the body that feels relevant to the character
+	- This tattoo imbues your body with black star sapphire dust to grant your body permanent resistance to any and all cold damage.

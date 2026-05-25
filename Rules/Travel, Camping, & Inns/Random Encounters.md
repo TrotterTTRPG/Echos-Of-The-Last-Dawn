@@ -1,0 +1,115 @@
+It might be easier to see this here: [Excel Document](TravelStuff.ods)
+
+**This system assumes:**
+- One encounter roll per 4-hour travel block
+- One encounter roll per camp night
+
+**Key:**
+- Danger Rating - DR - how dangerous the region is
+- Threat Margin - TM - Modifier to affect how likely an encounter is to occur (positive = less danger, negative = more danger)
+
+**Danger Profile - Set Once Per Region**
+- Each region has a Danger Rating (DR) from 1-5
+	- DR 1 - Patrolled roads, settled farmlands
+	- DR 2 - Borderlands, trade routes
+	- DR 3 - Untamed forest, hills
+	- DR 4 - Cursed wilds, monster territory
+	- DR 5 - Warzones, demon-haunted lands, etc
+- How does this effect the probability of an encounter? There are three options:
+	- Danger profile shifts encounter bands
+		- DR 1
+			- 1-5 - Dangerous
+			- 6-15 - Medium
+			- 16-30 - Mild
+			- 31-60 - Non Combat
+			- 61-100 - Uneventful
+		- DR 2
+			- 1-8 - Dangerous
+			- 9-20 - Medium
+			- 21-35 - Mild
+			- 36-60 - Non-Combat
+			- 61-100 - Uneventful
+		- DR 3
+			- 1-10 - Dangerous
+			- 11-25 - Medium
+			- 26-40 - Mild
+			- 41-60 - Non-Combat
+			- 61-100 - Non-Combat
+		- DR 4
+			- 1-15 - Dangerous
+			- 16-35 - Medium
+			- 36-50 - Mild
+			- 51-65 - Non-Combat
+			- 66-100 - Uneventful
+		- DR 5
+			- 1-20 - Dangerous
+			- 21-45 - Medium
+			- 46-60 - Mild
+			- 61-75 - Non-Combat
+			- 76-100 - Uneventful
+	- It creates a permanent TM for the region:
+		- Encounter Bands are neutral:
+			- Travel:
+				- 1-10 - Dangerous Combat Encounter
+				- 11-25 - Medium Combat Encounter
+				- 26-40 - Mild Combat / Predatory Threat
+				- 41-60 - Non-Combat Encounter
+				- 61-100 - Uneventful Travel
+			- Camping
+				- 1-15 - Night Ambush / Dangerous Threat
+				- 16-25 - Disturbance / Medium Threat
+				- 36-55 - Environmental or Narrative Event
+				- 56-100 - Quiet Night
+		- Danger Profile adds steady TM for the region:
+			- DR 1
+				- +0 Base TM for travel
+				- +0 Base TM for camp
+				- Roads are watched, threats are rare
+			- DR 2
+				- -5 Base TM for travel
+				- -5 Base TM for camp
+				- Borderlands, light patrols
+			- DR 3
+				- -10 Base TM for travel
+				- -10 Base TM for camp
+				- Untamed wilderness
+			- DR 4
+				- -15 Base TM for travel
+				- -20 Base TM for camp
+				- Actively hostile territory
+			- DR 5
+				- -20 Base TM for travel
+				- -30 Base TM for camp
+				- The land wants you dead
+
+Threat Margin (TM)
+- TM is a numeric modifier applied to the d100 roll
+	- Positive TM = less danger
+	- Negative TM = more danger
+	- TM resets after each roll
+- Travel Activities
+	- No one Keeps Watch - -15 TM
+	- Keep Watch successful - +10 TM
+	- Keep Watch failure - -10 TM
+	- Sneak successful - +10 TM
+	- Sneak failed - -10 TM
+	- Navigator fails - -5 TM
+	- Traveling at Normal Pace - -5 TM
+	- Traveling at Slow Pace - +5 TM
+- Camp Activities
+	-  No one Keeps Watch - -15 TM
+	- Keep Watch successful - +10 TM
+	- Keep Watch failure - -10 TM
+	- Camouflage success - +10 TM
+	- Camouflage failure - -10 TM
+	- Camp near landmark - -5 TM
+	- Camp in defensible terrain - +5 TM
+	- Magical Shelter - +10 TM
+- Skill Trounces Luck
+	- If passive exceeds DC by 5 or more - double the TM reduction
+	- If passive fails by 5 or more - double the TM penalty
+- Regional Danger Amplifiers
+	- Party rests multiple nights in the same camp - -5 TM per night
+	- Repeated failed navigation - -10 TM cumulative
+	- Loud combat earlier that day - -10 TM next roll
+	- Lingering corruption/curse - Minimum roll cannot exceed 60

@@ -1,0 +1,1 @@
+Daughter of [[Caleb Whitmere]], owner of [[The Thalyran Stud]] and creator of [[Livestock Disappearing]]

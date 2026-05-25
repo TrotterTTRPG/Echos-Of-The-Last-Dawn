@@ -1,0 +1,155 @@
+[
+  {
+    "Name": "Aelar Aurelius",
+    "Pronunciation": "AY-lar Or-rel-ee-us",
+    "IsRanger": false,
+    "PassivePerception": 15,
+    "PassiveInvestigation": 15,
+    "PassiveInsight": 11,
+    "Darkvision": 60,
+    "SpellSaveDC": 14,
+    "ArmorClasses": [
+      { "Value": 13, "Type": "Base" },
+      { "Value": 16, "Type": "Mage Armor" },
+	  { "Value": 20, "Type": "Bladesong" }
+    ],
+    "Languages": ["Common", "Dwarvish", "Elvish", "Sylvan"]
+  },
+  {
+    "Name": "Aulberos Lightmind",
+    "Pronunciation": "All-brr-oh-ss Lightmind",
+    "IsRanger": false,
+    "PassivePerception": 13,
+    "PassiveInvestigation": 9,
+    "PassiveInsight": 15,
+    "Darkvision": 0,
+    "SpellSaveDC": 13,
+    "ArmorClasses": [
+      { "Value": 17, "Type": "Studded Leather, Shield" }
+    ],
+    "Languages": ["Common", "Druidic", "Dwarvish"]
+  },
+  {
+    "Name": "Chein Po",
+    "Pronunciation": "Chi-en Po",
+    "IsRanger": true,
+    "PassivePerception": 15,
+    "PassiveInvestigation": 10,
+    "PassiveInsight": 13,
+    "Darkvision": 60,
+    "SpellSaveDC": 13,
+    "ArmorClasses": [
+      { "Value": 16, "Type": "Studded Leather" }
+    ],
+    "Languages": ["Common", "Deep Speech", "Draconic", "Elvish"],
+      "Summons": [
+      {
+        "Name": "Kai",
+        "StatBlockUrl": "https://www.dndbeyond.com/monsters/2059739-drake-companion",
+        "PassivePerception": 12,
+        "PassiveInvestigation": 9,
+        "PassiveInsight": 12,
+        "Darkvision": 60,
+           "OwnInitiative": false,
+        "ArmorClasses": [
+          { "Value": 16, "Type": "Natural Armor" },
+            {"Value": 18, "Type": "Studded Leather Barding"}
+        ],
+        "Languages": ["Draconic"],
+        "Notes": [
+          {
+            "Title": "Summoning",
+            "Body": "Once per Long Rest\nAs an action, you can magically summon the drake that is bound to you in an unoccupied space of your choice within 30 ft. of you. Whenever you summon the drake, you choose a damage type from its Draconic Essence trait, and can determine any cosmetic characteristics of the drake."
+          },
+            {
+            "Title": "UnSummoning",
+            "Body": "The drake remains until it is reduced to 0 hit points, until you use this feature to summon the drake again, or until you die. Once you summon the drake, you can't do so again until you finish a long rest or expend a spell slot of 1st level or higher."
+          },
+          {
+            "Title": "Initiative",
+            "Body": "In combat, the drake shares your initiative count, but it takes its turn immediately after yours."
+          },
+          {
+            "Title": "Commanding",
+            "Body": "It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the drake can take any action of its choice, not just Dodge."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Naieht",
+    "Pronunciation": "Night",
+    "IsRanger": false,
+    "PassivePerception": 10,
+    "PassiveInvestigation": 9,
+    "PassiveInsight": 10,
+    "Darkvision": 60,
+    "ArmorClasses": [
+      { "Value": 14, "Type": "Base" }
+    ],
+    "Languages": ["Common", "Dwarvish", "Giant", "Orc"]
+  },
+  {
+    "Name": "Vivatrix",
+    "Pronunciation": "Vivatrix",
+    "IsRanger": false,
+    "PassivePerception": 13,
+    "PassiveInvestigation": 10,
+    "PassiveInsight": 11,
+    "Darkvision": 60,
+    "SpellSaveDC": 13,
+    "ArmorClasses": [
+      { "Value": 12, "Type": "Base" },
+	  { "Value": 15, "Type": "Mage Armor" }
+    ],
+    "Languages": ["Common", "Draconic", "Elvish"],
+      "Summons": [
+      {
+        "Name": "Edgar",
+        "StatBlockUrl": "https://www.dndbeyond.com/monsters/16933-imp",
+        "PassivePerception": 11,
+        "PassiveInvestigation": 9,
+        "PassiveInsight": 9,
+        "Darkvision": 120,
+        "OwnInitiative": true,
+        "SpellSaveDC": 13,
+        "ArmorClasses": [
+          { "Value": 13, "Type": "Natural Armor" },
+          { "Value": 15, "Type": "Studded Leather Barding" }
+        ],
+        "Languages": ["Common", "Infernal"],
+        "Notes": [
+          {
+            "Title": "Summoning",
+            "Body": "Casting the Find Familiar Spell that can be cast as a ritual."
+          },
+            {
+            "Title": "UnSummoning",
+            "Body": "When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again. As an action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As an action while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you. Whenever the familiar drops to 0 hit points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying."
+          },
+          {
+            "Title": "Initiative",
+            "Body": "In combat, it rolls its own initiative and acts on its own turn."
+          },
+          {
+            "Title": "Commanding",
+            "Body": "When you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack with its reaction.\nAs a vonus action, you can command the familiar to take the Attack action."
+          },
+            {
+                "Title": "Telepathic Communication",
+            "Body": "While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses."
+            },
+            {
+                "Title": "Touch Spells",
+            "Body": "Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll."
+            },
+            {
+                "Title": "Investment of the Chain Master",
+            "Body": "When you cast find familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:\n\t- The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet.\n\t- As a bonus action, you can command the familiar to take the Attack action.\n\t- The familiar’s weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.\n\t- If the familiar forces a creature to make a saving throw, it uses your spell save DC.\n\t- When the familiar takes damage, you can use your reaction to grant it resistance against that damage."
+            }
+        ]
+      }
+    ]
+  }
+]

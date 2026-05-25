@@ -1,0 +1,398 @@
+[
+	{
+		"Location": "City",
+		"Title": "Beserker",
+		"Characters": [
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Berserker#content",
+				"Template": "Beserker",
+				"Modifications": "His unarmed strikes deal 2d4+3 slashing damage;He never uses his breath weapon",
+				"Name": "Hologran, The Imperator",
+				"OnTheirPerson": "Greataxe"
+			},
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Acolyte#content",
+				"Template": "Acolyte",
+				"Modifications":"",
+				"Name": "Ariel Henry",
+				"OnTheirPerson": "Potion of Heroism"
+			}
+		],
+		"Details": "A red dragonborn stands at the center of a crowd, taunting them for his next challenger.\nThe party arrives as one challenger falls, who is then treated by a nearby Acolyte until they are stable. The Acolyte requests that the party accept the dragonborn's game and subdue him to end the violence.\nThe dragonborn fights challengers in a fist fight one-on-one until he drops to 20 hit points or less.\nIf he notices cheating going on, through magic or other assistance, he draws his weapon and fights to kill the \"cheating miscreants\" instead, at which point he fights until reduces to 0 hit points.",
+		"Reward": "The Acolyte awards the PC who subdued/dealt the most damage to the dragonborn with a Potion of Heroism regardless of how he is defeated."
+	},
+	{
+		"Location": "City",
+		"Title": "Cat",
+		"Characters": [
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Cat#content",
+				"Template": "Cat",
+				"Modifications": "Exceptionally Sleepy; Cannot remember anything",
+				"Name": "",
+				"OnTheirPerson": ""
+			}
+		],
+		"Details": "A stray catstarts following you. When you think you've lost it, it appears and rubs against your leg. It follows you for 1d6 days, or until it gets bored.\n\nIf speak with animals is cast:\nThe cat is tired, confused, and mildly off. It frequently loses its train of thought, gets distracted mid-sentence, and doesn't fully understand *why* it's following the party.\n\t- \"Oh. You can ... hear me now. That's ... new. Are you food?\"\n\t- \"Was that yesterday? Or before food?\"\n\t- \"I was going somewhere ... I think. You were there. So now I'm here.\"\n\t- \"I had a very important thought earlier. It's gone now.\"\n\t- \"Don't go too fast. I just sat down.\"",
+		"Reward": ""
+	},
+	{
+		"Location": "City",
+		"Title": "Dice Game",
+		"Characters": [
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Commoner#content",
+				"Template": "Commoner",
+				"Modifications": "",
+				"Name": "Lileath Evercrest",
+				"OnTheirPerson": "300gp"
+			}
+		],
+		"Details": "A tiefling Commoner is playing a dice game on the streets. The game has attracted a large crowd and she welcomes any participants to partake in a bet.\nIf asked about the game, she describe that it was inspired by a group of \"eccentric adventurers\" and then explains the rules:\n\t- A PC make a wager - minimum 3sp to 8sp.\n\t- She then hands them dice - 2d6.\n\t- The PC must roll them and wins if the total results is 7 or 12.\n\t- After the roll, the PC can double their wager to roll an additional 1d6.\n\t- On any win, the PC receives triple what they wagered.\n\nThe tiefling plays until 2 hours have passed or they have a net loss of 100sp",
+		"Reward": "If defeated by net loss, she extends and offer of a date with the luckiest PC, believing them to be a \"winning horse\"."
+	},
+	{
+		"Location": "City",
+		"Title": "Extorting a Noble",
+		"Characters": [
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Thug#content",
+				"Template": "Thug",
+				"Modifications": "Leader; Will attempt to flee if he is the last one standing.",
+				"Name": "Bruce",
+				"OnTheirPerson": "Mace;Heavy Crossbow"
+			},
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Thug#content",
+				"Template": "Thug",
+				"Modifications": "Will attempt to flee if he is the last one standing.",
+				"Name": "Butch",
+				"OnTheirPerson": "Mace;Heavy Crossbow"
+			},
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Thug#content",
+				"Template": "Thug",
+				"Modifications": "Will attempt to flee if he is the last one standing.",
+				"Name": "Dan",
+				"OnTheirPerson": "Mace;Heavy Crossbow"
+			},
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Noble#content",
+				"Template": "Noble",
+				"Modifications": "",
+				"Name": "Lord Jeremiah Crestfall",
+				"OnTheirPerson": "44gp;17sp;44cp;Amethyst necklace"
+			}
+		],
+		"Details": "A group of 3 Thugs are extorting a Noble in an alleyway. \nIf the party intervenes, the standoff can be defused with a DC 20 Intimidation or Persuasion check.\nOn a failure, the leading Thug suggests the PCs pay 55gp on the Noble's behalf and they'll leave. Anything less is insulting to them and they offer a final warning to \"leave or die\".\nInitiative begins if the party stays or keep negotiating.\nIf the party tries to ambush them from the start, the Thugs are distracted and have a passive perception of 7.",
+		"Reward": "Despite all the gold on his person, the noble only offers 30gp for assisting."
+	},
+	{
+		"Location": "City",
+		"Title": "Injured Beggar",
+		"Characters": [
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Commoner#content",
+				"Template": "Commoner",
+				"Modifications": "Significant limp",
+				"Name": "Carlos \"Kneecap\" Fuera",
+				"OnTheirPerson": "6sp;36cp"
+			}
+		],
+		"Details": "An exhausted, begging Commoner sits on the side of the road, asking any passerby to spare some coin into a hat placed in front of him.\nThe man has a broken leg. He broke it when defending a young couple from ruffians in the Bronze District a few weeks earlier.\nHis leg can be healed with magic or mended with a DC 15 Medicine check.\n\nHe earned the nickname \"Kneecap\" among the citizens nearby as a sick pseudonym from his resulting injury",
+		"Reward": "His hat contains 6sp and 36cp currently.\nHe does not try to resist if the players mug him.\nHe offers gratitude if the players help him."
+	},
+	{
+		"Location": "City",
+		"Title": "Priest from Out of Town",
+		"Characters": [
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Priest#content",
+				"Template": "Priest",
+				"Modifications": "Can cast Aid",
+				"Name": "Timothy Cals",
+				"OnTheirPerson": "3x Holy Water Flasks;Wooden symbol of Silvanus on a necklace"
+			}
+		],
+		"Details": "A Priest stands atop a soap box delivering a sermon to anyone listening. Seeing the party, he requests their attention and preaches about the god they worship.\n\nOne hand rests on a simple wooden holy symbol. His voice is steady and carries enough so everyone can hear him.\n\"Look around you - stone, timber, flesh, and breath. You call this a city, a triumph of will and craft. And it is. But do not forget ... every beam was once a tree. Every stone was shaped by time together longer than any kingdom has stood.\"\nHe pauses, scanning the small crowd.\n\"Sylvanus teaches us this: you do not stand *above* nature. You stand *within* it. The same winds that bends the forest boughs fills your lungs. The same earth that feeds the roots will one day take you back into its care.\"\nHe shifts slightly, his tone softening.\n\"There is a balance to all things. Growth and rot. Birth and decay. The hunter and the hunted. We fear the wolf at the edge of the firelight ... but without the wolf, the herd grows weak. Without death, there is no room for life.\"\nA faint knowing smile cross his face.\n\"And yes - without hardship, there is no strength. Sylvanus does not promise comfort. He promises truth. The forest does not lie. It does not pretend. It simply is.\"\nHe gestures outward now, towards the people themselves.\n\"You who labor, you who build, you who trade and toil - do not mistake distance for separation. You are not cut off from the wild places. You carry them with you. In your bones. In your breath. In the quiet voice that tells you when something is ... out of balance.\"\nHis gaze lingers on the party for a moment longer than the others.\n\"And when the balance is broken - when greed strips the land bare, when magic twists what should be natural, when arrogance forgets it place - Sylvanus call upon those willing to listen.\"\nFinally, he lifts his symbol slightly.\n\"Give thanks, not for ease, but for endurance. Not for stillness, but for the turning of the seasons. For in change there is life, and in balance, there is peace.\"\nHe lowers his hand.\n\"And if you would walk in harmony with that truth ... I offer what blessings I can.\"",
+		"Reward": "A donation of 15gp will reward the party with 3 flasks of Holy Water.\nAnything less than 15gp but above 1gp, he will cast aid on the donator and 2 others in the party."
+	},
+	{
+		"Location": "City",
+		"Title": "Innocent Until Proven Guilty",
+		"Characters": [
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Acolyte#content",
+				"Template": "Acolyte",
+				"Modifications":"",
+				"Name": "Silus Midwinter",
+				"OnTheirPerson": "32gp;76sp;22cp"
+			},
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Mage#content",
+				"Template": "Mage",
+				"Modifications":"Evil",
+				"Name": "Aria Midwinter",
+				"OnTheirPerson": ""
+			},
+			{
+				"Link": "https://www.dndbeyond.com/monsters/16915-guard",
+				"Template": "Guard",
+				"Modifications":"Called a Jailer",
+				"Name": "Hal Murkov",
+				"OnTheirPerson": ""
+			}
+		],
+		"Details": "A male human Acolyte stands in deep thought outside of the city's jailhouse. Noticing the party, he approaches. them with a serious demeanor and asks if they could aid him, promising 10gp in return.\nThe party can convince him to increase the reward up to 25gp on a successful DC 15 Persuasion check. He describes that his sister is currently locked-up on *ridiculous* charges, and he suspects that the jailer has a personal grudge against her. He asks the party to convince them to free her.\n\nThe Acolyte's sister is a very guilty Evil Mage that assaulted a Noble and tried to escape with their belongings.\n\nThe jailer describes this, despite the sister's denial. The party can pay her fine of 80gp or convince the jailer she was framed with a successful DC 20 Persuasion check. The same check can be used to convince the Acolyte of his sisters guilt.",
+		"Reward": "The Acolyte awards 10-25gp after she's freed or he's convinced."
+	},
+	{
+		"Location": "City",
+		"Title": "Crush Crush Crush",
+		"Characters": [
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Commoner#content",
+				"Template": "Commoner",
+				"Modifications": "Gnome",
+				"Name": "Gus Sprite",
+				"OnTheirPerson": "Potion of Hill Giant Strength"
+			},
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Commoner#content",
+				"Template": "Commoner",
+				"Modifications": "High Elf",
+				"Name": "Liandra",
+				"OnTheirPerson": ""
+			}
+		],
+		"Details": "A gnome commoner stares lovingly through a shop's window, completely enamored by the high elf inside. They sigh, turning their attention to the dirt.\nIf the party approaches, they describe their crush within the store with Shapespearean flair. The gnome requests advice for flirting with the elf, or magical assistance if hte party has any.",
+		"Reward": "A Potion of Hill Giant Strength (their own concoction) if the party's advice with convincingly helpful."
+	},
+	{
+		"Location": "City;Tavern",
+		"Title": "Bard's Song",
+		"Characters": [
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Commoner#content",
+				"Template": "Commoner",
+				"Modifications": "+6 to Performance",
+				"Name": "Katty Pierre",
+				"OnTheirPerson": "22gp;14ep;37sp;98cp"
+			}
+		],
+		"Details": "A traveling musician is playing songs on an acoutis guitar for those that pay them mind. They have a hat placed in front of them for collecting tips.",
+		"Reward": "Any PC that listens to a full song and offers at least 5sp into the hat receives a d8 of Bardic Inspiration for 24 hours that can be added to any skill check, saving throw, or attack roll.\nA PC that donates 5gp gains a d10 instead."
+	},
+	{
+		"Location": "City",
+		"Title": "3 Kobolds in a Trench Coat",
+		"Characters": [
+			{
+				"Link": "https://www.dndbeyond.com/monsters/16939-kobold",
+				"Template": "Kobold",
+				"Modifications": "Under the alias \"Hoo-Man\"",
+				"Name": "Jak-Jak",
+				"OnTheirPerson": "12gp;46sp"
+			},
+			{
+				"Link": "https://www.dndbeyond.com/monsters/16939-kobold",
+				"Template": "Kobold",
+				"Modifications": "Under the alias \"Hoo-Man\"",
+				"Name": "Gru",
+				"OnTheirPerson": ""
+			},
+			{
+				"Link": "https://www.dndbeyond.com/monsters/16939-kobold",
+				"Template": "Kobold",
+				"Modifications": "Under the alias \"Hoo-Man\"",
+				"Name": "Peskin",
+				"OnTheirPerson": ""
+			}
+		],
+		"Details": "3 kobolds in a trench coat are stacked on top of each other with a hat, trying ti disguise themselves as a commoner. They're managed to scrounge up 12gp and 46sp together to try to buy some Blasting Powder from a shop, but the merchant refused their business.The kobolds request that the party go insde and buy the ingredient in their stead.\nA successful DC 10 Insight check reveals they aren't what they seem.\nThey are after the pwosder to collapse a Wolf den near their home, outside of the city.",
+		"Reward": ""
+	},
+	{
+		"Location": "City",
+		"Title": "The Squirrel Can Vouch For Me",
+		"Characters": [
+			{
+				"Link": "https://www.dndbeyond.com/monsters/16848-druid",
+				"Template": "Druid",
+				"Modifications": "",
+				"Name": "Nimbus Scroo",
+				"OnTheirPerson": "Scroll of Commune with Nature;Scroll of Lesser Restoration;Potion of Healing"
+			},
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Commoner#content",
+				"Template": "Commoner",
+				"Modifications": "",
+				"Name": "Jed Peterson",
+				"OnTheirPerson": ""
+			},
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Rat#content",
+				"Template": "Rat",
+				"Modifications": "Is actually Squirrel",
+				"Name": "TipTup",
+				"OnTheirPerson": ""
+			}
+		],
+		"Details": "A Druid has been accused of stealing merchandise from a shop and Guards are in the process of arresting them. If the party engages, the Druid pleads for the party to assist them. They claim a squirrel in the nearby vicinity can vouch for them. Although the Druid is capable of speakign with animals, the shopkeeper and Guards cannot.\nIf the party cannot itnerpret animal language either, they must try to decipher things based on the body language of the chosen animal isntead.\nThe truth of the matter is the shopkeepr is just an employee of the shop/stand, and they stashed the \"stolen\" item in the hopes of retrieving it later, effectively making the Durid a patsy.",
+		"Reward": "If aided, the Druid will offer the party a choice of one of 3 items: Scroll of Commune With Nature, Scroll of Lesser Resotration, or Potion of Healing"
+	},
+	{
+		"Location": "City",
+		"Title": "Who Dun It?",
+		"Characters": [
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Commoner#content",
+				"Template": "Commoner",
+				"Modifications": "",
+				"Name": "Drew Singh",
+				"OnTheirPerson": "12gp;74cp"
+			}
+		],
+		"Details": "As the party passes a shadowy alley. On a successful DC 13 Perception check, they can discern a hunched over figure down the center in teh distance. The commoner is currently distracted, patting down the body of a slain elf for valuables.\nThe commoner came upon the cody by chance and is not aware of who or what killed them.\nThey will make excuses for looting the victim such as:\n\t- \"just a crime of opportunity\"\n\t- \"the dead leave things behind to help the living\"\nThe commoner is frightened and will not put up resistance if the party tries to steal back any of the possessions.\nAs for the corpse, the victim was skewered through the back with a decisive strike that pierces through to their heart. Nothing implicating a culprit can be found.",
+		"Reward": "A small bag contains 12gp and 74cp (claimed by the commoner) as well as an Amethyst ring they are currently trying to pry off. Engraved inside the ring at the words, \"My Dead Beloved -S\". These valuables indicate that the killer didn't act on greed."
+	},
+	{
+		"Location": "City;Tavern",
+		"Title": "I've Found My Muse",
+		"Characters": [
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Commoner#content",
+				"Template": "Commoner",
+				"Modifications": "",
+				"Name": "Talon/Tara Evertide",
+				"OnTheirPerson": "7gp;39sp;16cp;A pair of Sending Stones"
+			}
+		],
+		"Details": "A lone, sighing tiefling Commoner stares blankly at a canvas on a stand before them. Once the party passes by, one randomly selected party memeber will spark creativity in the tiefling's artistic ways. They will jump up with glee and shout \"You! You're the one!\" The tiefling doesn't have much but will offer everything they have left in their pocket for an hour of their time to pose for their art. The full party isn't required to stick around, but the artist will engage in small talk, perhaps offering tips on the city to anyone interested. The piece comes out clean and is beautiful.",
+		"Reward": "7gp, 39sp, and 16cp in a pouch in their pocket. If the player expresses a romantic interest in the artist, they will offer the player a Sending Stone to continue communicating freely."
+	},
+	{
+		"Location": "City",
+		"Title": "A Betrayal Most Foul",
+		"Characters": [
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Commoner#content",
+				"Template": "Commoner",
+				"Modifications": "",
+				"Name": "Shayna Frost",
+				"OnTheirPerson": ""
+			},
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Commoner#content",
+				"Template": "Commoner",
+				"Modifications": "",
+				"Name": "Courtney Frost",
+				"OnTheirPerson": ""
+			},
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Commoner#content",
+				"Template": "Commoner",
+				"Modifications": "",
+				"Name": "Derek Frost",
+				"OnTheirPerson": ""
+			}
+		],
+		"Details": "A distressed young adult woman Commoner is frantically searching for aid from passersby. Any party member that pays her mind will prompt her to explain that he mother is fatally ill and in need of medicine, while guiding the party to her home.\nThe disease is unnamed, but slowly rots the mother's internal organs until they no longer function. Methods such as Remove Disease only stave off the effect temporarily.\nFor 3 years, they've used medicine offer by a wandering merchant name Jalen. The medicine has worked until the most recent supply.\nSucceeding on a DC 20 Medicine check reveals that it has been replaced with placebos. The daughter and mother are in shock that Jalen would do something so harmful. The stepfather is wuick to condemn Jalen, but the truth of the matter is that the stepfather replaced the medicine himself to kill his wife, so that he couold be free to make romantic advances toward another woman.",
+		"Reward": "There is 4gp, 66sp, and 20cp stashed in the house. If aided in any way, the family doesn't have anything to offer but a meal and a place to stay."
+	},
+	{
+		"Location": "City",
+		"Title": "Definitely Not of Equal Value",
+		"Characters": [
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Commoner#content",
+				"Template": "Commoner",
+				"Modifications": "",
+				"Name": "Hamfarn",
+				"OnTheirPerson": "22sp (Dropped);Some dice;A voucher for a free Potion of Healing at a local tavern or shop."
+			}
+		],
+		"Details": "A drunkard Commoner is traveling down a road. During their swaying, they collide into a wall and say, \"Exschusche me shir.\" On a successful DC 13 perception check, the party can notice him accidentally dropping something. It's a pouch containing 22sp. They can either claim the coin for themselves or deliver it to him before he vanishes. ",
+		"Reward": "He offers the voucher if it is returned."
+	},
+	{
+		"Location": "City",
+		"Title": "Toy Repair Services",
+		"Characters": [
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Commoner#content",
+				"Template": "Commoner",
+				"Modifications": "",
+				"Name": "Timothy (Timmy) or Victoria (Tori) Pines",
+				"OnTheirPerson": ""
+			}
+		],
+		"Details": "A small child is playing out front of hteir hosue when suddenly they break into tears. From up close, the party can tell that hte child's stuffed teddy has just torn from a branch/sharp object that they run past.\nIf the party offers to help repair the toy, either by stitching or magic, the child will excitedly ask them to stay there and run back into the house.\nIf they wait, the child will bring outside a collection of broken toys also in need of repair, include other torn or dirty plushis, a hand carved wooden carriage with a snapped-off wheel, a doll with a detached limb, etc.",
+		"Reward": "If multiple toys are repaired, they offer one toy described by them as on of their \"favorites\"."
+	},
+	{
+		"Location": "City",
+		"Title": "What's that boy? Tommy's stuck in a well!",
+		"Characters": [
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Mastiff#content",
+				"Template": "Mastiff",
+				"Modifications": "",
+				"Name": "Glennis",
+				"OnTheirPerson": ""
+			},
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Commoner#content",
+				"Template": "Commoner",
+				"Modifications": "",
+				"Name": "Tommy Glendale",
+				"OnTheirPerson": ""
+			},
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Noble#content",
+				"Template": "Noble",
+				"Modifications": "",
+				"Name": "Marcus Glendale",
+				"OnTheirPerson": ""
+			}
+		],
+		"Details": "The sound of persistent barkign can be heard down teh street. A dog is barking at a passerby in a non-threatening way.\nA successful DC 13 Animal Handling check (of Speak with Animals) reveals that the dogs is trying to get anyone to follow them.\nIf anyone from the party follows, the dog will lead them to a wall, where the faint echoes of a child calling for help can be heard. The child is soaked in water, clinging onto the walls to keep his head above.\nIt is up to the players to attempt to save poor Tommy, who is stuck in a well.",
+		"Reward": "If saved, Tommy says their father can pay them as thanks and escorts the party to his home. The father is a Noble who gives 25gp in thanks, then scolds Tommy."
+	},
+	{
+		"Location": "City",
+		"Title": "Perfect Timing",
+		"Characters": [
+			{
+				"Link": "https://www.dndbeyond.com/monsters/16915-guard",
+				"Template": "Guard",
+				"Modifications":"",
+				"Name": "Valery",
+				"OnTheirPerson": "100gp;5sp"
+			},
+			{
+				"Link": "https://www.aidedd.org/dnd/monstres.php?vo=yuan-ti-pureblood",
+				"Template": "Yuan-Ti Pureblood",
+				"Modifications": "",
+				"Name": "Azu",
+				"OnTheirPerson": ""
+			},
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Assassin#content",
+				"Template": "Assassin",
+				"Modifications": "",
+				"Name": "\"Mirage\"",
+				"OnTheirPerson": ""
+			},
+			{
+				"Link": "https://roll20.net/compendium/dnd5e/Noble#content",
+				"Template": "Noble",
+				"Modifications": "",
+				"Name": "Theodore Vlasic",
+				"OnTheirPerson": ""
+			}
+		],
+		"Details": "A Guard appears anxious as they stand outside a building keeping watch.\nOnce the party passes near, they wil ltry to judge who is the most Good-aligned character in the group and ask them for help.\nThey'll state how they need to take a quick bathroom break, but can't leave their post, so they'll ask the party member to temporarily take their place. On agreement, the Guard will leave for roughly 6 minutes. A duo of nefarious lawbreakers will see this as an opportunity. A Yuan-ti Pureblood wil lcome out to try and distract the party member(s) while an Assassin will try to aneak in and kill the Noble inside the residence. They flee if discovered.",
+		"Reward": "The Guard offers 5sp initially to keep watch but will offer mroe in bounty rewards if either cirminal is apprehended - 35gp for the Yuan-ti and 65gp for the Assassin."
+	}
+]

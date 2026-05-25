@@ -1,0 +1,4 @@
+- Head of the [[Monastery of the Sacred Scroll]] in [[Solstice]]
+- Winter eladrin, elderly, wise, patient, and a well read person
+- [[Aelar Aurelius]]’s mentor
+- Predominately in winter form

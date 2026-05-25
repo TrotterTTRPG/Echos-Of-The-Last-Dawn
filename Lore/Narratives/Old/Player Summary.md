@@ -1,0 +1,23 @@
+Long ago, the world was scarred by fire and blood. Kingdoms rose and fell in swift succession, and great wars left the land broken and barren. Over centuries, survivors rebuilt what they could, and slowly the scars of the past began to fade. Forests returned, rivers swelled once more, and cities that had been ash became centers of learning and trade. Scholars call this era [[The Gilded Age]], a rare time of peace and plenty, when life seems almost ordinary after so much devastation. This is [[Verda]] - the world you've come to know.
+
+Even in the quiet, there are still subtle signs that the world is never truly at rest. Travelers sometimes notice forests that grow oddly fast in one season, only to recede the next, or hear strange calls echoing across hills where no animals dwell. Hunters report packs of wolves behaving unpredictably, and graveyards occasionally stir with shadows that vanish before anyone can approach. Though these occurrences are infrequent and easily dismissed, they have begun to draw the attention of careful observers.
+
+Weather too can be capricious. Storms arise without warning and fade just as quickly, and certain regions experience odd patterns in crops and rivers, leaving farmers scratching their heads. Most attribute these phenomena to chance, misfortune, or poor record-keeping, but some elders and scholars warn that the natural order is delicate, and even long periods of peace can mask hidden instabilities.
+
+Despite these oddities, the people of [[The Gilded Age]] continue to prosper. Trade flows, cities grow, and culture flourishes in ways that would have seemed impossible. And yet, for those who watch closely, the world has a quiet, restless energy — subtle, pervasive, and impossible to ignore. What it might portend is a question that has yet to be answered.
+
+---
+
+Though [[Verda]] as a whole prospers, your story begins on the continent of [[Advelde]], a land of contrasts where fertile plains, storm-wracked coasts, and unforgiving mountains shape the lives of its people.
+
+To the West, where land and sea blur, rises Velrosk—a city of stilts, canals, and ceaseless trade. Ships from across [[Verda]] crowd its harbors, filling its markets with treasures and its taverns with stories. The bright, everburning lanterns that line its waterways make Velrosk a city that never truly sleeps, and the air is always alive with music, bargaining, and gossip. Chaotic, colorful, and untamed, it is a place where fortune is made as quickly as it is lost, and where every stranger is both a customer and a potential rival.
+
+To the East, scattered islands bask in sunlight and ocean spray, forming [[Iridia]]. White-sand beaches and volcanic cliffs give the region its beauty, while ancient ruins whisper of civilizations long vanished. Nobles and travelers of means come to indulge in the island’s famed hot springs and resorts, their luxuries fed by the volcano’s warmth. Yet those who wander too far from the guarded paths find themselves in jungles thick with secrets, where danger hides as easily as paradise.
+
+To the North, in the mountain passes, lies the fortress-city of [[Dornthalm]]. Once a bulwark during the continent’s endless wars, it now endures as a proud relic of harsher times. The city coils downward in a vast spiral, carved into the mountainside around a living forge whose molten glow lights the peaks at night. Its people are as unyielding as the iron they shape, known for their discipline, their crafts, and their suspicion of outsiders. Travelers rarely descend more than a few turns of the spiral, for [[Dornthalm]] is as deep and secretive as the mountain itself.
+
+To the Southeast, where rivers nourish fertile plains, gleams the marble towers of [[Thalyra]], Jewel of [[Advelde]]. The capital city thrives on the wealth of its harvests and the splendor of its artistry and is a beacon of prosperity that draws merchants, nobles, and schemers alike. Its halls of power are locked in constant rivalry between merchant guilds and aristocratic houses, their ambitions playing out in whispers as much as in council chambers. Yet beneath its polished surface, the city stirs with anticipation for the coming [[Day of Challenging]], when champions clash in the arena under skies that feel just a little heavier than they should.
+
+---
+
+**Clerics and paladins** are taught that their power is a trust — mortals must act as hands of the divine where gods cannot tread.

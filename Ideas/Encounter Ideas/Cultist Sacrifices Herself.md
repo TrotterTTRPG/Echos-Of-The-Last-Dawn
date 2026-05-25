@@ -1,0 +1,1 @@
+A cultist about to sacrifice herself to complete a dark ritual. She's in tears and just keep mumbling that everything's going to die anyways, what's the point in continuing living. ([[The Cycle]])

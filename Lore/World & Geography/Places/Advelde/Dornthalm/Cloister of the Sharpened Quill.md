@@ -1,0 +1,2 @@
+A branch of the [[Protectors of the Ancient Tomes]], this place is located within [[Dornthalm]] itself.
+This location is not only dedicated to exploring and cataloguing the ancient library in [[Dornthalm]], but also helping protect and serve the city itself to keep this massive repository of knowledge safe

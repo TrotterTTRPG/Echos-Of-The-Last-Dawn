@@ -1,0 +1,242 @@
+[
+   {
+      "Description":"You hear suspicious sound, but when you check it out, it turns out to be a young doe, caught in the hunter's trap.",
+      "Type":"Both",
+      "Difficulty":"Uneventful",
+      "Links":""
+   },
+   {
+      "Description":"You find small spring flowing from underneath a rock.",
+      "Type":"Travel",
+      "Difficulty":"Uneventful",
+      "Links":""
+   },
+   {
+      "Description":"You find a long-abandoned cabin, with no signs of recent dwellers. Perhaps you can find something useful among all the rubbish.",
+      "Type":"Travel",
+      "Difficulty":"Positive",
+      "Links":""
+   },
+   {
+      "Description":"The party walks upon a nest of the rare bird. It's eggs would be worth quite a sum, but their mother does whatever she can to scare adventurers away.",
+      "Type":"Travel",
+      "Difficulty":"Easy",
+      "Links":"https://roll20.net/compendium/dnd5e/Raven#content"
+   },
+   {
+      "Description":"A stag stares unblinking at the party but vanishes if they try to follow it.",
+      "Type":"Both",
+      "Difficulty":"Non-Combat",
+      "Links":""
+   },
+   {
+      "Description":"A row of brambles have grown up across the path, there is a narrow gap that small animals have been using but it is far too small for the players.",
+      "Type":"Travel",
+      "Difficulty":"Non-Combat",
+      "Links":""
+   },
+   {
+      "Description":"There are some extra large crickets in this field for some reason. They rub up against your shins as you pass through the grasses.",
+      "Type":"Travel",
+      "Difficulty":"Non-Combat",
+      "Links":""
+   },
+   {
+      "Description":"The party stumbles upon a small patch of unusual mushrooms. They are unable to identify them unless they roll a natural 20 intelligence. If the party eat them, they trip hard for 12 hours. Any character who eats them may have one of the following temporary (for one adventure) effects (d6) when they come to: 1 they're blue, 2 they have forgotten Common, but are now fluent in another language, 3 they are nonviolent, 4 they are insatiably hungry/thirsty, 5 they feel horrific and are deeply depressed, 6 they feel great, they have seen the light and can reroll any one dice in this adventure",
+      "Type":"Travel",
+      "Difficulty":"Medium",
+      "Links":""
+   },
+   {
+      "Description":"A tumbleweed passes by",
+      "Type":"Both",
+      "Difficulty":"Non-Combat",
+      "Links":""
+   },
+   {
+      "Description":"You heard loud cawing. A flock (murder) of crows watches you intently. As you continue on, they follow you, alerting the area to your passing with their caws",
+      "Type":"Travel",
+      "Difficulty":"Non-Combat",
+      "Links":""
+   },
+   {
+      "Description":"You encounter 2 owlbear cubs climbing a tree. Mother owlbear isn’t visible (yet). Intelligence or wisdom would lead a player to move on before she arrives",
+      "Type":"Travel",
+      "Difficulty":"Medium",
+      "Links":"https://roll20.net/compendium/dnd5e/Owlbear#content;https://roll20.net/compendium/dnd5e/Black%20Bear#content"
+   },
+   {
+      "Description":"An arrow pins a fresh wanted poster to a tree. The portrait on the poster looks vaguely similar to one of the party members, but relates to crimes committed in a city they’ve never been to before.",
+      "Type":"Travel",
+      "Difficulty":"Social",
+      "Links":""
+   },
+   {
+      "Description":"A parade of large ants stretch across the path ahead of the party, each carrying a gold coin in their mandibles. Following the line of ants backwards, the party find a split bag of gold coins stashed underneath a weather-beaten log.",
+      "Type":"Travel",
+      "Difficulty":"Positive",
+      "Links":""
+   },
+   {
+      "Description":"A Druid approaches you. They sell multiple types of mushrooms",
+      "Type":"Travel",
+      "Difficulty":"Social",
+      "Links":"https://www.reddit.com/r/DnD/comments/hy933t/art_majilis_the_mushroom_merchant/"
+   },
+   {
+      "Description":"You heard some rumbling noises, if the party investigates, there are two dangerous wild animal fighting they don’t pay attention to the group.",
+      "Type":"Travel",
+      "Difficulty":"Medium",
+      "Links":""
+   },
+   {
+      "Description":"The path you are on goes down and then up the side of a fifteen foot stream ravine. The soil is very slippery however. Make Acrobatics or Athletics checks (DC 20) to avoid slipping and falling. (Party can gain advantage by lowering others down with a rope or by using walking stalves) (failure means 1d6 fall damage.) (Fail by more than 10 gets 2d6 fall damage)",
+      "Type":"Travel",
+      "Difficulty":"Easy",
+      "Links":""
+   },
+   {
+      "Description":"A strong wind suddenly blows, rustling the trees and causing many leaves to be dislodged from their branches. Any unsecured paper or hats may be blown off nearby, the party maybe will now have an easier time foraging for fallen fruit, and the roads will be a bit muddier for the rest of the day.",
+      "Type":"Travel",
+      "Difficulty":"Non-Combat",
+      "Links":""
+   },
+   {
+      "Description":"You find the remains of a wooden crate half destroyed on the side of the road, that looks like it fell out of a cart. Upon inspection you will find a few kegs of medium quality ale, and two miniature barrels of high quality fortified wine. There is a shopkeeper’s stamp on the crate from a nearby city, and the shopkeeper will be thankful if the party returns the wine. You can introduce an important NPC this way.",
+      "Type":"Travel",
+      "Difficulty":"Social",
+      "Links":""
+   },
+   {
+      "Description":"Roll a die for the amount of party members you have. Someone gets pooped on by a bird flying overhead.",
+      "Type":"Both",
+      "Difficulty":"Non-Combat",
+      "Links":""
+   },
+   {
+      "Description":"They are observed by multi-colored bees.",
+      "Type":"Both",
+      "Difficulty":"Non-Combat",
+      "Links":""
+   },
+   {
+      "Description":"The party comes upon an unusually large boulder in just off the path.",
+      "Type":"Travel",
+      "Difficulty":"Non-Combat",
+      "Links":""
+   },
+   {
+      "Description":"A group of vultures is circling high above the tree line. They appear to be slowly descending to the ground. The remains of a large deer can be found in a clearing under the circling carrion birds.",
+      "Type":"Travel",
+      "Difficulty":"Non-Combat",
+      "Links":""
+   },
+   {
+      "Description":"A Taryon Darrington is practicing firing a crossbow at a tree that has a freshly, hand-painted target. His aim is quite good.",
+      "Type":"Travel",
+      "Difficulty":"Social",
+      "Links":""
+   },
+   {
+      "Description":"As the party lights a campfire all of the trees in their immediate area shudder. With a perception check, the party will notices that all of the trees are leaning away from their camp.",
+      "Type":"Camp",
+      "Difficulty":"Non-Combat",
+      "Links":""
+   },
+   {
+      "Description":"The party hear giggling and hushed whispers nearby. Upon investigation the party will find a couple who seem to have entered the forest for a tryst.",
+      "Type":"Both",
+      "Difficulty":"Social",
+      "Links":""
+   },
+   {
+      "Description":"A horse and wagon tied to a tree. The horse is owned by a hunter that is out tracking a deer a couple miles away.",
+      "Type":"Travel",
+      "Difficulty":"Social",
+      "Links":""
+   },
+   {
+      "Description":"The party stumbles upon a druid mumbling to himself as he or she is mixing a potion at a small camp fire. Before the party can do anything the Druid accidentally spills the entire potion. They watch as the druid and the area around the small camp slowly gets turned into a massive tree reaching well over the forest.",
+      "Type":"Travel",
+      "Difficulty":"Social",
+      "Links":""
+   },
+   {
+      "Description":"They come upon a wide stream a few feet deep. water rushes past. a fallen tree lays across resting on the banks. a successful DEX check to cross without falling in. If failed they fall into the water a successful perception check and they catch a glimpse of something shiny they kicked up as they fell in- 1 platinum piece",
+      "Type":"Travel",
+      "Difficulty":"Positive",
+      "Links":""
+   },
+   {
+      "Description":"A small water trough being filled by a spring. Various animals come to drink from it throughout the day and night.",
+      "Type":"Travel",
+      "Difficulty":"Non-Combat",
+      "Links":""
+   },
+   {
+      "Description":"One member of the party runs into something invisible. A tree! If climbed they can find two invisible fruits with a successful investigation check. If eaten the member becomes invisible for 1 hour. Once picked you have a week before the fruit goes bad.",
+      "Type":"Travel",
+      "Difficulty":"Positive",
+      "Links":""
+   },
+   {
+      "Description":"A large turtle with a blue-gray shell with lightning-like patterns on it. If detected, the turtle has a faint aura of storm (air+lightning) magic. 1d4×3 minutes after encountering the turtle, it begins to thunder. With enough time, it's able to be found out that the turtle's aura and shell can predict the weather.",
+      "Type":"Travel",
+      "Difficulty":"Non-Combat",
+      "Links":""
+   },
+   {
+      "Description":"A badger has decided to sleep with the party. It will be hostile upon waking up.",
+      "Type":"Camp",
+      "Difficulty":"Easy",
+      "Links":"https://roll20.net/compendium/dnd5e/Badger#content"
+   },
+   {
+      "Description":"The party is ambushed by 5 Direwolves",
+      "Type":"Both",
+      "Difficulty":"Hard",
+      "Links":"https://roll20.net/compendium/dnd5e/Dire%20Wolf#content"
+   },
+   {
+      "Description":"The party stumbles upon and Earth Elemental",
+      "Type":"Travel",
+      "Difficulty":"Medium",
+      "Links":"https://roll20.net/compendium/dnd5e/Earth%20Elemental#content"
+   },
+   {
+      "Description":"The party sees an abandoned village in the woods. If they engage with the village, they are ambushed by 6 Giant Spiders",
+      "Type":"Travel",
+      "Difficulty":"Dangerous",
+      "Links":"https://roll20.net/compendium/dnd5e/Giant%20Spider#content"
+   },
+   {
+      "Description":"A party of Gnolls has been driven from a nearby cave and attacks the party. (3x Gnoll, 1x Gnoll Pack Lord, 2x Gnoll Hunter)",
+      "Type":"Both",
+      "Difficulty":"Hard",
+      "Links":"https://roll20.net/compendium/dnd5e/Gnoll#content;https://www.aidedd.org/dnd/monstres.php?vo=gnoll-pack-lord;https://www.aidedd.org/dnd/monstres.php?vo=gnoll-hunter"
+   },
+   {
+      "Description":"A party of Goblins has been driven from a nearby cave and attacks the party (6x Goblin, 1x Goblin Boss)",
+      "Type":"Travel",
+      "Difficulty":"Medium",
+      "Links":"https://roll20.net/compendium/dnd5e/Goblin#content;https://www.dndbeyond.com/monsters/5195047-goblin-boss"
+   },
+   {
+      "Description":"The party comes across the site of a massacre that happened a few weeks ago. There are rotting limbs, dozens of crows, and lots of dried and coagulated blood. Whoever or whatever caused this massacre is long-gone, but there are two Redcaps who have sprouted up from the carnage.",
+      "Type":"Travel",
+      "Difficulty":"Hard",
+      "Links":"https://i.imgur.com/Wv1ohJf.png"
+   },
+   {
+      "Description":"The party comes across a small abandoned home. It’s falling into disarray and appears to have been abandoned for a long time. Across the overgrown yard from the home is a small, family graveyard. Pacing within the graveyard is a Revenant.",
+      "Type":"Travel",
+      "Difficulty":"Medium",
+      "Links":"https://www.dndbeyond.com/sources/dnd/mm-2014/monsters-r#Revenant"
+   },
+   {
+      "Description":"The party can hear the footsteps and cracking trees before they can see the creature. A Venom Troll bursts from the woods and attacks the party.",
+      "Type":"Both",
+      "Difficulty":"Dangerous",
+      "Links":"https://5ecompendium.github.io/bestiary/creature/venom-troll"
+   }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "SpellName": "Blindness/Deafness (Blind)",
+    "ConditionName": "Blinded",
+    "Description": "",
+    "Tag": "2nd-level Necromancy",
+
+    "IsConcentration": false,
+
+    "DurationRounds": 10,
+    "DurationTrigger": "EndOfCasterTurn",
+    "DurationExpiry": "NumberOfRounds",
+
+    "SaveAbility": "CON",
+    "SaveTiming": "EndOfTargetTurn",
+    "SaveSuccessRemoves": true,
+    "SaveNote": "On a success the target is no longer blinded.",
+
+    "EndNote": ""
+  },
+  {
+    "SpellName": "Blindness/Deafness (Deaf)",
+    "ConditionName": "Deafened",
+    "Description": "",
+    "Tag": "2nd-level Necromancy",
+
+    "IsConcentration": false,
+
+    "DurationRounds": 10,
+    "DurationTrigger": "EndOfCasterTurn",
+    "DurationExpiry": "NumberOfRounds",
+
+    "SaveAbility": "CON",
+    "SaveTiming": "EndOfTargetTurn",
+    "SaveSuccessRemoves": true,
+    "SaveNote": "On a success the target is no longer blinded.",
+
+    "EndNote": ""
+  },
+  {
+    "SpellName": "Booming Blade",
+    "ConditionName": "Booming Blade",
+    "Description": "If the target willingly moves 5 feet or more before then, the target takes 1d8 thunder damage, and the spell ends.",
+    "Tag": "Evocation Cantrip",
+
+    "IsConcentration": false,
+
+    "DurationRounds": 1,
+    "DurationTrigger": "StartOfCasterTurn",
+    "DurationExpiry": "NumberOfRounds",
+
+    "SaveAbility": null,
+    "SaveTiming": "EndOfTargetTurn",
+    "SaveSuccessRemoves": true,
+    "SaveNote": "On a success the target is no longer blinded.",
+
+    "EndNote": ""
+  },
+  {
+    "SpellName": "Ray of Frost",
+    "ConditionName": "Ray of Frost",
+    "Description": "The target's speed is reduced by 10 feet until the start of your next turn.",
+    "Tag": "Evocation Cantrip",
+
+    "IsConcentration": false,
+
+    "DurationRounds": 1,
+    "DurationTrigger": "StartOfCasterTurn",
+    "DurationExpiry": "NumberOfRounds",
+
+    "SaveAbility": null,
+    "SaveTiming": "EndOfTargetTurn",
+    "SaveSuccessRemoves": true,
+    "SaveNote": "On a success the target is no longer blinded.",
+
+    "EndNote": ""
+  }
+]

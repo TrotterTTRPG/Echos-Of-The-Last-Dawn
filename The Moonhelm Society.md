@@ -1,0 +1,2 @@
+They are derived from [[The Moonhelm Family]] in [[Velrosk]]. They are part criminal organization and part humanitarian organization.
+They help those in need, and train them to help their cause. They see themselves as a force of good, but they don't always do good. Like any other organization - there are less than favorable people doing bad things. [[Faris Harith]] fell out of love with the lifestyle, but still held the principles of doing good for those in need at heart.

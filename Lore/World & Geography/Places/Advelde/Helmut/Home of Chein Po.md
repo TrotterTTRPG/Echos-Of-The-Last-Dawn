@@ -1,0 +1,2 @@
+- Burned down by Mother Drake
+- Was the Northernmost residence outside of the main marketplace in [[Helmut]] - 1 days journey

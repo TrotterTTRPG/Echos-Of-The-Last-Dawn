@@ -1,0 +1,2 @@
+Old Firbolg Druid
+[[Aulberos Lightmind]] met in [[The Cradle of Thorns]] as part of [[The Stonebloom Enclave]]. They trained together and worked alone side each other for many years. Aulberos tried to convince Aelan to leave with him but he decided to stay in the enclave and is now a member of the ruling council. They have not seen each other for a very long time.
