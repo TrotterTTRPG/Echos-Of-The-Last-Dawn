@@ -81,3 +81,9 @@ They describe Chad with a mix of disbelief and resentment:
 - [[Velagrys Faro]] - "She attends nearly every one of his shifts."
 - [[Aranemin Zylris]] - "She watches *everyone* like they're about to steal him. Which - honestly - no one is trying to do."
 - [[Ereykos Phirona]] - "It creates a ... distracting work environment."
+
+---
+
+## Gossip to Share
+
+During the conversation, Aelar's companions casually mention they've spotted [[Seressa Varn]] at the [[Iron Tankard]], a rowdier tavern in the [[Bronze District]]. She's been seen there for the past couple of nights, apparently in higher spirits than usual. The three exchange knowing glances—they find it curious that someone of her apparent stature frequents such a rough establishment, and they're eager to share this tidbit with the party, perhaps fishing for information about what might have drawn her there.
