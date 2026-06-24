@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b141740fe1ee56bb",
+            "id": "20ec6281c932ff85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session Notes/005/Outline.md",
+                "file": "Sessions/Session Notes/006/Outline.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,33 +22,63 @@
             }
           },
           {
-            "id": "441cfe53495258e2",
+            "id": "949f63acec9eda55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session Notes/007.md",
+                "file": "NPCs/Up For Grabs/High Captain Durel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "007"
+              "title": "High Captain Durel"
             }
           },
           {
-            "id": "310f7e899d7ea155",
+            "id": "d77870c3c66eb313",
             "type": "leaf",
             "state": {
-              "type": "json",
+              "type": "markdown",
               "state": {
-                "file": "Data/JSON/Characters.json"
+                "file": "Sessions/Potential Events/Aelar's Companions Make a Bargain.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Characters"
+              "title": "Aelar's Companions Make a Bargain"
+            }
+          },
+          {
+            "id": "a1da214441208861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/Thalyric Crown Bank.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thalyric Crown Bank"
+            }
+          },
+          {
+            "id": "abf340ed150900e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Potential Events/Savone gets information to Chein Po.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Savone gets information to Chein Po"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 274.5
   },
   "right": {
     "id": "1760dc69085ef64c",
@@ -197,27 +227,29 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "441cfe53495258e2",
+  "active": "a1da214441208861",
   "lastOpenFiles": [
-    "Ideas/Encounter Ideas/Random Song Driven Stories.md",
-    "Sessions/Session Notes/007.md",
-    "Sessions/Session Notes/006/Outline.md",
-    "Rules/Item Scarcity.md",
+    "Brek Ironmantle.md",
+    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/Thalyric Crown Bank.md",
+    "Cassel Vorne.md",
+    "Seravael Dawnmere.md",
+    "Dorak Ashfen.md",
+    "Milla Twocopper.md",
+    "Edran Voss.md",
+    "NPCs/Chad Braxton.md",
+    "NPCs/Edran Braxton.md",
+    "NPCs/Dr. Brikk Thricewright.md",
+    "NPCs/Caelen Quickfrost.md",
+    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/The Crown Building.md",
     "Sessions/Potential Events/Destroy the Hookmaw Egg Nest.md",
-    "Rules/Item Scarcity.md.tmp.15164.9efc6da825d0",
+    "NPCs/Up For Grabs/High Captain Durel.md",
+    "Sessions/Session Notes/006/Outline.md",
     "Sessions/Potential Events/Savone gets information to Chein Po.md",
-    "NPCs/Lilac of the Valley.md",
-    "Data/JSON/Characters.json",
-    "Sessions/Potential Events/Random/Family Heirloom.md",
-    "Rules/Monster Lore in Combat.md",
-    "Rules/Item Prices.md",
-    "Sessions/Potential Events/Untitled.md",
-    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/Hall of Metamagic and Theory.md",
     "Sessions/Potential Events/Aelar's Companions Make a Bargain.md",
-    "NPCs/Up For Grabs/Haldor Kneebread.md",
-    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Bronze District/Hearth and Crust.md",
-    "NPCs/Up For Grabs/Marin Saltwick.md",
-    "NPCs/Up For Grabs/Maren Fallow.md",
+    "Rules/Item Scarcity.md",
+    "Data/JSON/Characters.json",
+    "Sessions/Potential Events/Aelar's Companions Make a Bargain.md.tmp.31476.287faabd3892",
+    "Sessions/Potential Events/Drinks with Seressa Varn.md",
     "NPCs/Tracy.md",
     "NPCs/Tracy.md.tmp.19444.e1d11d619282",
     "NPCs/Tracy.md.tmp.19444.481904ec80af",
@@ -227,14 +259,12 @@
     "NPCs/Tracy.md.tmp.19444.9f46540b5df6",
     "NPCs/Tracy.md.tmp.19444.16b018f1d09e",
     "NPCs/Tracy.md.tmp.19444.1c04087d64c7",
-    "NPCs/Chad Braxton.md",
     "NPCs/Velagrys Faro.md",
     "Sessions/Session Notes/006/Notes.md",
     "Sessions/Session Notes/005/Outline.md",
     "Sessions/Session Notes/005/Notes.md",
     "Sessions/Session Notes/003/Notes.md",
     "Sessions/Session Notes/004/Notes.md",
-    "Sessions/Session Notes/004/Character Sheet Notes.md",
     "Data/Images/Pasted image 20260207105807.png",
     "Data/Images/Sewer Cleaner.png",
     "Data/Images/Sewer Cleaner Stats Only.png",
