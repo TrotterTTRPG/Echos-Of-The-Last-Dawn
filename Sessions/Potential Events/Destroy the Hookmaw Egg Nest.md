@@ -6,13 +6,13 @@
 
 **The Objective:**
 - There are 5 nests - each within an adjoining chamber.
-- The group was given 6 alchemical demolition charges from the city
+- The group was given 10 alchemical demolition charges from the city
 - Each charge requires:
 	- An action to plant
 	- A DC 13 Arcana or Investigation (Intelligence) check to secure it quietly
 		- Failure: **1 chamber noise token**
 		- Failure by 5 or more: **1 Noise token**
-- Once the first charge is planted, they have 3 minutes to escape.
+- Once the first charge is planted, they have 90 seconds () to escape.
 
 ![[HighCaptainDurel.png]]
 
@@ -31,14 +31,6 @@
 	- Loud spellcasting
 	- Dropping debris
 	- Critical failure on a check
-
-		Nest A
-          |
-Nest B — Main Chamber — Nest C
-              |
-           Nest D
-              |
-           Nest E
 
 **Nest A - Fragile Egg Cluster**
 - Eggs are stacked precariously

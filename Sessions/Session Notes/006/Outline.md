@@ -4,6 +4,7 @@
 - Finish Dungeon [[High Captain Durel]]
 - [[Destroy the Hookmaw Egg Nest]]
 - [[Aelar's Companions Make a Bargain]]
+- [[Savone gets information to Chein Po]]
 
 ## Encounters
 

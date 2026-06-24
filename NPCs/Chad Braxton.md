@@ -4,7 +4,7 @@
 - **Class:** Wizard (Order of the Scribes)
 - **Age:** Mid-20s
 - **Occupation:** Staff member at [[Hall of Metamagic and Theory]] (Gold District, [[Thalyra]])
-- **Family:** Powerful, wealthy parents in [[Thalyra]]; family has significant political/financial influence
+- **Family:** Powerful, wealthy parents in [[Thalyra]]; family has significant political/financial influence; Son of [[Edran Braxton]]
 
 **Appearance**
 - Red hair; perpetually sunburnt (always just back from vacation)
@@ -37,10 +37,3 @@
 - [[Aranemin Zylris]] sarcastically observes she "watches *everyone* like they're about to steal him"
 - [[Ereykos Phirona]] finds the situation "distracting to the work environment"
 - Chad seems largely oblivious to or indifferent toward her attention
-
-**Potential Hooks**
-- Does Chad have actual magical talent, or does he rely entirely on family money and connections?
-- What happens when his family's influence can't protect him from real consequences?
-- Could Tracy's obsession become a plot point or complication?
-- Is Chad aware that people resent him, or is he genuinely oblivious?
-- Could the party encounter Chad trying to delegate a dangerous task?

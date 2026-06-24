@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b141740fe1ee56bb",
+            "id": "20ec6281c932ff85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session Notes/005/Outline.md",
+                "file": "Sessions/Session Notes/006/Outline.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,61 +22,49 @@
             }
           },
           {
-            "id": "441cfe53495258e2",
+            "id": "949f63acec9eda55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Potential Events/Destroy the Hookmaw Egg Nest.md",
+                "file": "NPCs/Up For Grabs/High Captain Durel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Destroy the Hookmaw Egg Nest"
+              "title": "High Captain Durel"
             }
           },
           {
-            "id": "3c0f0c7bb742f583",
+            "id": "d77870c3c66eb313",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Potential Events/Random/Family Heirloom.md",
+                "file": "Sessions/Potential Events/Aelar's Companions Make a Bargain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Family Heirloom"
+              "title": "Aelar's Companions Make a Bargain"
             }
           },
           {
-            "id": "7c1fddd8df5b4759",
+            "id": "a1da214441208861",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Monster Lore in Combat.md",
+                "file": "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/Thalyric Crown Bank.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monster Lore in Combat"
+              "title": "Thalyric Crown Bank"
             }
           },
           {
-            "id": "310f7e899d7ea155",
-            "type": "leaf",
-            "state": {
-              "type": "json",
-              "state": {
-                "file": "Data/JSON/Characters.json"
-              },
-              "icon": "lucide-ghost",
-              "title": "json"
-            }
-          },
-          {
-            "id": "20ec6281c932ff85",
+            "id": "abf340ed150900e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 274.5
   },
   "right": {
     "id": "1760dc69085ef64c",
@@ -239,8 +227,29 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "20ec6281c932ff85",
+  "active": "a1da214441208861",
   "lastOpenFiles": [
+    "Brek Ironmantle.md",
+    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/Thalyric Crown Bank.md",
+    "Cassel Vorne.md",
+    "Seravael Dawnmere.md",
+    "Dorak Ashfen.md",
+    "Milla Twocopper.md",
+    "Edran Voss.md",
+    "NPCs/Chad Braxton.md",
+    "NPCs/Edran Braxton.md",
+    "NPCs/Dr. Brikk Thricewright.md",
+    "NPCs/Caelen Quickfrost.md",
+    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/The Crown Building.md",
+    "Sessions/Potential Events/Destroy the Hookmaw Egg Nest.md",
+    "NPCs/Up For Grabs/High Captain Durel.md",
+    "Sessions/Session Notes/006/Outline.md",
+    "Sessions/Potential Events/Savone gets information to Chein Po.md",
+    "Sessions/Potential Events/Aelar's Companions Make a Bargain.md",
+    "Rules/Item Scarcity.md",
+    "Data/JSON/Characters.json",
+    "Sessions/Potential Events/Aelar's Companions Make a Bargain.md.tmp.31476.287faabd3892",
+    "Sessions/Potential Events/Drinks with Seressa Varn.md",
     "NPCs/Tracy.md",
     "NPCs/Tracy.md.tmp.19444.e1d11d619282",
     "NPCs/Tracy.md.tmp.19444.481904ec80af",
@@ -250,37 +259,17 @@
     "NPCs/Tracy.md.tmp.19444.9f46540b5df6",
     "NPCs/Tracy.md.tmp.19444.16b018f1d09e",
     "NPCs/Tracy.md.tmp.19444.1c04087d64c7",
-    "NPCs/Tracy.md.tmp.19444.5c7f641da578",
-    "NPCs/Tracy.md.tmp.19444.b3bfe705e72e",
-    "NPCs/Chad Braxton.md",
-    "Sessions/Potential Events/Aelar's Companions Make a Bargain.md",
     "NPCs/Velagrys Faro.md",
-    "Sessions/Session Notes/006/Outline.md",
-    "Sessions/Potential Events/Destroy the Hookmaw Egg Nest.md",
     "Sessions/Session Notes/006/Notes.md",
     "Sessions/Session Notes/005/Outline.md",
     "Sessions/Session Notes/005/Notes.md",
     "Sessions/Session Notes/003/Notes.md",
     "Sessions/Session Notes/004/Notes.md",
-    "Sessions/Potential Events/Random/Family Heirloom.md",
-    "Rules/Monster Lore in Combat.md",
-    "Sessions/Session Notes/004/Character Sheet Notes.md",
-    "Sessions/Session Notes/004/Outline.md",
-    "Rules/Homebrew Rules.md",
-    "NPCs/Up For Grabs/High Captain Durel.md",
-    "Sessions/Completed Events/Aelar's Companions Come and Talk.md",
-    "Sessions/Completed Events/Tour of the Hall of Arcane Acuity.md",
     "Data/Images/Pasted image 20260207105807.png",
     "Data/Images/Sewer Cleaner.png",
     "Data/Images/Sewer Cleaner Stats Only.png",
     "Data/Images/HighCaptainDurel.png",
-    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/Hall of Metamagic and Theory.md",
-    "Data/JSON/MonsterInitiative/Untitled.md",
     "Lore/World & Geography/Maps/Advelde Map Current.png",
-    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/Vellorian Prime.md",
-    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/The Sun-Drenched Spring.md",
-    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Silver District/The Silver Quill.md",
-    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Silver District/The Wandering Line.md",
     "Data/Images/high captain durel (support commander npc).png",
     "Lore/World & Geography/Maps/Advelde Map Current 1.png",
     "Lore/World & Geography/Maps/Advelde Map Current 1 1.png",
