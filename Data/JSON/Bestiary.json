@@ -61,7 +61,7 @@
   },
   {
     "Id": "4303e588-81e3-48b5-8a48-80723d504c78",
-    "Show": false,
+    "Show": true,
     "Name": "Death Dog",
     "ImageUrl": "",
     "Size": "Medium",

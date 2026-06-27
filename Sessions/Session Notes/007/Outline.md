@@ -38,5 +38,5 @@ Potential Events
 - [[Aelar's Companions Make a Bargain]]
 - [[Savone gets information to Chein Po]]
 - [[Drinks with Seressa Varn]]
-
-
+- [[Bank Account Creation]]
+- https://itemprices.ryex.uk/?i=1

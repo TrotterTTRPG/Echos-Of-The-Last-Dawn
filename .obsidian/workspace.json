@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d0ff6f86946b871",
+        "id": "856adda843eda310",
         "type": "tabs",
         "children": [
           {
-            "id": "20ec6281c932ff85",
+            "id": "55e2b2b217773ac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session Notes/006/Outline.md",
+                "file": "Sessions/Session Notes/007/Outline.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,119 +22,49 @@
             }
           },
           {
-            "id": "949f63acec9eda55",
+            "id": "f8586da675f7dbd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Up For Grabs/High Captain Durel.md",
+                "file": "Sessions/Session Notes/007/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "High Captain Durel"
+              "title": "Notes"
             }
           },
           {
-            "id": "d77870c3c66eb313",
+            "id": "ba62893fa271fd5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Potential Events/Aelar's Companions Make a Bargain.md",
+                "file": "Sessions/Potential Events/Conditions Of His Parole.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aelar's Companions Make a Bargain"
+              "title": "Conditions Of His Parole"
             }
           },
           {
-            "id": "a1da214441208861",
+            "id": "34b301170cf99ff3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/Thalyric Crown Bank.md",
+                "file": "NPCs/Mella.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thalyric Crown Bank"
-            }
-          },
-          {
-            "id": "3b986b3067b33eba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Brek Ironmantle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brek Ironmantle"
-            }
-          },
-          {
-            "id": "89b1356b77928b4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Potential Events/Escort Mission.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Escort Mission"
-            }
-          },
-          {
-            "id": "a1336243faba5acd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tomas Brindle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tomas Brindle"
-            }
-          },
-          {
-            "id": "32c1af3394dc1ecc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Sela Brindle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sela Brindle"
-            }
-          },
-          {
-            "id": "abf340ed150900e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Potential Events/Savone gets information to Chein Po.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Savone gets information to Chein Po"
+              "title": "Mella"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 200
   },
   "right": {
     "id": "1760dc69085ef64c",
@@ -207,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Potential Events/Escort Mission.md",
+                "file": "NPCs/Mella.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Escort Mission"
+              "title": "Backlinks for Mella"
             }
           },
           {
@@ -255,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Potential Events/Escort Mission.md",
+                "file": "NPCs/Mella.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Escort Mission"
+              "title": "Outline of Mella"
             }
           },
           {
@@ -295,9 +225,87 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "fb89216f122edfa0",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_bb1a79288a0a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 8,
+                    "month": 1,
+                    "year": 3463
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_782a7af869bb"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "e62fddb71f1e551d",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_bb1a79288a0a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 8,
+                    "month": 1,
+                    "year": 3463
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_2849f87be8a8"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "f09578d53ffd5b30",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_bb1a79288a0a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 8,
+                    "month": 1,
+                    "year": 3463
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_fa28fb48ba3a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       },
       {
         "id": "32b938844879f08e",
@@ -321,7 +329,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -335,36 +344,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "89b1356b77928b4b",
+  "active": "34b301170cf99ff3",
   "lastOpenFiles": [
-    "NPCs/Henry the Horse.md",
-    "Sessions/Completed Events/Livestock Disappearing.md",
-    "Sessions/Session Notes/002/Notes.md",
-    "Sessions/Potential Events/Escort Mission.md",
-    "Sessions/Potential Events/Drinks with Seressa Varn.md",
-    "NPCs/Reginald Tharvayne.md",
-    "NPCs/Up For Grabs/High Captain Durel.md",
-    "Sessions/Completed Events/Aelar's Companions Come and Talk.md",
-    "Tomas Brindle.md",
-    "NPCs/Sela Brindle.md",
-    "Sessions/Potential Events/Escort Mission.md.tmp.54628.7d0011989759",
-    "Sessions/Session Notes/001/Notes.md",
-    "Sessions/Completed Events/Sewer Cleaner Gone Mad.md",
-    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Just Outside of Thalyra/The Thalyran Stud.md",
-    "Lore/Celestial Bodies/Umbrya.md",
-    "Sessions/Session Notes/007/Outline.md",
-    "Sessions/Session Notes/007/007.md",
-    "Sessions/Session Notes/007/Notes.md",
-    "Sessions/Session Notes/007",
-    "Sessions/Potential Events/Conditions Of His Parole.md",
-    "Sessions/Completed Events/Destroy the Hookmaw Egg Nest.md",
-    "NPCs/Up For Grabs/Marin Saltwick.md",
+    "Rules/Monster Lore in Combat.md",
     "NPCs/Mella.md",
-    "NPCs/Corwin Sallow.md",
-    "Lore/The Cycle/The Loveslain.md",
-    "Ideas/Encounter Ideas/Random Song Driven Stories.md",
-    "Lore/Celestial Bodies/Selara.md",
+    "Sessions/Potential Events/Conditions Of His Parole.md",
+    "Sessions/Session Notes/007/Notes.md",
+    "Sessions/Session Notes/007/Outline.md",
+    "Lore/World & Geography/Time Related/Seasons.md",
+    "Lore/World & Geography/Time Related/Months.md",
+    "Lore/World & Geography/Time Related/Days of the Week.md",
+    "Rules/Item Scarcity.md",
     "Sessions/Potential Events/Savone gets information to Chein Po.md",
+    "NPCs/Brek Ironmantle.md",
+    "NPCs/Seravael Dawnmere.md",
+    "Rules/Thalyran Banking Rules.md",
+    "Sessions/Potential Events/Bank Account Creation.md",
+    "NPCs/Chad Braxton.md",
+    "NPCs/Tracy.md",
+    "Rules/Upgrades/Weapon Upgrades.md",
+    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/__index__.md",
+    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Bronze District/__index__.md",
+    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Silver District/__index__.md",
+    "Lore/World & Geography/Places/Verda.md",
+    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/Hall of Metamagic and Theory.md",
+    "Sessions/Potential Events/Drinks with Seressa Varn.md",
+    "NPCs/Captain Seressa Varn.md",
+    "Sessions/Potential Events/Aelar's Companions Make a Bargain.md",
+    "Rules/Item Prices.md",
+    "Sessions/Potential Events/Escort Mission.md.tmp.54628.7d0011989759",
+    "Sessions/Session Notes/007",
     "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/Thalyric Crown Bank Account Application.md.tmp.17548.68c27da46d88",
     "Sessions/Potential Events/Bank Account Creation.md.tmp.17548.46e42415677f",
     "Data/JSON/Characters.json",

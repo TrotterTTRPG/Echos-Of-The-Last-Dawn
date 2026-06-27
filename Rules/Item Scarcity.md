@@ -2,11 +2,11 @@ When players go shopping, not every item is guaranteed to be available. Scarcity
 
 Thalyra:
 
-| Rarity    | Availability |
-| --------- | ------------ |
-| Common    | 100%         |
-| Uncommon  | 66%          |
-| Rare      | 33%          |
-| Very Rare | 10%          |
-| Legendary | 5%           |
-| Artifact  | Unique       |
+| Rarity    | Availability | Dice to Roll |
+| --------- | ------------ | ------------ |
+| Common    | 100%         | N/A          |
+| Uncommon  | 66%          | 33+ on d100  |
+| Rare      | 33%          | 66+ on d100  |
+| Very Rare | 10%          | 90+ on d100  |
+| Legendary | 5%           | 95+ on d100  |
+| Artifact  | Unique       | N/A          |

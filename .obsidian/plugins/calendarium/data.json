@@ -561,6 +561,91 @@
             "order": ""
           },
           "type": "Date"
+        },
+        {
+          "name": "Aelar's Companions Make a Bargain",
+          "description": null,
+          "date": {
+            "day": 7,
+            "month": 1,
+            "year": 3463
+          },
+          "id": "ID_19998af8c978",
+          "note": "Sessions/Potential Events/Aelar's Companions Make a Bargain.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Drinks with Seressa Varn",
+          "description": null,
+          "date": {
+            "day": 7,
+            "month": 1,
+            "year": 3463
+          },
+          "id": "ID_28e87ad9cbaa",
+          "note": "Sessions/Potential Events/Drinks with Seressa Varn.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Savone gets information to Chein Po",
+          "description": null,
+          "date": {
+            "day": 8,
+            "month": 1,
+            "year": 3463
+          },
+          "id": "ID_fabbcab8fb3b",
+          "note": "Sessions/Potential Events/Savone gets information to Chein Po.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Bank Account Creation",
+          "description": null,
+          "date": {
+            "day": 8,
+            "month": 1,
+            "year": 3463
+          },
+          "id": "ID_0a991bfbf829",
+          "note": "Sessions/Potential Events/Bank Account Creation.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Conditions Of His Parole",
+          "description": null,
+          "date": {
+            "day": 8,
+            "month": 1,
+            "year": 3463
+          },
+          "id": "ID_09f938fafb59",
+          "note": "Sessions/Potential Events/Conditions Of His Parole.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "id": "ID_bb1a79288a0a",
