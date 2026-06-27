@@ -4,11 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "856adda843eda310",
+        "id": "2d0ff6f86946b871",
         "type": "tabs",
         "children": [
           {
-            "id": "55e2b2b217773ac1",
+            "id": "b141740fe1ee56bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session Notes/005/Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "441cfe53495258e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session Notes/006/Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "310f7e899d7ea155",
+            "type": "leaf",
+            "state": {
+              "type": "json",
+              "state": {
+                "file": "Data/JSON/Characters.json"
+              },
+              "icon": "lucide-file",
+              "title": "Characters"
+            }
+          },
+          {
+            "id": "e2759a935277a4fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +62,7 @@
             }
           },
           {
-            "id": "f8586da675f7dbd1",
+            "id": "8e37868ba7c05ae7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,31 +76,17 @@
             }
           },
           {
-            "id": "ba62893fa271fd5b",
+            "id": "3e23e26570084114",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Potential Events/Conditions Of His Parole.md",
+                "file": "Lore/Celestial Bodies/Selara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conditions Of His Parole"
-            }
-          },
-          {
-            "id": "34b301170cf99ff3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Mella.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mella"
+              "title": "Selara"
             }
           }
         ],
@@ -121,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 332.5
   },
   "right": {
     "id": "1760dc69085ef64c",
@@ -130,6 +156,7 @@
       {
         "id": "20107cac4b2ddc27",
         "type": "tabs",
+        "dimension": 85.63218390804597,
         "children": [
           {
             "id": "8e3112f4acfd1af8",
@@ -137,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Mella.md",
+                "file": "Sessions/Potential Events/Aelar's Companions Come and Talk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mella"
+              "title": "Backlinks for Aelar's Companions Come and Talk"
             }
           },
           {
@@ -185,17 +212,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Mella.md",
+                "file": "Sessions/Potential Events/Aelar's Companions Come and Talk.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mella"
+              "title": "Outline of Aelar's Companions Come and Talk"
             }
           },
           {
-            "id": "8cb6b18579da3997",
+            "id": "51e8f84115308f3b",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
@@ -219,107 +246,30 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_0ba9e8186a98",
-                "child": "ID_19a9795ac8db"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "fb89216f122edfa0",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_bb1a79288a0a",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 8,
-                    "month": 1,
-                    "year": 3463
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_782a7af869bb"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "e62fddb71f1e551d",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_bb1a79288a0a",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 8,
-                    "month": 1,
-                    "year": 3463
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_2849f87be8a8"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "f09578d53ffd5b30",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_bb1a79288a0a",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 8,
-                    "month": 1,
-                    "year": 3463
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_fa28fb48ba3a"
+                "id": "ID_3b49ca8a5aa8",
+                "child": "ID_6b49393b0848"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       },
       {
-        "id": "32b938844879f08e",
+        "id": "8998c25f55859a29",
         "type": "tabs",
+        "dimension": 14.367816091954023,
         "children": [
           {
-            "id": "8ebb6a920810d940",
+            "id": "2e46818bcff82fc0",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_bb1a79288a0a",
-                "id": "ID_19a9795ac8db",
-                "parent": "ID_0ba9e8186a98"
+                "id": "ID_6b49393b0848",
+                "parent": "ID_3b49ca8a5aa8"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -329,8 +279,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -344,44 +293,46 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "34b301170cf99ff3",
+  "active": "e2759a935277a4fa",
   "lastOpenFiles": [
-    "Rules/Monster Lore in Combat.md",
-    "NPCs/Mella.md",
-    "Sessions/Potential Events/Conditions Of His Parole.md",
-    "Sessions/Session Notes/007/Notes.md",
+    "NPCs/Henry the Horse.md",
+    "NPCs/Caleb Whitmere.md",
+    "Sessions/Completed Events/Livestock Disappearing.md",
+    "NPCs/Captain Seressa Varn.md",
+    "NPCs/Captain Seressa Varn.md.tmp.18924.e32ed2813601",
+    "Sessions/Potential Events/Drinks with Seressa Varn.md",
     "Sessions/Session Notes/007/Outline.md",
-    "Lore/World & Geography/Time Related/Seasons.md",
-    "Lore/World & Geography/Time Related/Months.md",
-    "Lore/World & Geography/Time Related/Days of the Week.md",
-    "Rules/Item Scarcity.md",
-    "Sessions/Potential Events/Savone gets information to Chein Po.md",
-    "NPCs/Brek Ironmantle.md",
-    "NPCs/Seravael Dawnmere.md",
     "Rules/Thalyran Banking Rules.md",
     "Sessions/Potential Events/Bank Account Creation.md",
-    "NPCs/Chad Braxton.md",
-    "NPCs/Tracy.md",
-    "Rules/Upgrades/Weapon Upgrades.md",
-    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/__index__.md",
-    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Bronze District/__index__.md",
-    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Silver District/__index__.md",
-    "Lore/World & Geography/Places/Verda.md",
-    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/Hall of Metamagic and Theory.md",
-    "Sessions/Potential Events/Drinks with Seressa Varn.md",
-    "NPCs/Captain Seressa Varn.md",
-    "Sessions/Potential Events/Aelar's Companions Make a Bargain.md",
-    "Rules/Item Prices.md",
-    "Sessions/Potential Events/Escort Mission.md.tmp.54628.7d0011989759",
-    "Sessions/Session Notes/007",
-    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/Thalyric Crown Bank Account Application.md.tmp.17548.68c27da46d88",
-    "Sessions/Potential Events/Bank Account Creation.md.tmp.17548.46e42415677f",
-    "Data/JSON/Characters.json",
-    "Sessions/Potential Events/Aelar's Companions Make a Bargain.md.tmp.31476.287faabd3892",
-    "NPCs/Tracy.md.tmp.19444.e1d11d619282",
-    "NPCs/Tracy.md.tmp.19444.481904ec80af",
-    "NPCs/Tracy.md.tmp.19444.2444ab3d0fe9",
-    "NPCs/Tracy.md.tmp.19444.7715fb2834ac",
+    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Bronze District/The Iron Tankard.md",
+    "Sessions/Session Notes/007/Notes.md",
+    "Sessions/Session Notes/007/007.md",
+    "NPCs/Mella.md",
+    "Lore/The Cycle/The Loveslain.md",
+    "NPCs/Mella.md.tmp.30788.a6e22ffb81dd",
+    "NPCs/Mella.md.tmp.30788.97bda96262a9",
+    "Lore/The Cycle/The Loveslain.md.tmp.30788.1122fceaa118",
+    "Sessions/Potential Events/Conditions Of His Parole.md.tmp.30788.fd692baccefd",
+    "Sessions/Potential Events/Conditions Of His Parole.md.tmp.30788.33fdae429a06",
+    "NPCs/Mella.md.tmp.30788.bfecf1f54fa4",
+    "Sessions/Potential Events/Conditions Of His Parole.md.tmp.30788.938822d8ba03",
+    "Sessions/Potential Events/Conditions Of His Parole.md.tmp.30788.b7efef463a8b",
+    "NPCs/Corwin Sallow.md.tmp.30788.e578e9609c4a",
+    "NPCs/Corwin Sallow.md",
+    "Sessions/Potential Events/Conditions Of His Parole.md",
+    "Sessions/Potential Events/Conditions of his Parole.md",
+    "Sessions/Potential Events/tmp_rename.md",
+    "NPCs/Brek Ironmantle.md",
+    "Savone.md",
+    "Rules/Thalyric Crown Bank Account Application.md",
+    "NPCs/Seravael Dawnmere.md",
+    "NPCs/Milla Twocopper.md",
+    "NPCs/Edran Voss.md",
+    "NPCs/Dorak Ashfen.md",
+    "NPCs/Cassel Vorne.md",
+    "Lore/Celestial Bodies/Selara.md",
+    "Lore/World & Geography/Maps/Advelde_Paint_Dot_Net_big.png",
+    "Lore/World & Geography/Maps/Greater Thalyra.png",
     "Data/Images/Pasted image 20260207105807.png",
     "Data/Images/Sewer Cleaner.png",
     "Data/Images/Sewer Cleaner Stats Only.png",
@@ -390,8 +341,6 @@
     "Data/Images/high captain durel (support commander npc).png",
     "Lore/World & Geography/Maps/Advelde Map Current 1.png",
     "Lore/World & Geography/Maps/Advelde Map Current 1 1.png",
-    "Lore/World & Geography/Maps/Advelde_BaseMap.png",
-    "Lore/World & Geography/Maps/Greater Thalyra.png",
     "Untitled.canvas"
   ]
 }
