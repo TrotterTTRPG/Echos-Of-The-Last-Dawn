@@ -22,7 +22,7 @@ Return to [[Thalyra]]
   DC 19 : Any skill check you can use to notice a rare flower, and know that it's rare (Nature, Perception, Survival)
        Success : Spots a patch of [[Golden Thistle]] a very rare and coveted plant     
       
-  - By the time [[Thalyra]] is in sight, the sun has begun it's decent towards the horizon, and the one of the two moons can be seen behind high the darkening blue sky.
+  - By the time [[Thalyra]] is in sight, the sun has begun it's decent towards the horizon, and one of the two moons can be seen behind the darkening blue horizon.
   - [[Selara]] is full and is already fairly bright. [[Umbrya]] tends to be harder to see, but one with a sharp eye and an understanding of astronomy would be able to find it.
 
 - All three circular walls of [[Thalyra]] can be seen as the inner rings are taller than their outer counterparts. The outer most wall a dark brown, with the inner wall made of a light grey with golden speckles that give it the slightest golden hue in the light.
@@ -33,21 +33,10 @@ Return to [[Thalyra]]
 - [[High Captain Durel]] tells you he will inform the bank and have money transferred into the accounts by tomorrow morning. 
 - The cart continues up the road towards [[The Golden Hall of Command]] in the gold district.
 
+Potential Events
 
-
-	- 
-	- tside
--  
-    
-     is encroaching upon suppertime.  
-   that bisects 
 - [[Aelar's Companions Make a Bargain]]
 - [[Savone gets information to Chein Po]]
+- [[Drinks with Seressa Varn]]
 
-
-[[Aelar's Companions Make a Bargain]]
-
-[[Serressa's been drinking]]
-
-[[po learns about mom stuff]]
 

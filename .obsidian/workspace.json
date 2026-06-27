@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session Notes/007/Outline.md",
+                "file": "Sessions/Potential Events/Drinks with Seressa Varn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outline"
+              "title": "Drinks with Seressa Varn"
             }
           },
           {
@@ -158,6 +158,7 @@
       {
         "id": "20107cac4b2ddc27",
         "type": "tabs",
+        "dimension": 85.63218390804597,
         "children": [
           {
             "id": "8e3112f4acfd1af8",
@@ -260,6 +261,7 @@
       {
         "id": "8998c25f55859a29",
         "type": "tabs",
+        "dimension": 14.367816091954023,
         "children": [
           {
             "id": "2e46818bcff82fc0",
@@ -295,7 +297,25 @@
   },
   "active": "e2759a935277a4fa",
   "lastOpenFiles": [
+    "NPCs/Mella.md",
+    "Lore/The Cycle/The Loveslain.md",
+    "NPCs/Mella.md.tmp.30788.a6e22ffb81dd",
+    "NPCs/Mella.md.tmp.30788.97bda96262a9",
+    "Lore/The Cycle/The Loveslain.md.tmp.30788.1122fceaa118",
+    "Sessions/Potential Events/Conditions Of His Parole.md.tmp.30788.fd692baccefd",
+    "Sessions/Potential Events/Conditions Of His Parole.md.tmp.30788.33fdae429a06",
+    "NPCs/Mella.md.tmp.30788.bfecf1f54fa4",
+    "Sessions/Potential Events/Conditions Of His Parole.md.tmp.30788.938822d8ba03",
+    "Sessions/Potential Events/Conditions Of His Parole.md.tmp.30788.b7efef463a8b",
+    "NPCs/Corwin Sallow.md.tmp.30788.e578e9609c4a",
+    "NPCs/Corwin Sallow.md.tmp.30788.68b580315b32",
+    "NPCs/Corwin Sallow.md",
+    "Sessions/Potential Events/Conditions Of His Parole.md",
     "Sessions/Potential Events/Bank Account Creation.md",
+    "Sessions/Potential Events/Conditions of his Parole.md",
+    "Sessions/Potential Events/tmp_rename.md",
+    "NPCs/Brek Ironmantle.md",
+    "Sessions/Session Notes/007/Outline.md",
     "Savone.md",
     "Rules/Thalyric Crown Bank Account Application.md",
     "Rules/Thalyran Banking Rules.md",
@@ -304,35 +324,16 @@
     "NPCs/Edran Voss.md",
     "NPCs/Dorak Ashfen.md",
     "NPCs/Cassel Vorne.md",
-    "NPCs/Brek Ironmantle.md",
     "Sessions/Session Notes/007/007.md",
     "Lore/Celestial Bodies/Selara.md",
     "Sessions/Session Notes/007/Notes.md",
-    "Sessions/Session Notes/007/Outline.md",
     "Lore/World & Geography/Maps/Advelde_Paint_Dot_Net_big.png",
-    "Sessions/Session Notes/007",
     "Sessions/Session Notes/Untitled.md",
-    "Sessions/Session Notes/Unknown.txt",
-    "Data/JSON/Characters.json",
     "Sessions/Session Notes/006/Outline.md",
     "Sessions/Session Notes/006/Notes.md",
     "Lore/World & Geography/Maps/Greater Thalyra.png",
     "Seravael Dawnmere.md",
     "NPCs/Edran Braxton.md",
-    "Milla Twocopper.md",
-    "Edran Voss.md",
-    "Dorak Ashfen.md",
-    "Cassel Vorne.md",
-    "Brek Ironmantle.md",
-    "Ideas/Encounter Ideas/Random Song Driven Stories.md",
-    "Rules/Item Scarcity.md",
-    "Rules/Item Scarcity.md.tmp.15164.9efc6da825d0",
-    "NPCs/Tracy.md.tmp.19444.e1d11d619282",
-    "NPCs/Tracy.md.tmp.19444.481904ec80af",
-    "NPCs/Tracy.md.tmp.19444.2444ab3d0fe9",
-    "NPCs/Tracy.md.tmp.19444.7715fb2834ac",
-    "NPCs/Tracy.md.tmp.19444.8a739b13a8d9",
-    "NPCs/Tracy.md.tmp.19444.9f46540b5df6",
     "Data/Images/Pasted image 20260207105807.png",
     "Data/Images/Sewer Cleaner.png",
     "Data/Images/Sewer Cleaner Stats Only.png",
