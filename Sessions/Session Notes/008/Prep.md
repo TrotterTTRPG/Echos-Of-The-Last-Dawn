@@ -1,0 +1,16 @@
+- [ ] Reggie's Mission
+- [ ] Seressa as Vigilante
+- [ ] Condequences of Insubordination
+	- [ ] Write letter from Durel that makes it clear the get no more mission from him
+- [ ] What do they do with undead?
+	- [ ] Leave alone
+	- [ ] Bring to Hall of Arcane Acuity
+		- [ ] Mission from them to investigate undead
+		- [ ] Plaque to Aelar on Jeremy's enclosure
+- [ ] Hall of Metamagic & Theory
+	- [ ] Acquisition from one shot wonder book
+- [ ] Chad v Tiffany mission
+	- [ ] Chad wants them to take over some hall of arcane acuity duty to cover for him
+	- [ ] Tiffany wants them to follow Chad to see if he's cheating on her
+	- [ ] A woman named Bolo is working for [blank] (someone Aulberos recognizes) who wants access to Chad's father in exchange for paying off a gambling debt
+	- [ ] They want to know who pays for the adventurer's docket
