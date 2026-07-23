@@ -20,7 +20,6 @@
 - [[Lance of the Crown]] 
 [[The Golden Hall of Command]] - Guards
 
-
 **Healing**
 [[The Forthright Remedy]]
 
