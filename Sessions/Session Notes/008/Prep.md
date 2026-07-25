@@ -1,12 +1,15 @@
 - [ ] Reggie's Mission
 - [ ] Seressa as Vigilante
-- [ ] Condequences of Insubordination
-	- [ ] Write letter from Durel that makes it clear the get no more mission from him
-- [ ] What do they do with undead?
+- [ x] jon -  Consequences of Insubordination
+	- [x] Write letter from Durel that makes it clear the get no more mission from him → [[Letter from High Captain Durel]]
+- [ ] jon - What do they do with [[Mella]]'s body? → [[Delivering the Devil]]
 	- [ ] Leave alone
 	- [ ] Bring to Hall of Arcane Acuity
 		- [ ] Mission from them to investigate undead
 		- [ ] Plaque to Aelar on Jeremy's enclosure
+		- [ ] Hall wants to employ [[Corwin Sallow]] as Mella's blood source
+- [ ] jon - Hall of Metamagic & Theory
+	- [ ] Mushrooms → [[Custom Items]]
 - [ ] Hall of Metamagic & Theory
 	- [ ] Acquisition from one shot wonder book
 - [ ] Chad v Tiffany mission

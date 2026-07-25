@@ -58,6 +58,8 @@ If the campaign's wider Cycle plot ever surfaces, any of the three still works a
 
 ***Her Devotion.*** Mella will not willingly reduce **Corwin Sallow** to 0 hit points, and would sooner be destroyed than truly lose him. She always moves toward him and prioritizes reaching him over fighting others. If Corry speaks to her, pleads, or steps into her path, she hesitates: the next attack roll against her before her next turn has advantage. If he is threatened or used as a shield, she falters and may break off to parley — she wants him *fed upon and kept*, not killed.
 
+***The Beloved's Bane.*** Against the one soul she is bound to — **Corwin Sallow** — Mella's defenses simply fail. Corry's attack rolls against her have advantage and ignore her damage resistances, and she can't benefit from Regeneration on any turn she has taken damage from him. The hand that felled her is the hand she was infatuated with: this is how a spent, drunk old man put a crossbow bolt through her heart *twice* when nothing else in his power could have, and why the folk-remedies for her kind (running water, a stake, a refused invitation) don't matter — the real weakness isn't a trick, it's *him*. (Even so, his hand only ever *stills* her. True destruction still requires sunlight, fire, or ruin worked upon her resting place — which is why she always came back. She is one of [[The Loveslain]]; see that file for what she truly is.)
+
 ### Actions
 
 ***Multiattack.*** Mella makes two attacks, only one of which can be a Siphon.
