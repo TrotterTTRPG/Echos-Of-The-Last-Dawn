@@ -7,6 +7,30 @@ Connects: the "what do they do with the undead?" fork in the Session 008 prep �
 
 ---
 
+## ▶ Run Sheet
+
+**Cast — who's in the room, what they want, where they act**
+- **[[Sabine Corvane]]** — Senior Curator of Necrotic Studies. ***Runs the scene.*** Careful, unhurried, genuinely *delighted* in a way that slowly curdles. Wants to study the specimen — and, once the story comes out, to **retain [[Corwin Sallow]] as its feeder.** Beats: [[#The Examination — She Fits Nothing]], [[#What the Hall Wants — The Larder Arrangement]]. *(DC 14 Insight: not cruel, not lying — she's stopped hearing how it sounds.)*
+- **[[Torren Feldrik Stonequill]]** — Master Docent & Civic Liaison. Warm and unflappable until the tarp folds back, then *professionalizes* and hands off. Beat: [[#Reception — Torren's Quick Hand-Off to Sabine]].
+- **[[Caelith Verion]]** — Senior Administrator. Off-stage until the end, then re-enters to **authorize the arrangement** as routine procurement. Beat: [[#What the Hall Wants — The Larder Arrangement]].
+- **[[Corwin Sallow]]** — the living key. Whether he comes through the door decides how dark it goes. Ruined, terrified, and *tempted* by the sanctuary — run him honestly, never as an obvious refusal.
+- **[[Mella]]** — the body on the table. Won't decay, won't cool, never confirmed killed. **Light is the only lever.**
+
+**Beat-by-beat**
+1. [[#The Body Problem — Where We Open]] — open over the remains; the what-to-do-with-her fork.
+2. [[#Getting Her There]] — DC 13 discreet transport; Warden-patrol goodwill; **do they bring Corry?**
+3. [[#Reception — Torren's Quick Hand-Off to Sabine]] — Torren greets → hands to Sabine; peace-bind weapons.
+4. [[#The Examination — She Fits Nothing]] — every test opens the case wider; **light makes the husk hiss.**
+5. [[#What the Hall Wants — The Larder Arrangement]] — the offer — **only fires if the party tells the story.**
+6. [[#What the Party Gets]] — investigate-undead commission, Aelar's plaque, coin & favor.
+7. [[#If They Don't Bring Her Here]] — branches if they refuse the Hall.
+
+**DM only**
+- [[#The Reactivation Lever (DM Only)]] — Mella as a dormant time-bomb; you hold the fuse.
+- [[#DM Eyes Only — What the Hall Can Never Learn]] — she is [[The Loveslain]]; nobody in the scene learns it.
+
+---
+
 ## The Body Problem — Where We Open
 
 However the fight ended, the party is standing over **[[Mella]]'s remains** with a logistics problem and a moral one.
