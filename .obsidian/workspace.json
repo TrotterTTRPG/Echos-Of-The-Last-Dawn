@@ -55,100 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Encounter Ideas/Electric Woman.md",
+                "file": "Sessions/Potential Events/Electric Woman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Electric Woman"
             }
-          },
-          {
-            "id": "62b90b62e3bc3ca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Belvyre Flintflower.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Belvyre Flintflower"
-            }
-          },
-          {
-            "id": "252f3ebae3961cc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Completed Events/Tracy's Favor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tracy's Favor"
-            }
-          },
-          {
-            "id": "280920682e97218c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/The Sun-Drenched Spring.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Sun-Drenched Spring"
-            }
-          },
-          {
-            "id": "84767595bf6eecda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Up For Grabs/Aurelia Veyrin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aurelia Veyrin"
-            }
-          },
-          {
-            "id": "15bc42ad6781fb98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Potential Events/Escort Mission.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Escort Mission"
-            }
-          },
-          {
-            "id": "4823c690e97540c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Potential Events/Random/Family Heirloom.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Family Heirloom"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,69 +133,6 @@
         "dimension": 43.83680555555556,
         "children": [
           {
-            "id": "8e3112f4acfd1af8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Sessions/Potential Events/Aelar's Companions Come and Talk.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Aelar's Companions Come and Talk"
-            }
-          },
-          {
-            "id": "0a9be25c9a130144",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Sessions/Potential Events/Aelar's Companions Come and Talk.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Aelar's Companions Come and Talk"
-            }
-          },
-          {
-            "id": "e3d3bf99d43fe316",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "7538ca19f3a84168",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Sessions/Potential Events/Aelar's Companions Come and Talk.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Aelar's Companions Come and Talk"
-            }
-          },
-          {
             "id": "51e8f84115308f3b",
             "type": "leaf",
             "state": {
@@ -311,8 +164,7 @@
               "title": "Calendarium"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "8998c25f55859a29",
@@ -351,28 +203,28 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c770c7afe7f13ffb",
+  "active": "c03d3272865e0c87",
   "lastOpenFiles": [
-    "NPCs/Belvyre Flintflower.md",
-    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Silver District/The Merchant's Respite.md",
+    "Sessions/Potential Events/Electric Woman.md",
+    "Sessions/Potential Events/Mushrooms at the Hall of Alchemical Arts.md",
     "Sessions/Session Notes/008/Notes.md",
-    "Sessions/Session Notes/008/Outline.md",
+    "Sessions/Potential Events/Random/Family Heirloom.md",
+    "Sessions/Potential Events/Escort Mission.md",
+    "NPCs/Up For Grabs/Aurelia Veyrin.md",
+    "NPCs/Belvyre Flintflower.md",
+    "Sessions/Completed Events/Tracy's Favor.md",
     "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/The Sun-Drenched Spring.md",
+    "Sessions/Session Notes/007/Notes.md",
+    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Silver District/The Merchant's Respite.md",
+    "Sessions/Session Notes/008/Outline.md",
     "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Silver District/__index__.md",
     "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/__index__.md",
-    "Ideas/Encounter Ideas/Electric Woman.md",
-    "Sessions/Potential Events/Random/Family Heirloom.md",
-    "NPCs/Up For Grabs/Aurelia Veyrin.md",
-    "Sessions/Completed Events/Tracy's Favor.md",
     "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/The Gilded Frame.md",
-    "Sessions/Potential Events/Mushrooms at the Hall of Alchemical Arts.md",
-    "Sessions/Potential Events/Escort Mission.md",
     "Sessions/Completed Events/Aelar's Companions Come and Talk.md",
     "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/Clandestine Vineyards & Cellar.md",
     "NPCs/Tracy.md",
     "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/The Silken Crown.md",
     "NPCs/Bolo.md",
-    "Sessions/Session Notes/007/Notes.md",
     "Rules/Upgrades/Weapon Upgrades.md",
     "Sessions/Completed Events/Letter from High Captain Durel.md",
     "The Beaching.md",

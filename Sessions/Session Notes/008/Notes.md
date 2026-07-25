@@ -61,3 +61,12 @@ Po and Aulberos overhear an adventurer give the [[Electric Woman]] quest
 
 One easy non-combat encounter (vultures)
 One uneventful travel event
+
+[[Electric Woman]] - Ally is the name of one of the daughters (Mary is the other one)
+
+**Outstanding**
+-  [[Belvyre Flintflower]] at the [[Hall of Alchemical Arts]]
+	- Collecting 1 Potion of Mindreading and 1 Potion of Sustained Sorcery
+	- Get price and get signed up for learning proficiency with a healers kit
+- Anything with [[Tracy's Favor]] - finding out more information about [[The Gentleman]] or [[Bolo]] or [[Aelan]]
+- Getting a quest from [[Savone]] ([[Family Heirloom]])
