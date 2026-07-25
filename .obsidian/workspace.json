@@ -8,89 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b141740fe1ee56bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session Notes/005/Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "441cfe53495258e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session Notes/006/Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "310f7e899d7ea155",
-            "type": "leaf",
-            "state": {
-              "type": "json",
-              "state": {
-                "file": "Data/JSON/Characters.json"
-              },
-              "icon": "lucide-file",
-              "title": "Characters"
-            }
-          },
-          {
             "id": "e2759a935277a4fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session Notes/007/Notes.md",
+                "file": "Sessions/Session Notes/008/Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
-            }
-          },
-          {
-            "id": "8e37868ba7c05ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Up For Grabs/High Captain Durel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "High Captain Durel"
-            }
-          },
-          {
-            "id": "3e23e26570084114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Celestial Bodies/Selara.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Selara"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -295,16 +226,28 @@
   },
   "active": "e2759a935277a4fa",
   "lastOpenFiles": [
+    "Sessions/Potential Events/Delivering the Devil.md",
+    "Data/JSON/Characters.json",
+    "Sessions/Session Notes/005/Outline.md",
+    "Sessions/Session Notes/006/Outline.md",
+    "Sessions/Session Notes/008/Prep.md",
+    "Sessions/Potential Events/Conditions Of His Parole.md",
+    "Sessions/Session Notes/008/Outline.md",
+    "Sessions/Session Notes/007/Notes.md",
+    "Sessions/Session Notes/008/Notes.md",
+    "Sessions/Potential Events/Tracy's Favor.md",
+    "Sessions/Completed Events/Savone gets information to Chein Po.md",
+    "Sessions/Completed Events/Drinks with Seressa Varn.md",
+    "Sessions/Completed Events/Bank Account Creation.md",
+    "Sessions/Completed Events/Aelar's Companions Make a Bargain.md",
+    "NPCs/Bolo.md",
+    "Data/Images/bolo.png",
     "Sessions/Session Notes/008/Prep.md.tmp.36588.50a64418b3e1",
     "Rules/Custom Items.md",
     "Rules/Custom Items.md.tmp.36588.d9208f40d4c6",
-    "Sessions/Session Notes/005/Outline.md",
     "Sessions/Session Notes/005/Notes.md",
-    "Sessions/Session Notes/006/Outline.md",
     "Sessions/Session Notes/006/Notes.md",
-    "Sessions/Session Notes/007/Notes.md",
     "Sessions/Session Notes/007/Outline.md",
-    "Sessions/Session Notes/008/Prep.md",
     "Sessions/Potential Events/Delivering the Devil.md.tmp.26692.c1ba8e9cd87d",
     "Sessions/Potential Events/Delivering the Devil.md.tmp.26692.a92ab37ff35e",
     "Sessions/Potential Events/Delivering the Devil.md.tmp.26692.7000c08a817f",
@@ -312,25 +255,13 @@
     "Sessions/Potential Events/Delivering the Devil.md.tmp.26692.838519a11ee1",
     "Sessions/Potential Events/Delivering the Devil.md.tmp.26692.8b0191087ae2",
     "Sessions/Potential Events/Delivering the Devil.md.tmp.26692.43b956c08045",
-    "Sessions/Potential Events/Delivering the Devil.md.tmp.26692.22897efb6747",
-    "Sessions/Potential Events/Delivering the Devil.md.tmp.26692.53d29d2f7f99",
     "NPCs/Sabine Corvane.md",
     "Sessions/Session Notes/008/Letter from High Captain Durel.md",
     "Sessions/Completed Events/The Adventurer's Docket.md",
     "NPCs/Up For Grabs/High Captain Durel.md",
     "NPCs/Up For Grabs/House Valenforth.md",
     "Sessions/Completed Events/Letter from High Captain Durel.md",
-    "Sessions/Potential Events/Delivering the Devil.md",
-    "Sessions/Potential Events/Conditions Of His Parole.md",
     "The Beaching.md",
-    "NPCs/Tomas Brindle.md",
-    "NPCs/Corwin Sallow.md",
-    "Sessions/Potential Events/Aelar's Companions Make a Bargain.md",
-    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/Hall of Metamagic and Theory.md",
-    "Sessions/Potential Events/Bank Account Creation.md",
-    "NPCs/Edran Braxton.md",
-    "NPCs/Seravael Dawnmere.md",
-    "Sessions/Potential Events/Savone gets information to Chein Po.md",
     "Lore/World & Geography/Maps/Advelde_Paint_Dot_Net_big.png",
     "Lore/World & Geography/Maps/Greater Thalyra.png",
     "Data/Images/Pasted image 20260207105807.png",
@@ -340,7 +271,6 @@
     "Lore/World & Geography/Maps/Advelde Map Current.png",
     "Data/Images/high captain durel (support commander npc).png",
     "Lore/World & Geography/Maps/Advelde Map Current 1.png",
-    "Lore/World & Geography/Maps/Advelde Map Current 1 1.png",
     "Untitled.canvas"
   ]
 }
