@@ -9,7 +9,7 @@
 		- [ ] Plaque to Aelar on Jeremy's enclosure
 		- [ ] Hall wants to employ [[Corwin Sallow]] as Mella's blood source
 - [ ] jon - Hall of Metamagic & Theory
-	- [ ] Mushrooms → [[Custom Items]]
+	- [ ] Mushrooms → [[Mushrooms at the Hall of Alchemical Arts]] · [[Custom Items]]
 - [ ] Hall of Metamagic & Theory
 	- [ ] Acquisition from one shot wonder book
 - [ ] Chad v Tiffany mission
