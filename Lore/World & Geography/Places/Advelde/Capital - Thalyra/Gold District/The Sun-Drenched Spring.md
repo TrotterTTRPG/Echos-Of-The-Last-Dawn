@@ -12,7 +12,7 @@
 - Water is enchanted in subtle ways — it may soothe fatigue, ease minor aches, or refresh the mind.
 
 **Staff**
-- Manager: [[Aurelia Veyrin]], human woman with an impeccable sense of elegance and discretion.
+- Manager: [[Aurelia Veyrin]], water genasi woman with an impeccable sense of elegance and discretion.
 - Bath Attendants: Trained in etiquette, hospitality, and minor restorative magic.
 - Specialists: Some provide luxury treatments, aromatherapy, or discreet massage services.
 - Staff are mostly discreet, soft-spoken, and always attentive; their presence is calming rather than obtrusive.

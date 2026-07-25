@@ -235,7 +235,7 @@
         "locations": []
       },
       "current": {
-        "day": 8,
+        "day": 10,
         "month": 1,
         "year": 3463
       },
@@ -640,6 +640,74 @@
           },
           "id": "ID_09f938fafb59",
           "note": "Sessions/Potential Events/Conditions Of His Parole.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Delivering the Devil",
+          "description": null,
+          "date": {
+            "day": 9,
+            "month": 1,
+            "year": 3463
+          },
+          "id": "ID_6829b90b288a",
+          "note": "Sessions/Potential Events/Delivering the Devil.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Letter from High Captain Durel",
+          "description": null,
+          "date": {
+            "day": 9,
+            "month": 1,
+            "year": 3463
+          },
+          "id": "ID_a86b6a3a4b59",
+          "note": "Sessions/Completed Events/Letter from High Captain Durel.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Tracy's Favor",
+          "description": null,
+          "date": {
+            "day": 9,
+            "month": 1,
+            "year": 3463
+          },
+          "id": "ID_7a58387a4a5b",
+          "note": "Sessions/Potential Events/Tracy's Favor.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Electric Woman",
+          "description": null,
+          "date": {
+            "day": 10,
+            "month": 1,
+            "year": 3463
+          },
+          "id": "ID_d879492ac98b",
+          "note": "Ideas/Encounter Ideas/Electric Woman.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,

@@ -7,5 +7,5 @@ Potential Events
 - [[Escort Mission]]
 
 possible random stuff
-[[Electric Woman]]
-[[Family Heirloom]]
+- [[Electric Woman]]
+- [[Family Heirloom]] - given by [[Savone]]

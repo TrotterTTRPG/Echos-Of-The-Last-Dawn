@@ -8,20 +8,147 @@
         "type": "tabs",
         "children": [
           {
+            "id": "06a86b7ad6d4992e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session Notes/007/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          },
+          {
             "id": "e2759a935277a4fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Potential Events/Mushrooms at the Hall of Alchemical Arts.md",
+                "file": "Sessions/Session Notes/008/Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mushrooms at the Hall of Alchemical Arts"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c03d3272865e0c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session Notes/008/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "c770c7afe7f13ffb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Encounter Ideas/Electric Woman.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Electric Woman"
+            }
+          },
+          {
+            "id": "62b90b62e3bc3ca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Belvyre Flintflower.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Belvyre Flintflower"
+            }
+          },
+          {
+            "id": "252f3ebae3961cc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Completed Events/Tracy's Favor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tracy's Favor"
+            }
+          },
+          {
+            "id": "280920682e97218c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/The Sun-Drenched Spring.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Sun-Drenched Spring"
+            }
+          },
+          {
+            "id": "84767595bf6eecda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Up For Grabs/Aurelia Veyrin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aurelia Veyrin"
+            }
+          },
+          {
+            "id": "15bc42ad6781fb98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Potential Events/Escort Mission.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Escort Mission"
+            }
+          },
+          {
+            "id": "4823c690e97540c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Potential Events/Random/Family Heirloom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Family Heirloom"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 311.5
   },
   "right": {
     "id": "1760dc69085ef64c",
@@ -87,7 +214,7 @@
       {
         "id": "20107cac4b2ddc27",
         "type": "tabs",
-        "dimension": 85.63218390804597,
+        "dimension": 43.83680555555556,
         "children": [
           {
             "id": "8e3112f4acfd1af8",
@@ -161,7 +288,7 @@
                 "calendar": "ID_bb1a79288a0a",
                 "ephemeral": {
                   "viewing": {
-                    "day": 8,
+                    "day": 10,
                     "month": 1,
                     "year": 3463
                   },
@@ -190,7 +317,7 @@
       {
         "id": "8998c25f55859a29",
         "type": "tabs",
-        "dimension": 14.367816091954023,
+        "dimension": 56.16319444444444,
         "children": [
           {
             "id": "2e46818bcff82fc0",
@@ -224,45 +351,45 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e2759a935277a4fa",
+  "active": "c770c7afe7f13ffb",
   "lastOpenFiles": [
-    "Sessions/Session Notes/008/Outline.md",
-    "Sessions/Potential Events/Mushrooms at the Hall of Alchemical Arts.md",
     "NPCs/Belvyre Flintflower.md",
-    "Sessions/Session Notes/008/Outline.md.tmp.36588.d46629e40420",
-    "Sessions/Session Notes/008/Prep.md.tmp.36588.f6da80b77eeb",
-    "Sessions/Potential Events/Mushrooms at the Hall of Alchemical Arts.md.tmp.36588.b3b6a3e2e429",
-    "Sessions/Potential Events/Tracy's Favor.md",
-    "Sessions/Potential Events/Delivering the Devil.md",
-    "Sessions/Potential Events/Delivering the Devil.md.tmp.36588.05b8cf08e4d1",
-    "Ideas/Encounter Ideas/Electric Woman.md",
-    "Data/JSON/Characters.json",
-    "Sessions/Session Notes/005/Outline.md",
-    "Sessions/Session Notes/006/Outline.md",
-    "Sessions/Session Notes/008/Prep.md",
-    "Sessions/Potential Events/Conditions Of His Parole.md",
-    "Sessions/Session Notes/007/Notes.md",
+    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Silver District/The Merchant's Respite.md",
     "Sessions/Session Notes/008/Notes.md",
-    "Sessions/Completed Events/Savone gets information to Chein Po.md",
-    "Sessions/Completed Events/Drinks with Seressa Varn.md",
-    "Sessions/Completed Events/Bank Account Creation.md",
-    "Sessions/Completed Events/Aelar's Companions Make a Bargain.md",
+    "Sessions/Session Notes/008/Outline.md",
+    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/The Sun-Drenched Spring.md",
+    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Silver District/__index__.md",
+    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/__index__.md",
+    "Ideas/Encounter Ideas/Electric Woman.md",
+    "Sessions/Potential Events/Random/Family Heirloom.md",
+    "NPCs/Up For Grabs/Aurelia Veyrin.md",
+    "Sessions/Completed Events/Tracy's Favor.md",
+    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/The Gilded Frame.md",
+    "Sessions/Potential Events/Mushrooms at the Hall of Alchemical Arts.md",
+    "Sessions/Potential Events/Escort Mission.md",
+    "Sessions/Completed Events/Aelar's Companions Come and Talk.md",
+    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/Clandestine Vineyards & Cellar.md",
+    "NPCs/Tracy.md",
+    "Lore/World & Geography/Places/Advelde/Capital - Thalyra/Gold District/The Silken Crown.md",
     "NPCs/Bolo.md",
+    "Sessions/Session Notes/007/Notes.md",
+    "Rules/Upgrades/Weapon Upgrades.md",
+    "Sessions/Completed Events/Letter from High Captain Durel.md",
+    "The Beaching.md",
+    "Sessions/Completed Events/Delivering the Devil.md",
+    "NPCs/Sabine Corvane.md",
+    "Sessions/Completed Events/Conditions Of His Parole.md",
+    "Sessions/Potential Events/Delivering the Devil.md.tmp.36588.05b8cf08e4d1",
+    "Data/JSON/Characters.json",
     "Data/Images/bolo.png",
     "Sessions/Session Notes/008/Prep.md.tmp.36588.50a64418b3e1",
-    "Rules/Custom Items.md",
     "Rules/Custom Items.md.tmp.36588.d9208f40d4c6",
-    "Sessions/Session Notes/005/Notes.md",
-    "Sessions/Session Notes/006/Notes.md",
-    "Sessions/Session Notes/007/Outline.md",
     "Sessions/Potential Events/Delivering the Devil.md.tmp.26692.c1ba8e9cd87d",
     "Sessions/Potential Events/Delivering the Devil.md.tmp.26692.a92ab37ff35e",
     "Sessions/Potential Events/Delivering the Devil.md.tmp.26692.7000c08a817f",
-    "NPCs/Sabine Corvane.md",
-    "Sessions/Session Notes/008/Letter from High Captain Durel.md",
-    "Sessions/Completed Events/The Adventurer's Docket.md",
-    "NPCs/Up For Grabs/High Captain Durel.md",
-    "NPCs/Up For Grabs/House Valenforth.md",
+    "Sessions/Potential Events/Delivering the Devil.md.tmp.26692.066daa807c59",
+    "Sessions/Potential Events/Delivering the Devil.md.tmp.26692.838519a11ee1",
+    "Sessions/Potential Events/Delivering the Devil.md.tmp.26692.8b0191087ae2",
     "Lore/World & Geography/Maps/Advelde_Paint_Dot_Net_big.png",
     "Lore/World & Geography/Maps/Greater Thalyra.png",
     "Data/Images/Pasted image 20260207105807.png",

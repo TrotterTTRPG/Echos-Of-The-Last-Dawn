@@ -13,7 +13,6 @@ She can't read the books really, but has used diagrams to recreate the process. 
 
 They crush the cane, whose liquids drain into the river.
 
-
 Down river - a village of Fairey's thrive. They are from the umbrals last generation. They are far removed from that event, and are more tame than their ancestors. They are aware of other umbral creatures, but they would not give that information to non umbrals.
 
 These fairys are generally nomadic, but have become addicted to the sugars that have collected in a pond that they have inhabited. The fairies are pacified by the sugar. if they are taken away from the sugar for too long, they become aggressive - as they are normally.

@@ -74,15 +74,15 @@ Her findings, given as a giddy running monologue:
 
 This is the heart of the scene: Belvyre lays out the options. **Hand the players the full detail from [[Custom Items]]** — recipes, gold values, and the crafting-budget tables — but here's her pitch, so you can run it live:
 
-| What | From | Belvyre's one-liner |
-| --- | --- | --- |
-| **Draught of Lucid Casting** *(common)* | 7 Crowns | "For your spellcasters. Keeps a spell from slipping when someone hits them. Cheap. Apprentice work." |
-| **Glowspore Draught** *(common)* | 7 Sparks | "You throw it. Coats the target, everyone hits it easier until someone lands one. Good for the slippery ones." |
-| **Crowncap Resin** *(reagent)* | 18 Crowns | "The good stuff, distilled. This is what makes the *big* potions possible." |
-| **Sparkcap Dust** *(reagent)* | 18 Sparks | "Ground-up seeing-powder. Feeds anything to do with sight and scrying." |
-| **Potion of Mind Reading / Clairvoyance** *(rare)* | 1 reagent unit | "Standard rares — I can do these in my sleep once you've got me the resin and dust." |
-| **Potion of Sustained Sorcery** *(rare, custom)* | 2 vials Crowncap Resin | "Concentrate on *two* spells at once. Metamagic's little darlings would sell a kidney for this. **This is the one they want.**" |
-| **Potion of Truesight** *(rare, custom)* | 2 pouches Sparkcap Dust | "See everything. Through the dark, through invisibility, through a liar's face. Expensive to make. Worth it." |
+| What                                               | From                    | Belvyre's one-liner                                                                                                             |
+| -------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Draught of Lucid Casting** *(common)*            | 7 Crowns                | "For your spellcasters. Keeps a spell from slipping when someone hits them. Cheap. Apprentice work."                            |
+| **Glowspore Draught** *(common)*                   | 7 Sparks                | "You throw it. Coats the target, everyone hits it easier until someone lands one. Good for the slippery ones."                  |
+| **Crowncap Resin** *(reagent)*                     | 18 Crowns               | "The good stuff, distilled. This is what makes the *big* potions possible."                                                     |
+| **Sparkcap Dust** *(reagent)*                      | 18 Sparks               | "Ground-up seeing-powder. Feeds anything to do with sight and scrying."                                                         |
+| **Potion of Mind Reading / Clairvoyance** *(rare)* | 1 reagent unit          | "Standard rares — I can do these in my sleep once you've got me the resin and dust."                                            |
+| **Potion of Sustained Sorcery** *(rare, custom)*   | 2 vials Crowncap Resin  | "Concentrate on *two* spells at once. Metamagic's little darlings would sell a kidney for this. **This is the one they want.**" |
+| **Potion of Truesight** *(rare, custom)*           | 2 pouches Sparkcap Dust | "See everything. Through the dark, through invisibility, through a liar's face. Expensive to make. Worth it."                   |
 
 She's blunt about the trade-off, and she'll spell it out so the players feel the choice:
 

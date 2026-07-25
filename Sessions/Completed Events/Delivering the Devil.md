@@ -67,7 +67,7 @@ A beat. The Master Docent's cheer doesn't crack so much as *professionalize.* Th
 
 (Same peace-binding / weapon-surrender ask as the tour. The silver verification circle hums as they enter.)
 
-Torren walks them down himself and makes the hand-off quickly. The party knows him, and they know [[Caelith Verion]] (the tall high-elf Senior Administrator who took [[Aelar Aurielius|Aelar]]'s hookmaw deposition) — but the person the Hall sends for *undead* is someone they haven't met: **[[Sabine Corvane]]**, Senior Curator of Necrotic Studies. She is waiting at the Level 2 chambers before they arrive, already gloved, already reaching for the tarp. Caelith is "off signing something" — he re-enters only at the *end,* to authorize what she proposes.
+Torren walks them down himself and makes the hand-off quickly. The party knows him, and they know [[Caelith Verion]] (the tall high-elf Senior Administrator who took [[Aelar Aurelius|Aelar]]'s hookmaw deposition) — but the person the Hall sends for *undead* is someone they haven't met: **[[Sabine Corvane]]**, Senior Curator of Necrotic Studies. She is waiting at the Level 2 chambers before they arrive, already gloved, already reaching for the tarp. Caelith is "off signing something" — he re-enters only at the *end,* to authorize what she proposes.
 
 > *"You brought this to us. Directly — before the Wardens, before a magistrate, before you tried to sell it." (a thin, genuine smile, her eyes already on the shape under the cloth) "That is either very good judgment or very good luck. Either way: thank you. Now hush a moment and let me look at her — then you'll tell me everything."*
 
