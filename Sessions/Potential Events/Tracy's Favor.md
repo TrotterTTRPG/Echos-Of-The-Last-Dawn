@@ -11,11 +11,15 @@ She finds the party somewhere plausible fidgeting with her jewelry before she ev
 
 **Read or paraphrase:**
 
-> "Okay, so — hi, sorry, this is going to sound insane, but I need, like, a favor? A paid favor. I'd ask Ereykos but Chad just dumped his whole shift on him tonight, which — see, that's the thing. Chad *never* actually works his shifts. He always finds a way to blow them off and come see me. Always. So when he tells me he's 'busy' tonight? That's not busy. That's a lie. He's done this before. I just — I need someone to follow him. Not, like, confront him. Just *see*. I'll pay you. I just need to know."
+>"Okay, so — hi, sorry, this is going to sound completely unhinged, but I need, like, a favor? A paid favor. I'd ask Ereykos, but Chad conveniently dumped his whole shift on him tonight, which — see, _that's_ the pattern. Chad _never_ actually works his shifts. He always manages to blow them off so he can hang around me. _Always._ So when he sits there and tells me he's 'busy' tonight? Please. That's not busy. That's a pathetic little lie.
+>
+>I know what he's doing. I _know_ he's cheating on me again. He always does this exact same thing whenever he's sneaking around with someone else. Just like that 'month-long vacation to Iridia' where he claimed it was just him and his friends, or that booze-filled binge in Velrosk where he conveniently forgot his sending stone for three days, or that ridiculous, totally fake 'kidnapping'  that he expected me to actually believe!
+>
+>He has _definitely_ pulled this exact stunt before. I just... I need someone to follow him. Not to confront him or anything, I just... I need to see who he's with. I'll pay you. I just have to know."
 
 If asked why she doesn't do it herself: she'll admit, a little sheepishly for once, that Chad knows her face, her walk, her perfume — she's "not exactly subtle" — and that showing up herself always turns into a screaming match before she learns anything useful.
 
-**Payment:** 20 gp up front, 30 gp on completion (adjust to your table's economy). She'll pay it "with anything" if the news is bad — she's not haggling, she's coping.
+**Payment:** 100 gp up front, 100 gp on completion . She'll pay it "with anything" if the news is bad — she's not haggling, she's coping.
 
 **What she wants specifically:** confirmation of whether Chad is meeting someone tonight, and if the party can manage it, *who* and *why*.
 
@@ -40,69 +44,69 @@ Read the party the option:
 - They can try to get a table (requires a Persuasion check) - DC 17
 ### — SCRIPT —
 
-**CHAD:** _(dropping into the seat across from her, too loud for the room)_ Bolo! Hey. Sorry, sorry, had to shake a guy at the Hall, you would not believe the week I've had —
+**CHAD:** _(dropping into the seat across from her, way too close, flashing a blinding, practiced grin that completely misses the ice in her eyes)_ Bolo. Hey. Sorry I'm a bit late, had to shake a guy at the Hall—you honestly would not believe the week I've had, but seeing you totally makes up for it.
 
-**BOLO:** Chad Braxton ... You're late.
+**BOLO:** _(doesn't smile back, her voice flat)_ [[Chad Braxton]]. You're late.
 
-**CHAD:** I'm — okay, I'm _a little_ late. Did you order? Please tell me you ordered the '19.
+**CHAD:** I'm—okay, I'm a little late. But look at us, right? Did you order? Please tell me you got the '19. I was practically counting down the minutes all afternoon.
 
-**BOLO:** _(doesn't answer that)_ The Gentleman sent me.
+**BOLO:** _(ignores the flirtation entirely)_ [[The Gentleman]] sent me.
 
-**CHAD:** _(the smile drops half a notch)_ Oh. Oh, great. Fantastic. Love a surprise Gentleman update.
+**CHAD:** _(the smile slips half a notch, his posture dropping from 'confident suitor' to cornered rat)_ Oh. Oh, great. Fantastic. Love a surprise Gentleman update on our... you know. What was supposed to be a nice evening.
 
 **BOLO:** You still owe him.
 
-**CHAD:** I _know_ I still owe him, Bolo, I don't need a courier for that, I've got it handled —
+**CHAD:** I know I still owe him, Bolo, come on, I don't need a courier for that, I've got it handled—
 
 **BOLO:** You don't.
 
-**CHAD:** _(laughs, too fast)_ Okay, "handled" is a strong word, but — listen, I'm _good_ for it, obviously, my family's got more gold than got sense, I just — the thing is, I can't exactly walk up to my dad and go "hey, quick loan, no questions," because my dad _is_ the questions. He's literally made of questions. He's the Head of Accounting. Asking him for money without an explanation is like — asking a dragon to not notice you took a coin.
+**CHAD:** _(laughs, way too fast, trying to lean back in and recover his charm)_ Okay, "handled" is a strong word, but—listen, I'm good for it, obviously! My family's got more gold than got sense. I just... the thing is, I can't exactly walk up to my dad and go "hey, quick loan, no questions," because my dad _is_ the questions. He's literally made of questions. He's the Head of Accounting. Asking him for money without an explanation is like—asking a dragon to not notice you took a coin ... Besides, I was hoping we could focus on us tonight. You look incredible, by the way. Is that a new pin?
 
-**BOLO:** _(a long pause, studying him)_ My employer isn't The Gentleman. But he's willing to pay The Gentleman off. All of it. Quietly, it matters.
+**BOLO:**  My employer isn't The Gentleman. But he's willing to pay The Gentleman off. All of it. Quietly. 
 
-**CHAD:** _(visibly relieved)_ Okay. Okay, great, see, this is why I like you, you're a _problem-solver_ —
+**CHAD:** _(visibly relieved, letting out a breathless laugh)_ Okay. Okay, great, see, this is why I like you, you're a problem-solver—and honestly, you look stunning when you're all business—
 
 **BOLO:** In exchange for access.
 
-**CHAD:** Access to — access to what?
+**CHAD:** Access to—access to what?
 
 **BOLO:** Your father's records. The bank's. Funding requests, ledgers, whatever crosses his desk.
 
-**CHAD:** _(the smile falters for the first time)_ Whoa, whoa. That's — okay, that's not "collaborative problem," that's "get me disowned and also probably arrested."
+**CHAD:** _(the smarmy confidence completely shatters, his eyes widening)_ Whoa, whoa. That's—okay, that's not a "cute favor between us," that's "get me disowned and also probably arrested."
 
 **BOLO:** No one has to know it was you.
 
-**CHAD:** Everyone will know it was me. I'm the only person alive who's _in_ that house. He doesn't leave paperwork lying around, he doesn't talk in his sleep, he _files things._ This is not a guy who loses track of a page.
+**CHAD:** Everyone will know it was me! I'm the only person alive who's in that house. He doesn't leave paperwork lying around, he doesn't talk in his sleep, he files things. This is not a guy who loses track of a page.
 
 **BOLO:** Then don't lose one. Copy it. Return it.
 
-**CHAD:** _(rubbing his face)_ Who even is this for? Who's asking?
+**CHAD:** _(rubbing his face, completely sweating through his charm now)_ Who even is this for? Who's asking?
 
 **BOLO:** You wouldn't know him.
 
-**CHAD:** I feel like I'm owed a name.
+**CHAD:** I feel like I'm owed a name, at least. Considering we're... you know. Having this chat.
 
-**BOLO:** I owe you nothing *(a pause)* But, if you insist, he goes by Aelan.
+**BOLO:** I owe you nothing, but, if you insist, he goes by Aelan.
 
 **CHAD:** Never heard of him.
 
 **BOLO:** I told you that you wouldn't.
 
-**CHAD:** _(quiet, for once)_ Bolo. This is my dad.
+**CHAD:** _(quiet, dropping the act entirely)_ Bolo. Come on. This is my dad.
 
-**BOLO:** _(unmoved)_ And this is your debt. Three days.
+**BOLO:** _(unmoved, staring at him like an insect under glass)_ And this is your debt. Three days.
 
-**CHAD:** Three — that's not — Bolo, come on, three days isn't even enough time to figure out _how,_ let alone —
+**CHAD:** Three—that's not—Bolo, babe, come on, three days isn't even enough time to figure out how, let alone—
 
 **BOLO:** Three days. After that, my employer stops offering, and The Gentleman is left to collect however The Gentleman collects.
 
-**CHAD:** _(swallows)_ What does that mean?
+**CHAD:** _(swallows hard, his voice thinning)_ What does that mean?
 
 **BOLO:** You don't want to find out.
 
-_(She stands. She does not finish her wine. She leaves a coin on the table and walks out without another word, leaving Chad alone, staring at the glass.)_
+_(She stands. She does not finish her wine. She leaves a single coin on the table and walks out without another word, leaving Chad sitting alone in the booth, staring pathetically at the empty glass.)_
 
-**CHAD:** _(to no one, several seconds later)_ ...Great meeting. Love that for me.
+**CHAD:** _(to no one, several seconds later, voice cracking slightly)_ ...Great date. Love that for me.
 
 ---
 ### Eavesdropping check
