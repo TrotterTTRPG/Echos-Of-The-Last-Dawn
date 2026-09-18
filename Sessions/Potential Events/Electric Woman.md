@@ -23,3 +23,4 @@ These fairies are generally nomadic, but have become addicted to the sugars that
 > The fairies only ever attack when they've relaxed and stopped working
 > They have a boat to cross the river
 
+The fae village downriver is named **[[Sugarbend]]**. The party gets waylaid there by a mushroom-dream puzzle dungeon while the fae go upriver to seize the mill — see [[The Two Truths]].
