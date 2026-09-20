@@ -1,3 +1,6 @@
+> [!important] Current v2 role
+> Tansy is Sugarbend’s hostess and the fairy who stays with the party during the attempted crossing, then calls for Vetch Bitterleaf, the herbalist. She does not knowingly trap the party. Her moth-wings, ear-bells, and practical hospitality remain useful portrayal details. The Long Supper, deliberate dream imprisonment, and mill assault in the older material below are superseded preparation. See [[NPCs/Groups/Sugarbend Fairies|current roster]] and [[Sessions/Potential Events/The Two Truths v2 - Elder and Resolution|the table guide]].
+
 **Race/Build:** Fae of [[Sugarbend]] — small, round, warm, with dusty moth-wings folded like a shawl and a scatter of tiny brass bells stitched along the rims of her ears
 **Age:** Old by mortal counting, young by [[Sugarbend]]'s
 **Role:** The hostess of the Long Supper. Serves the mushrooms, then stays behind to sit with the sleepers while everyone else goes upriver.

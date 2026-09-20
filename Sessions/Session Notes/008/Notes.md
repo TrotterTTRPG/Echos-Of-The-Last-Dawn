@@ -35,10 +35,10 @@ Po goes to the bazaar area with [[Savone]]
 any ideas of people looking for workers
 	He had people willing to work under the table
 
-Vivatrix and Aelar want to learn how to be proficient in herbalism kit
+Vivatrix and Aelar want to learn how to be proficient in herbalism kit (local notes describe the goal as learning potion making)
 	A few hours twice a week for 6 weeks
 
-Naieht picks up his hammer - it's been balanced (+1 to hit)
+Naieht picks up his hammer - it's been balanced (+1 to hit), with a counterweight noted in the local notes
 
 Aelar learns Blur 
 
@@ -70,3 +70,7 @@ One uneventful travel event
 	- Get price and get signed up for learning proficiency with a healers kit
 - Anything with [[Tracy's Favor]] - finding out more information about [[The Gentleman]] or [[Bolo]] or [[Aelan]]
 - Getting a quest from [[Savone]] ([[Family Heirloom]])
+
+## Ending point — DM clarification, 2026-09-20
+
+The session ended on the outskirts of Sugarbend, near one of the pond banks, with a scattering of mushroom homes nearby. The party met the elder, who offered a “banquet” of nectar that amounted to roughly a thimble-sized serving. This is where play stopped; they have not entered the town proper. His invitation into town and account of its history are preparation for the next scene, not events already played. No Waycap consumption or purgatory events have occurred.

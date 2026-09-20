@@ -1,7 +1,7 @@
 Location: [[Hall of Alchemical Arts]], Gold District, [[Thalyra]]
 Central NPCs: [[Belvyre Flintflower]] (Head Alchemist — **runs the scene**), with the hand-off from [[Aranemin Zylris]], [[Velagrys Faro]], and [[Ereykos Phirona]] at the [[Hall of Metamagic and Theory]]
 Type: Roleplay + light investigation + crafting/shopping. **No combat.** Pays off the purple mushrooms the party has been collecting since [[Aelar Aurelius|Aelar]] first sketched them in Session 005.
-Connects: the *Mushrooms* thread in the Session 008 prep. **All item stats, recipes, gold values, and the crafting-budget math live in [[Custom Items]]** — this page is how the party *learns* it.
+Connects: the *Mushrooms* thread in the Session 008 prep. **All item stats, recipes, gold values, and the crafting-budget math live in [[Rules/Custom Items and Spells/Alchemy/Violuma Alchemy|Custom Items]]** — this page is how the party *learns* it.
 
 > *Aelar's friends are scholars, not cooks. They can tell the party these caps are soaked in loose arcane charge and that the big and small ones are the same fungus — and then they cheerfully admit that turning that into anything useful is not their department. For that, you want a halfling covered in three colors of powder who is missing teeth for good reasons. The mushrooms have been a curiosity for three sessions. This is the scene where they become an economy.*
 
@@ -18,7 +18,7 @@ Connects: the *Mushrooms* thread in the Session 008 prep. **All item stats, reci
 1. [[#The Referral — Aelar's Friends Hand It Off]] — the friends report the theory, then send the party to Belvyre.
 2. [[#Arrival — The Hall of Alchemical Arts]] — bubbling glass, faint explosions, and a powder-caked halfling.
 3. [[#Belvyre's Verdict — What the Mushrooms Are]] — she names them **Violuma**, the "same organism, two stages" reveal, and a small demonstration that goes *pop.*
-4. [[#What You Can Make]] — the menu: 2 common potions, 2 reagents, 4 higher potions → [[Custom Items]].
+4. [[#What You Can Make]] — the menu: 2 common potions, 2 reagents, 4 higher potions → [[Rules/Custom Items and Spells/Alchemy/Violuma Alchemy|Custom Items]].
 5. [[#Who Else Wants Them — The Politics]] — the three-way tug: Alchemical Arts, Metamagic & Theory, Arcane Acuity.
 6. [[#The Decision — Terms & Time]] — sell raw, commission brews, refine, or hold; fees and time.
 
@@ -72,7 +72,7 @@ Her findings, given as a giddy running monologue:
 
 ## What You Can Make
 
-This is the heart of the scene: Belvyre lays out the options. **Hand the players the full detail from [[Custom Items]]** — recipes, gold values, and the crafting-budget tables — but here's her pitch, so you can run it live:
+This is the heart of the scene: Belvyre lays out the options. **Hand the players the full detail from [[Rules/Custom Items and Spells/Alchemy/Violuma Alchemy|Custom Items]]** — recipes, gold values, and the crafting-budget tables — but here's her pitch, so you can run it live:
 
 | What                                               | From                    | Belvyre's one-liner                                                                                                             |
 | -------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -88,7 +88,7 @@ She's blunt about the trade-off, and she'll spell it out so the players feel the
 
 > *"Here's your problem, and it's a nice problem. You've got — what, fifty-odd of each? Refine nearly the whole lot into one of the fancy rares and you've spent your entire haul on a single bottle. Or spread it thin and get a fistful of common drafts. Or sell the raw caps and walk out with coin today. There's no wrong answer. There's just the answer you'll* wish *you'd picked. Take a day. Actually — take two, that's how long the rares take me anyway."*
 
-*(Full numbers: [[Custom Items#Crafting Budget]]. Short version — the whole stock is worth roughly **510 gp of Crowns / 424 gp of Sparks** sold raw at Hall bounty, or a couple of Rare custom potions if fully refined, or ~7 common drafts of each if spread thin.)*
+*(Full numbers: [[Rules/Custom Items and Spells/Alchemy/Violuma Alchemy#Crafting Budget|Crafting Budget]]. Short version — the whole stock is worth roughly **510 gp of Crowns / 424 gp of Sparks** sold raw at Hall bounty, or a couple of Rare custom potions if fully refined, or ~7 common drafts of each if spread thin.)*
 
 ---
 
@@ -107,21 +107,21 @@ The reason this becomes a *recurring* thread and not a one-off shopping trip: th
 ## The Decision — Terms & Time
 
 Belvyre's offer, all negotiable — she respects a sharp haggler:
-- **She'll brew anything** on the menu for the labor fees in [[Custom Items]]; the party supplies the caps. Common drafts, same day. Rares, ~2 days each.
+- **She'll brew anything** on the menu for the labor fees in [[Rules/Custom Items and Spells/Alchemy/Violuma Alchemy|Custom Items]]; the party supplies the caps. Common drafts, same day. Rares, ~2 days each.
 - **She'll buy raw** at (or a hair above) the Metamagic Hall's bounty rate if they'd rather have coin now.
 - **Two small asks** (drop, keep, or trade them for a discount):
     1. She wants to keep **a few caps of each** for her own research and to try to *culture* them.
     2. She wants **first refusal** on any future Violuma the party finds — her edge over Arcane Acuity.
 - **The cultivation hook:** she *really* wants to know **where they grew.** Violuma only takes root where raw magic bleeds into the ground — "a spell-scar, a ley-seep, a magitech leak, something. Find me the patch and I'll never have to ration this again." *(Callback: the party first found them where Aelar sketched them in Session 005.)*
 
-Let the party split the haul however they like — sell some, brew some, hold some, hand a bounty of raw Crowns to the Metamagic friends. **Record what they keep vs. spend against the stock in [[Custom Items]].**
+Let the party split the haul however they like — sell some, brew some, hold some, hand a bounty of raw Crowns to the Metamagic friends. **Record what they keep vs. spend against the stock in [[Rules/Custom Items and Spells/Alchemy/Violuma Alchemy|Custom Items]].**
 
 ---
 
 ## DM Notes & Levers
 
 - **This is a "reward the hoard" scene.** They've carried these caps for three sessions; the payoff is agency, not a fight. The fun is the *choice* — one flashy Rare vs. a spread of utility vs. fast coin — so make the trade-offs vivid and let them stew.
-- **Quick resolution table for what the 51/53 stock becomes** is in [[Custom Items#Crafting Budget]]. Don't re-derive it at the table; open that page.
+- **Quick resolution table for what the 51/53 stock becomes** is in [[Rules/Custom Items and Spells/Alchemy/Violuma Alchemy#Crafting Budget|Crafting Budget]]. Don't re-derive it at the table; open that page.
 - **The three-way politics is the recurring engine.** Whichever Hall the party favors, the other two notice. Favoring Belvyre needles Arcane Acuity; selling raw to Metamagic warms that friendship (and Aelar's); if Arcane Acuity ever learns of Violuma, you have a jurisdiction squabble ready to drop.
 - **The cultivation thread** turns a finite haul into a renewable one — and a reason to go back to where they found them. If you ever want Violuma to *mean* something larger, "grows only where magic bleeds through" is a quiet thread you can tie to bigger arcane-saturation lore later.
 - **Keep Belvyre generous with knowledge.** She over-shares because she's thrilled, not sloppy. The information is free; the *labor* and the *caps* are the cost.
