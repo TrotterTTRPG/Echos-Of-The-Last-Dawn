@@ -125,7 +125,7 @@ Variation can appear in uneven rhythms, changing reflections, shifting textures,
 
 **Established:** he is well behind on supplying the buyers, in a bind, and looking to make a deal.
 
-**Confirmed opening offer:** pay the party to visit the Umbral buyers and negotiate more time. The reward is goods, not gold: Waycaps are accepted, and the village’s Pondstrider is another bargaining resource. Umbral currency is undefined. Exact quantities, terms, and any exaggeration of the party’s role remain proposals to develop. The scene draft supplies proposed terms without recording acceptance.
+**Confirmed opening offer:** pay the party to visit the Umbral buyers and negotiate more time. The reward is Pondstrider, not gold or Waycaps. The fairies will not distribute Waycaps to non-Umbral creatures; the desperate guided crossing is an exception for immediate travel, not a gift of a supply. Umbral currency is undefined. The opening offer includes **10 Pondstrider potions for the party**. Delivery terms and any exaggeration of the party’s role remain to develop. The scene draft supplies proposed terms without recording acceptance.
 
 **Still to decide:** what he has learned about these visitors, and what he would offer or withhold. Derive his approach from the priorities above. Do not presume that he knows the party followed the Electric Woman lead, or that his goal is simply to protect his villagers at any cost. His precise bargain remains unresolved; the party's purgatory experience is an unintended consequence of attempted travel.
 

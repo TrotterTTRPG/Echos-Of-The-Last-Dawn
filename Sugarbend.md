@@ -42,7 +42,7 @@ He is well behind on supplying the Umbral buyers, in a bind, and looking to make
 
 ## Bargaining goods
 
-The elder does not offer gold; that currency has no meaning to the fairies. Umbral currency remains undefined. Waycaps are an accepted bargaining good. The Pondstrider is another useful village resource he can offer; exact quantities and terms remain to be agreed. It is distinct from Sweetpitch and the nectar banquet.
+The elder does not offer gold; that currency has no meaning to the fairies. Umbral currency remains undefined. The fairies will not distribute Waycaps to non-Umbral creatures as goods or rewards. Oren’s desperate, personally guided crossing remains an exceptional use, not permission to give the party a supply. His opening offer includes **10 Pondstrider potions for the party**, each a single dose. Delivery timing for the Pondstrider reward remains to be agreed. The offer is preparation, not a recorded transfer. It is distinct from Sweetpitch and the nectar banquet.
 
 ## Secrecy and the illegal crossing
 
@@ -104,7 +104,9 @@ The pond’s biological/alchemical process creates the distinctive product; the 
 
 The fairies use it to walk along the pond bottom and reach the sweetwaters. It lets them work submerged rather than collecting from the surface. It does not establish the ability to walk on the water’s surface, climb walls, or fly underwater.
 
-**Still to define:** duration, dose sizes and quantities, activation timing, whether it can end early, and what happens if the drinker loses contact with the bottom. Do not silently inherit the previously proposed salve’s one-hour duration or other mechanics. The potion’s effects on currents, visibility, pressure, and other environmental hazards have not been specified.
+**Duration and dose:** Pondstrider lasts until the drinker’s next long rest. Each potion is a single dose for one drinker.
+
+**Still to define:** available quantities, activation timing, whether it can end early, and what happens if the drinker loses contact with the bottom. Do not silently inherit the previously proposed salve’s one-hour duration or other mechanics. The potion’s effects on currents, visibility, pressure, and other environmental hazards have not been specified.
 
 **Proposed collection action:** workers carry stoppered pots down into the pond, open them within the sweetwaters just above the mud, and seal them before walking back to shore. They pour their collections into the large settling barrels. This replaces the earlier proposed cord-operated bottom-draw pots.
 

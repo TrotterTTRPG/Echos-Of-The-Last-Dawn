@@ -10,7 +10,7 @@ version: 2
 
 ## Scene sequence and index
 
-- [[#Before play|Before play]] — essential facts, cast, and outstanding decisions.
+- [[#Before play|Before play]] — essential facts and unresolved mechanics.
 - [[#1. Meet the elder|1. Enter Sugarbend with the elder]] — leave the pond-bank banquet and see the working town.
 - [[#The elder tells the towns history|Hear the town’s history]] — discovery, settlement, trade, and the present shortage.
 - [[#Rusk challenges the elder|Rusk challenges the elder]] — a frightened dissenter demands control of the hut.
@@ -26,11 +26,11 @@ version: 2
 - [[#9. Resolve the situation|9. Resolve the situation]] — output, allocation, and an honest message to buyers.
 - [[#Close and record|Close and record]] — settle the actual outcome and remaining commitments.
 
-**Reading key:** **NARRATION** = read aloud or paraphrase. **DIALOGUE — NAME** = speak as that NPC. **DM** = private information or instruction. **PAUSE** = give the players room to act. **NEXT** = where to continue. Dialogue is suggested wording; follow the conversation rather than delivering every line.
+**At the table:** read only **NARRATION** and the appropriate character lines. Everything labeled **PRIVATE** stays with the DMs. **PAUSE** invites player action; **NEXT** gives the route onward. Conditional lines are answers to use when relevant, not a speech to deliver in full.
 
 ## Before play
 
-**DM — current position:** Session 008 ended on Sugarbend’s outskirts, near a pond bank with a scattering of mushroom homes. The party met the elder, who offered a “banquet” of nectar that amounted to roughly a thimble-sized serving. They have not yet entered the town proper. Resume with his invitation below; preserve any further details the players recall. Everything below is preparation, not recorded play. The purgatory encounter is being designed separately.
+**PRIVATE — current position:** Session 008 ended on Sugarbend’s outskirts, near a pond bank with a scattering of mushroom homes. The party met the elder, who offered a “banquet” of nectar that amounted to roughly a thimble-sized serving. They have not yet entered the town proper. Resume with his invitation below; preserve any further details the players recall. Everything below is preparation, not recorded play. The purgatory encounter is being designed separately.
 
 ### What you need to remember
 
@@ -44,30 +44,29 @@ version: 2
 - Waycaps carry fairies bodily to the Umbral. The elder sincerely expects them to work for the party. Instead, material creatures' souls detach into purgatory while their bodies remain.
 - After the collapse, the elder and doctor assume accidental poisoning. They do not know the party traveled.
 
-### Cast at a glance
+### Main character reminders
 
-[[NPCs/Groups/Sugarbend Fairies|Full fairy roster and spare names]].
-
-| Role | How to play them |
+| Character | Keep consistent |
 | --- | --- |
-| **Oren Reedwick — elder** | Guarded, desperate, behind on deliveries. Reveals only essential Umbral information. Knowingly risks an illegal crossing but sincerely trusts the Waycaps. |
-| **Tansy Bellwether — hostess** | Remains during the crossing and takes the initiative to call for Vetch. |
-| Doctor / herbalist | Competent and unsentimental. Uses medicines and healing magic; criticizes the elder without being especially concerned if the strangers die. |
-| Electric woman | Protective of her operation and daughters, Ally and Mary. Intelligent and interested in evidence. Her theory about moving souls may or may not be correct. |
+| **Oren** | Guarded, behind on deliveries, prioritizes buyers. Illegal entry is a known risk; failed Waycap travel is a genuine surprise. |
+| **Rusk** | Fears the buyers. Wants to seize the hut intact; close to defying Oren. Cannot explain how the machinery works. |
+| **Tansy** | Practical hospitality. Stays behind and calls for Vetch. No deliberate trap. |
+| **Vetch** | Competent, occupied, unsentimental. Assumes poisoning and criticizes Oren while treating the party. |
+| **Electric woman** | Protective, intelligent, unaware of the downstream product. Her soul theory remains unresolved. |
 
 ### Decisions still needed
 
-**Bargain:** goods, not gold. The elder can offer Waycaps and the potion workers use to walk and breathe underwater. Set quantities and any advance before play; Umbral currency is undefined. Pondstrider’s duration and dose sizes remain open.
+**Bargain:** goods, not gold. The elder offers Pondstrider only. Waycaps are reserved for the guided crossing and are not distributed to non-Umbral creatures as rewards. His opening offer includes **10 Pondstrider potions for the party**. Reward delivery timing remains open; Umbral currency is undefined. Each Pondstrider potion is a single dose and lasts until the drinker’s next long rest.
 
 **Confirmed production pattern:** the woman and her daughters operate the equipment for their own studies. Vacations, ordinary maintenance, and time spent on other studies interrupt the runoff. They know the fairies only as attackers from two incidents during extended vacations; they know nothing of Sugarbend's dependence or trade.
 
 **Still open:** purgatory return mechanism, elapsed time, treatment mechanics, and effects on companions. No automatic full heal or long rest. The guide can be used for the elder meeting now; the purgatory handoff needs its separate encounter before that portion is run.
 
-Detailed alternatives and reasoning: [[Sessions/Potential Events/The Two Truths v2 - Elder and Resolution - Development Notes|Development notes]]. Setting: [[Sugarbend]]. Planar design: [[Sessions/Potential Events/The Two Truths v2|The Two Truths v2]].
+Setting: [[Sugarbend]]. Planar design: [[Sessions/Potential Events/The Two Truths v2|The Two Truths v2]].
 
 ## 1. Meet the elder
 
-**DM — starting point:** The tiny nectar banquet has already happened at the pond bank. The invitation, walk, and history below are prepared scenes. The nectar is separate from the addictive pond product and the Waycaps; no additional effect is established.
+**PRIVATE — starting point:** The tiny nectar banquet has already happened at the pond bank. The invitation, walk, and history below are prepared scenes. The nectar is separate from the addictive pond product and the Waycaps; no additional effect is established.
 
 ### The invitation
 
@@ -79,7 +78,7 @@ Detailed alternatives and reasoning: [[Sessions/Potential Events/The Two Truths 
 
 ### Entering the town
 
-**DM — names if approached:** Pella drinks Pondstrider; Bramble comes out of the pond; Cress tends barrels; Sedge works the fire; Nettle scrapes the vessel; Fenn divides portions; Mallow objects; Linnet calls from the doorway. See the roster for quick cues.
+**PRIVATE — names if approached:** Pella drinks Pondstrider; Bramble comes out of the pond; Cress tends barrels; Sedge works the fire; Nettle scrapes the vessel; Fenn divides portions; Mallow objects; Linnet calls from the doorway. See the roster for quick cues.
 
 **NARRATION**
 
@@ -89,6 +88,10 @@ Detailed alternatives and reasoning: [[Sessions/Potential Events/The Two Truths 
 >
 > Narrow bridges of twigs and woven grass link the upper homes. Fairies carry baskets and stoppered jars between them, but there is little conversation. One sits on a step with an empty pot held between both hands. Another pauses halfway across a bridge, closes their eyes, and waits before continuing. On the ground, the elder keeps you to a strip of bare earth along the water. The little paths branching off it would scarcely take one of your boots.
 >
+**PAUSE:** Let the players take in the town or interrupt before showing the workers.
+
+**NARRATION — the working shore**
+
 > At the water’s edge, a fairy takes a drink from a little bottle, picks up an empty pot, and walks into the pond. The water closes over their head. Through the shallows you can still see them walking along the bottom. Another worker emerges farther along the bank, carrying a stoppered pot toward rows of barrels beneath open-sided shelters. Farther from the homes, a sudden flare of fire lights a shallow vessel. Steam bursts upward. When it clears, a worker begins scraping something black and glossy into a jar. The air smells of wet wood and warm sweetness.
 
 **PAUSE:** Let them look around or address someone. Keep them beside the pond rather than squeezing them into fairy-sized homes.
@@ -115,7 +118,7 @@ Detailed alternatives and reasoning: [[Sessions/Potential Events/The Two Truths 
 
 **PAUSE:** Let the party respond or let the silence stand. The jars are allocated to shipments; residents are going without to protect them. Fenn is also on reduced rations. Neither fairy names the Umbral.
 
-**DM:** These are proposed visual details for the established working town and scarcity. The collecting pots, taps, and finishing vessels are draft apparatus; underwater collection using the potion is established, and the sweetwaters, settling barrels, fire magic, and black molasses are established. Allow interruptions. No fight starts merely because the party enters.
+**PRIVATE:** Apparatus details are suggested staging. Preserve the established Pondstrider → sweetwaters → barrels → fire → Sweetpitch process. Residents are strained; a fight is not automatic.
 
 ### The elder tells the towns history
 
@@ -137,7 +140,7 @@ Detailed alternatives and reasoning: [[Sessions/Potential Events/The Two Truths 
 >
 > “Only recently did we connect it to the woman upriver. We have watched her work. We even brought back some of her cane. Sweet enough, but it is not what we gather here. Whatever makes the difference, we have not learned it.”
 
-**DM:** He knows the runoff is connected to the supply, not why the woman has been operating less. He cannot explain her vacations, fuel preparation, or the pond organism as established knowledge.
+**PRIVATE:** He knows the runoff is connected to the supply, not why the woman has been operating less. He cannot explain her vacations, fuel preparation, or the pond organism as established knowledge.
 
 **DIALOGUE — OREN (ELDER)**
 
@@ -153,7 +156,7 @@ Detailed alternatives and reasoning: [[Sessions/Potential Events/The Two Truths 
 
 > “Yes. Those jars are leaving. Yes, the people who filled them are getting less. I know what I am asking of them. If the shipments stop, there will be more people demanding what we do not have.”
 
-**DM:** He knows the cost and still prioritizes the buyers. He does not explain the Umbral here or claim the backlog is solved. Let the party disagree.
+**PRIVATE:** He knows the cost and still prioritizes the buyers. He does not explain the Umbral here or claim the backlog is solved. Let the party disagree.
 
 ### Answers to likely questions
 
@@ -167,13 +170,13 @@ Detailed alternatives and reasoning: [[Sessions/Potential Events/The Two Truths 
 | Why attack their own source? | “They want more of it. They have stopped listening to what happens after they get their hands on it.” |
 | Do you understand her machinery? | “I know what reaches us when she works it. I cannot tell you what every part is for.” |
 
-**DM:** Acknowledge dependency if asked: people here and those they supply are already struggling without their fix. Do not name the Umbral during the public history or general questions. Keep the buyers' identities and threats loose. The attacks' exact outcomes and the elder's involvement are not established. In this investigation draft, he has not identified the pond organism's role.
+**PRIVATE:** Acknowledge dependency if asked: people here and those they supply are already struggling without their fix. Do not name the Umbral during the public history or general questions. Keep the buyers' identities and threats loose. The attacks' exact outcomes and the elder's involvement are not established. In this investigation draft, he has not identified the pond organism's role.
 
-**NEXT:** Once the party understands the pressure, make the offer.
+**NEXT:** Once the shortage is clear, use Rusk’s challenge below if the moment fits; then move to the bargain.
 
 ### Rusk challenges the elder
 
-**DM:** Bring Rusk in after Oren explains the shortage, when the party has enough context to understand the argument. Full portrayal: [[NPCs/Groups/Sugarbend Fairies#Rusk Thornwake — the dissenter|Rusk Thornwake]]. This interruption is prepared, not a recorded confrontation.
+**PRIVATE:** Introduce Rusk once the shortage is clear. Full portrayal: [[NPCs/Groups/Sugarbend Fairies#Rusk Thornwake — the dissenter|Rusk Thornwake]]. This interruption is prepared, not a recorded confrontation.
 
 **NARRATION**
 
@@ -209,13 +212,13 @@ Detailed alternatives and reasoning: [[Sessions/Potential Events/The Two Truths 
 
 > “If you mean to ask me something, Rusk, ask it. Do not speak for everyone here.”
 
-**DM:** This is the line Rusk is approaching: organizing a seizure without the elder’s authority. Do not assume an existing following, his participation in earlier attacks, or an inevitable third attack. A credible supply plan or a real prospect of more time can give him a reason to wait. The buyers are already losing patience, but their precise threatened response remains undefined.
+**PRIVATE:** This is the line Rusk is approaching: organizing a seizure without the elder’s authority. Do not assume an existing following, his participation in earlier attacks, or an inevitable third attack. A credible supply plan or a real prospect of more time can give him a reason to wait. The buyers are already losing patience, but their precise threatened response remains undefined.
 
 **NEXT:** Let the party’s response shape the discussion, then continue to Oren’s offer when appropriate. Rusk’s challenge increases the pressure behind the offer; it does not compel acceptance.
 
 ## 2. Make the deal
 
-**DM — the reluctant disclosure:** Only when proposing the buyer visit does he give the destination. Suggested staging: he pauses the walk and lowers his voice, waiting until nearby workers have moved on. This is a desperate exception to his usual secrecy.
+**PRIVATE — the reluctant disclosure:** Only when proposing the buyer visit does he give the destination. Suggested staging: he pauses the walk and lowers his voice, waiting until nearby workers have moved on. This is a desperate exception to his usual secrecy.
 
 **DIALOGUE — OREN (ELDER)**
 
@@ -223,15 +226,15 @@ Detailed alternatives and reasoning: [[Sessions/Potential Events/The Two Truths 
 
 **DIALOGUE — OREN (ELDER)**
 
-> “They have heard my explanations. Hearing another will not improve them. Come with me. Tell them what you are willing to do here, and ask them for time enough to do it. I will pay you for the journey.”
+> “They have heard my explanations. Hearing another will not improve them. Come with me. Tell them what you are willing to do here, and ask them for time enough to do it. I can offer ten potions of Pondstrider for the journey.”
 
-**DM — offer terms:** Offer **Waycaps and Pondstrider**, with quantities and timing negotiated. He does not offer gold or translate the goods into a gold value. The party agrees to make an honest attempt, not guarantee acceptance. Agree on the message and how much time they will ask for. Investigation or repair work requires their agreement.
+**PRIVATE — offer terms:** Offer **10 Pondstrider potions for the party**. Each potion is one dose. When the potions are handed over remains to be agreed; this is an offer, not recorded payment. He does not offer gold or translate the goods into a gold value. The party agrees to make an honest attempt, not guarantee acceptance. Agree on the message and how much time they will ask for. Investigation or repair work requires their agreement.
 
 **PAUSE:** Negotiate. Let them challenge his assumptions about what they can accomplish.
 
 ### Essential information only
 
-**DM:** Before they commit to crossing, the proposed wording below gives the relevant legal risk without explaining Umbral law or society. His belief that buyers will overlook it is not a promise of protection.
+**PRIVATE:** Before they commit to crossing, the proposed wording below gives the relevant legal risk without explaining Umbral law or society. His belief that buyers will overlook it is not a promise of protection.
 
 **DIALOGUE — OREN (ELDER)**
 
@@ -245,7 +248,7 @@ Detailed alternatives and reasoning: [[Sessions/Potential Events/The Two Truths 
 | Who else lives there? Who rules it? | “That has no bearing on what I am asking you to do.” |
 | Can you guarantee they will overlook it? | “No. I expect them to care more about getting their deliveries. I cannot promise it.” |
 
-**DM:** Answer necessary questions about the task and any established travel precautions. Do not invent a court, patrol, punishment, or additional travel rule to fill gaps. If the party needs assurances he cannot give, let the negotiation stall or move to a material-world alternative. Other fairies are similarly guarded; walking around town does not bypass this reluctance.
+**PRIVATE:** Give essential job and travel information only. If Oren cannot provide the assurances they want, offer a material-world alternative. Other fairies remain guarded too; no new courts, punishments, or travel rules are defined here.
 
 
 **DIALOGUE — OREN (ELDER), if they prefer to help here**
@@ -258,7 +261,7 @@ Detailed alternatives and reasoning: [[Sessions/Potential Events/The Two Truths 
 
 Item reference: [[Rules/Custom Items and Spells/Items/Pondstrider|Pondstrider]].
 
-**DM — established:** drink it to walk and breathe underwater as though on land, with no underwater-fighting disadvantages. **The drinker cannot swim while it lasts.** The fairies use it to reach the sweetwaters. It is a separate potion, not a salve or Sweetpitch. Its duration, doses, and handling of losing the bottom remain undecided.
+**PRIVATE — established:** drink it to walk and breathe underwater as though on land, with no underwater-fighting disadvantages. **The drinker cannot swim while it lasts.** The fairies use it to reach the sweetwaters. It is a separate potion, not a salve or Sweetpitch. Each potion is a single dose, lasting until the drinker’s next long rest. Handling of losing contact with the bottom remains undecided.
 
 **DIALOGUE — OREN (ELDER), offering it**
 
@@ -266,7 +269,7 @@ Item reference: [[Rules/Custom Items and Spells/Items/Pondstrider|Pondstrider]].
 
 ## 3. Offer the Waycaps
 
-**DM:** Offer the mushrooms openly. The elder holds his own. Tansy Bellwether is present and will stay behind.
+**PRIVATE:** Present the mushrooms openly for immediate use in Oren’s guided crossing. They are not a reward or a supply for later independent travel. The elder holds his own. Tansy Bellwether is present and will stay behind.
 
 **DIALOGUE — OREN (ELDER)**
 
@@ -280,13 +283,13 @@ Item reference: [[Rules/Custom Items and Spells/Items/Pondstrider|Pondstrider]].
 | Have people like us used them? | “I have only known our people to use them. Why?” |
 | Could our bodies work differently? | “I had not thought there was a difference that mattered. If there is, I cannot tell you what it would do.” |
 
-**DM:** His confidence is sincere. He has never heard of non-fairies using them, but has no initial reason to expect failure. Let new information change his response.
+**PRIVATE:** His confidence is sincere. He has never heard of non-fairies using them, but has no initial reason to expect failure. Let new information change his response.
 
 **PAUSE:** Take questions and precautions. Confirm **each character's choice**, including who stays behind. Decide separately whether Kai or Edgar participates; their effects are not established. Discuss return arrangements before departure without inventing guaranteed safety.
 
 ### If they choose another route
 
-| Choice | DM — response and next step |
+| Choice | PRIVATE — response and next step |
 | --- | --- |
 | Only some eat | Run the crossing for those consumers. Keep the others active in Sugarbend. |
 | Someone tries first | The elder advises going together. If they insist, apply the partial crossing and let everyone react before anyone else eats. |
@@ -313,7 +316,7 @@ Item reference: [[Rules/Custom Items and Spells/Items/Pondstrider|Pondstrider]].
 >
 > You cannot tell how long you have been lying there.
 
-**DM:** Adapt the fall if they sat or lay down beforehand. The elder has crossed bodily to the Umbral. He waits **about one minute**, then returns. Those who stayed behind can act during that time; follow their actions rather than forcing this script.
+**PRIVATE:** Adapt the fall if they sat or lay down beforehand. The elder has crossed bodily to the Umbral. He waits **about one minute**, then returns. Those who stayed behind can act during that time; follow their actions rather than forcing this script.
 
 **NARRATION**
 
@@ -335,23 +338,25 @@ Item reference: [[Rules/Custom Items and Spells/Items/Pondstrider|Pondstrider]].
 
 > Footsteps hurry away. Someone is speaking close beside you now, but the words are becoming difficult to hold onto again.
 
-**DM:** Adjust “all” to the actual consumers. Tansy calls for help, not Oren. The doctor arranges care and transfer to the clinic; remaining PCs may help. Elder and doctor interpret the collapse as accidental poisoning.
+**PRIVATE:** Adjust “all” to the actual consumers. Tansy calls for help, not Oren. The doctor arranges care and transfer to the clinic; remaining PCs may help. Elder and doctor interpret the collapse as accidental poisoning.
 
 ### Purgatory handoff
 
-**STOP HERE and switch to the separate encounter.** This guide does not supply its challenges or return mechanism.
+**PURGATORY HANDOFF:** stop this script and switch to the separate purgatory encounter. Its challenges and return mechanism remain unfinished. This is a handoff marker, not permission to skip the party’s experience.
 
-| Character | DM — established destination |
+Before resuming the clinic, privately agree who has returned, elapsed material-world time, body condition, and actions by anyone who stayed behind. **Resume at scene 5.**
+
+| Character | PRIVATE — established destination |
 | --- | --- |
 | Aulberos and Vivatrix | Umbral-aspected purgatory |
 | Aelar and Chein | Effulgent-aspected purgatory |
 | Naieht | Ghostlike presence in both aspects, fully in neither; little meaningful interaction |
 
-**DM:** These are aspects of one shared purgatory, not the pure planes. Bodies remain in the material world. The elder's minute does not determine the party's total absence. Once the separate encounter brings their souls back, continue below.
+**PRIVATE:** These are aspects of one shared purgatory, not the pure planes. Bodies remain in the material world. The elder's minute does not determine the party's total absence. Once the separate encounter brings their souls back, continue below.
 
 ## 5. Wake in the clinic
 
-**DM:** Bodies have been moved to Sugarbend's treatment shelter. The doctor has used healing medicines and magic to stabilize them. Care did not itself establish how their souls returned. Use the actual awakening order; players may interrupt the conversation at any point.
+**PRIVATE:** Bodies have been moved to Sugarbend's treatment shelter. The doctor has used healing medicines and magic to stabilize them. Care did not itself establish how their souls returned. Use the actual awakening order; players may interrupt the conversation at any point.
 
 **NARRATION**
 
@@ -405,7 +410,7 @@ Item reference: [[Rules/Custom Items and Spells/Items/Pondstrider|Pondstrider]].
 
 > “You're in the clinic. He gave you something that disagreed with you. I've been keeping you alive while it worked through.”
 
-**DM:** That is the doctor's diagnosis, not the true explanation. Play them as busy and matter-of-fact. They provided competent care despite little emotional investment. Packs and belongings are nearby unless play established otherwise. Apply only agreed treatment effects.
+**PRIVATE:** That is the doctor's diagnosis, not the true explanation. Play them as busy and matter-of-fact. They provided competent care despite little emotional investment. Packs and belongings are nearby unless play established otherwise. Apply only agreed treatment effects.
 
 ## 6. Deal with the aftermath
 
@@ -413,11 +418,11 @@ Item reference: [[Rules/Custom Items and Spells/Items/Pondstrider|Pondstrider]].
 
 | Question / action | Response |
 | --- | --- |
-| What happened? | **VETCH:** “You ate his waycaps and collapsed. He brought me a roomful of poisoned visitors.” |
-| How did you treat us? | **VETCH:** “Healing medicines. Healing magic. Enough to keep you going.” |
-| Did you bring us back? | **VETCH:** “I kept you alive. You've finally woken up.” |
-| Did we die? How long were we out? | **DM:** Use actual encounter outcomes and elapsed time; neither has been decided here. |
-| Describe purgatory | **VETCH:** “You were out of your senses. I wouldn't expect it to have felt ordinary.” This belief can change with evidence. |
+| What happened? | **DIALOGUE — VETCH:** “You ate his waycaps and collapsed. He brought me a roomful of poisoned visitors.” |
+| How did you treat us? | **DIALOGUE — VETCH:** “Healing medicines. Healing magic. Enough to keep you going.” |
+| Did you bring us back? | **DIALOGUE — VETCH:** “I kept you alive. You've finally woken up.” |
+| Did we die? How long were we out? | **PRIVATE:** Use actual encounter outcomes and elapsed time; neither has been decided here. |
+| Describe purgatory | **DIALOGUE — VETCH:** “You were out of your senses. I wouldn't expect it to have felt ordinary.” This belief can change with evidence. |
 
 **DIALOGUE — OREN (ELDER)**
 
@@ -443,7 +448,7 @@ Item reference: [[Rules/Custom Items and Spells/Items/Pondstrider|Pondstrider]].
 
 > “The people waiting for our shipments are still waiting. But you did not agree to this. We should settle what I promised you.”
 
-**DM:** Proposed settlement: they keep any goods already advanced. Negotiate the remaining promised goods in light of the failed journey; Waycaps may no longer be a useful reward to them. Further work needs a new agreement. Medical care and possessions are not bargaining chips. No buyer meeting occurred during his minute away.
+**PRIVATE:** Proposed settlement: they keep any goods already advanced. Negotiate any remaining promised Pondstrider potions in light of the failed journey. Further work needs a new agreement. Medical care and possessions are not bargaining chips. No buyer meeting occurred during his minute away.
 
 **DIALOGUE — OREN (ELDER), if they are angry**
 
@@ -457,9 +462,9 @@ Item reference: [[Rules/Custom Items and Spells/Items/Pondstrider|Pondstrider]].
 
 ## 7. Investigate the supply
 
-**DM — truth:** **Cane squeezed for hotter-burning fuel → discarded sugarwater → pond organism transforms sugars → sweetwaters collected → barrels settle → rich liquid drawn → fire magic flashes off water → Sweetpitch collected and traded.**
+**PRIVATE — truth:** **Cane squeezed for hotter-burning fuel → discarded sugarwater → pond organism transforms sugars → sweetwaters collected → barrels settle → rich liquid drawn → fire magic flashes off water → Sweetpitch collected and traded.**
 
-**DM — naming:** **Sweetpitch** is the finished addictive black molasses; **sweetwaters** is the rich bottom layer collected from the pond. Workers use the Pondstrider to reach the bottom. Carrying stoppered pots and using barrel taps are proposed equipment details; see [[Sugarbend#Sweetwaters and the finished product|process details]].
+**PRIVATE — naming:** **Sweetpitch** is the finished addictive black molasses; **sweetwaters** is the rich bottom layer collected from the pond. Workers use the Pondstrider to reach the bottom. Carrying stoppered pots and using barrel taps are proposed equipment details; see [[Sugarbend#Sweetwaters and the finished product|process details]].
 
 Offer clues in response to their approach. These are prepared discoveries, not information they already possess.
 
@@ -472,7 +477,7 @@ Offer clues in response to their approach. These are prepared discoveries, not i
 | Inspect the factory with permission | The squeezed cane goes to the furnace; the expressed sugarwater is discarded into the river. She is preparing fuel, unaware of the downstream product. |
 | Arrange a controlled sample comparison | Pond growth changes the result over an appropriate observation period; exact processing time remains open. |
 
-**DM:** Relevant skills, tools, and sensible comparisons can clarify the connection. A single check does not yield a complete recipe. Learning the process suggests future cultivation trials; it does not instantly replace the factory or cure addiction.
+**PRIVATE:** Relevant skills, tools, and sensible comparisons can clarify the connection. A single check does not yield a complete recipe. Learning the process suggests future cultivation trials; it does not instantly replace the factory or cure addiction.
 
 **NEXT:** Pursue the factory's reduced output, or negotiate using the evidence collected.
 
@@ -496,7 +501,7 @@ Offer clues in response to their approach. These are prepared discoveries, not i
 
 > “That collects from the water we throw away? I had no idea. Show me.”
 
-**DM:** She and her daughters know nothing of the fairies beyond being attacked twice during extended vacations. They do not even know the discarded sugars collect downstream. The pond transformation, addictive effect, Sugarbend's collection, and Umbral buyers are all unknown to them. Their downtime is coincidental: vacations, routine maintenance, or studies that do not use the equipment. Let evidence interest her. Ally and Mary can participate if present; no new injuries or expertise are assumed.
+**PRIVATE:** She and her daughters know nothing of the fairies beyond being attacked twice during extended vacations. They do not even know the discarded sugars collect downstream. The pond transformation, addictive effect, Sugarbend's collection, and Umbral buyers are all unknown to them. Their downtime is coincidental: vacations, routine maintenance, or studies that do not use the equipment. Let evidence interest her. Ally and Mary can participate if present; no new injuries or expertise are assumed.
 
 | Side | Priority | Negotiable offer |
 | --- | --- | --- |
@@ -510,7 +515,7 @@ Offer clues in response to their approach. These are prepared discoveries, not i
 
 ### Explain the gaps in production
 
-**DM — confirmed cause:** There is no special fault to repair. The woman and her daughters take vacations, maintain the equipment, or pursue studies that do not use it. Less operation means less sugary runoff. They have never knowingly agreed to supply the fairies. Both attacks occurred during extended vacations; the downtime was already happening.
+**PRIVATE — confirmed cause:** There is no special fault to repair. The woman and her daughters take vacations, maintain the equipment, or pursue studies that do not use it. Less operation means less sugary runoff. They have never knowingly agreed to supply the fairies. Both attacks occurred during extended vacations; the downtime was already happening.
 
 **DIALOGUE — ELECTRIC WOMAN**
 
@@ -522,11 +527,11 @@ Offer clues in response to their approach. These are prepared discoveries, not i
 
 **PAUSE:** Let the party explain the connection and propose an arrangement. Her surprise is sincere. Knowing about the dependence does not automatically make her willing to operate the equipment continually.
 
-**DM — negotiate reliability:** Can the parties agree on advance notice of breaks, a feasible operating schedule, or compensation for additional work? Can Sugarbend reduce its promises and plan reserves around downtime? Any alternative way to feed the pond organism requires investigation and a trial. There is no repair fee or quick mechanical fix that resolves this mismatch.
+**PRIVATE — negotiate reliability:** Can the parties agree on advance notice of breaks, a feasible operating schedule, or compensation for additional work? Can Sugarbend reduce its promises and plan reserves around downtime? Any alternative way to feed the pond organism requires investigation and a trial. There is no repair fee or quick mechanical fix that resolves this mismatch.
 
 ### Allocate supply and contact the buyers
 
-**DM:** Even an agreed operating schedule cannot satisfy indefinitely growing demand. Ask for actual agreements:
+**PRIVATE:** Even an agreed operating schedule cannot satisfy indefinitely growing demand. Ask for actual agreements:
 
 - What can the operation reliably supply?
 - What stays with the workers, and what goes to Umbral buyers?
@@ -540,7 +545,7 @@ Offer clues in response to their approach. These are prepared discoveries, not i
 
 **PAUSE:** Let them answer. His buyer-first priorities remain part of the negotiation.
 
-**DM — a workable resolution:** a feasible agreement about operation and downtime, a collection/allocation plan, and an honest message to the buyers. Record only what was secured. Buyer acceptance may remain a future thread. Recovery takes time; reserves do not refill immediately and dependence remains.
+**PRIVATE — a workable resolution:** a feasible agreement about operation and downtime, a collection/allocation plan, and an honest message to the buyers. Record only what was secured. Buyer acceptance may remain a future thread. Recovery takes time; reserves do not refill immediately and dependence remains.
 
 ## Close and record
 
@@ -562,4 +567,4 @@ Offer clues in response to their approach. These are prepared discoveries, not i
 
 > “Tell your people which side of the works they are welcome on. If they want what comes downriver, they can help keep it running.”
 
-**DM — record after play:** bargain and payments; who ate or stayed; care and return outcomes; elapsed time and resources; discovered evidence; operating schedule and planned breaks; actual buyer messages/replies; NPC commitments; next location. Record these in the appropriate new session notes, not as retroactive events in session 008.
+**PRIVATE — record after play:** bargain and payments; who ate or stayed; care and return outcomes; elapsed time and resources; discovered evidence; operating schedule and planned breaks; actual buyer messages/replies; NPC commitments; next location. Record these in the appropriate new session notes, not as retroactive events in session 008.

@@ -7,7 +7,7 @@ status: established-incomplete
 
 # Waycaps
 
-**Fairy name:** Waycaps; singular, waycap. Magical mushrooms used for literal travel between planes and accepted as a bargaining good.
+**Fairy name:** Waycaps; singular, waycap. Magical mushrooms used for literal travel between planes under fairy control. They are not offered as bargaining goods or rewards to non-Umbral creatures. Oren’s exceptional guided crossing does not include spare Waycaps for the party to keep.
 
 ## Established effect
 
