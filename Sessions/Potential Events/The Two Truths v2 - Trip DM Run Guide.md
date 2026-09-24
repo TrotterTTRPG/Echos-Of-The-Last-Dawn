@@ -83,7 +83,7 @@ Companion to [[Sessions/Potential Events/The Two Truths v2|The Two Truths v2]] a
 > You swallow. The elder is there—and then the space where he stood is empty. You are still here. The ground presses against you, but the sensation seems very far away. Voices pass over you. Holding onto the words takes effort.
 
 
-When the mushrooms hit:
+When the mushrooms hit: You seem to have 
 
 
 
