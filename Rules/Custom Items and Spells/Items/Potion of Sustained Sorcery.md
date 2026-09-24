@@ -9,7 +9,7 @@ status: existing-vault-content
 
 **Existing vault homebrew.** The original effect and recipe are embedded below; no rebalance or new selection is implied.
 
-![[Rules/Custom Items and Spells/Alchemy/Violuma Alchemy#Potion of Sustained Sorcery (CUSTOM — Hall of Metamagic & Theory flagship)]]
+![[Rules/Custom Items and Spells/Alchemy/Violuma Alchemy#Potion of Sustained Sorcery]]
 
 Craft costs assume supplied Violuma ingredients. Consult [[Rules/Custom Items and Spells/Alchemy/Violuma Alchemy|the full catalogue]] for preparation and supporting reagents. Its stock/budget figures are historical and require reconciliation with session 008.
 

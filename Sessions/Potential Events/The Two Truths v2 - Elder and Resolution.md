@@ -30,7 +30,7 @@ version: 2
 
 ## Before play
 
-**PRIVATE — current position:** Session 008 ended on Sugarbend’s outskirts, near a pond bank with a scattering of mushroom homes. The party met the elder, who offered a “banquet” of nectar that amounted to roughly a thimble-sized serving. They have not yet entered the town proper. Resume with his invitation below; preserve any further details the players recall. Everything below is preparation, not recorded play. The purgatory encounter is being designed separately.
+**PRIVATE — current position:** Session 008 ended on Sugarbend’s outskirts, near a pond bank with a scattering of mushroom homes. The party met the elder, who offered a “banquet” of nectar that amounted to roughly a thimble-sized serving. They have not yet entered the town proper. Resume with his invitation below; preserve any further details the players recall. Everything below is preparation, not recorded play. The purgatory encounter has a separate [[Sessions/Potential Events/The Two Truths v2 - Trip DM Run Guide|DM run guide]].
 
 ### What you need to remember
 
@@ -60,7 +60,7 @@ version: 2
 
 **Confirmed production pattern:** the woman and her daughters operate the equipment for their own studies. Vacations, ordinary maintenance, and time spent on other studies interrupt the runoff. They know the fairies only as attackers from two incidents during extended vacations; they know nothing of Sugarbend's dependence or trade.
 
-**Still open:** purgatory return mechanism, elapsed time, treatment mechanics, and effects on companions. No automatic full heal or long rest. The guide can be used for the elder meeting now; the purgatory handoff needs its separate encounter before that portion is run.
+**Trip preparation:** use [[Sessions/Potential Events/The Two Truths v2 - Trip DM Run Guide|the trip run guide]] for the crystal arch, moving bridge, seasonal garden, and proposed garden-linked return. Choose Naieht’s side before play. Exact material-world time, numerical treatment effects, and companion travel effects remain open. No automatic full heal or long rest.
 
 Setting: [[Sugarbend]]. Planar design: [[Sessions/Potential Events/The Two Truths v2|The Two Truths v2]].
 
@@ -342,15 +342,15 @@ Item reference: [[Rules/Custom Items and Spells/Items/Pondstrider|Pondstrider]].
 
 ### Purgatory handoff
 
-**PURGATORY HANDOFF:** stop this script and switch to the separate purgatory encounter. Its challenges and return mechanism remain unfinished. This is a handoff marker, not permission to skip the party’s experience.
+**PURGATORY HANDOFF:** open [[Sessions/Potential Events/The Two Truths v2 - Trip DM Run Guide#2. Arrive in one place twice|the trip run guide at scene 2]]. The departure and call for Vetch have already happened; do not repeat them. The guide contains the crystal arch, moving bridge, seasonal garden, proposed return, and clinic narration.
 
-Before resuming the clinic, privately agree who has returned, elapsed material-world time, body condition, and actions by anyone who stayed behind. **Resume at scene 5.**
+Before resuming the clinic, privately agree who has returned, elapsed material-world time, body condition, and actions by anyone who stayed behind. **Resume at scene 5, or at scene 6 if the trip guide has already narrated the clinic awakening.**
 
 | Character | PRIVATE — established destination |
 | --- | --- |
 | Aulberos and Vivatrix | Umbral-aspected purgatory |
 | Aelar and Chein | Effulgent-aspected purgatory |
-| Naieht | Ghostlike presence in both aspects, fully in neither; little meaningful interaction |
+| Naieht | Fully present in one aspect, chosen before play; either side works with the trip guide |
 
 **PRIVATE:** These are aspects of one shared purgatory, not the pure planes. Bodies remain in the material world. The elder's minute does not determine the party's total absence. Once the separate encounter brings their souls back, continue below.
 

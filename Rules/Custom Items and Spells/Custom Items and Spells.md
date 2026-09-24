@@ -11,14 +11,14 @@ status: reference
 
 | Entry | Status |
 | --- | --- |
-| [[Rules/Custom Items and Spells/Items/Waycaps|Waycaps]] | Established effects; return mechanics and quantities open |
-| [[Rules/Custom Items and Spells/Items/Pondstrider|Pondstrider]] | One dose per potion; lasts until the next long rest |
-| [[Rules/Custom Items and Spells/Items/Sweetpitch|Sweetpitch]] | Established product and process; game effects open |
-| [[Rules/Custom Items and Spells/Items/Sweetwaters|Sweetwaters]] | Established collection material |
-| [[Rules/Custom Items and Spells/Items/Draught of Lucid Casting|Draught of Lucid Casting]] | Existing homebrew potion |
-| [[Rules/Custom Items and Spells/Items/Glowspore Draught|Glowspore Draught]] | Existing homebrew thrown draught |
-| [[Rules/Custom Items and Spells/Items/Potion of Sustained Sorcery|Potion of Sustained Sorcery]] | Existing homebrew potion; session 008 order recorded |
-| [[Rules/Custom Items and Spells/Items/Potion of Truesight|Potion of Truesight]] | Existing homebrew potion |
+| [[Rules/Custom Items and Spells/Items/Waycaps\|Waycaps]] | Established effects; return mechanics and quantities open |
+| [[Rules/Custom Items and Spells/Items/Pondstrider\|Pondstrider]] | One dose per potion; lasts until the next long rest |
+| [[Rules/Custom Items and Spells/Items/Sweetpitch\|Sweetpitch]] | Established product and process; game effects open |
+| [[Rules/Custom Items and Spells/Items/Sweetwaters\|Sweetwaters]] | Established collection material |
+| [[Rules/Custom Items and Spells/Items/Draught of Lucid Casting\|Draught of Lucid Casting]] | Existing homebrew potion |
+| [[Rules/Custom Items and Spells/Items/Glowspore Draught\|Glowspore Draught]] | Existing homebrew thrown draught |
+| [[Rules/Custom Items and Spells/Items/Potion of Sustained Sorcery\|Potion of Sustained Sorcery]] | Existing homebrew potion; session 008 order recorded |
+| [[Rules/Custom Items and Spells/Items/Potion of Truesight\|Potion of Truesight]] | Existing homebrew potion |
 
 ## Alchemy and recipes
 
