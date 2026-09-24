@@ -82,17 +82,28 @@ Companion to [[Sessions/Potential Events/The Two Truths v2|The Two Truths v2]] a
 
 > You swallow. The elder is there—and then the space where he stood is empty. You are still here. The ground presses against you, but the sensation seems very far away. Voices pass over you. Holding onto the words takes effort.
 
+----
+When the mushrooms hit:  
+For everyone but Neight
 
-When the mushrooms hit: You seem to have 
+At first, you catch yourself in a daydream and snap yourself back to reality. It's was of you, or I should say - the best version of you. You might consider have been considering how you've changed. Or, maybe how much you haven't. 
+But reality is...weird. Your on the ground? In a somewhat crimpled heap.
+
+Naieht: You notice that one after another, your party members get a distant look in thier eyes. They are quiet, and just seem lost in thought before they start dropping to the ground.
 
 
+Eventually, Naieht also has the same happen
+---- --
 
+reality is warping as you behold it. It looks as if everything were a relfection on top wavy water, while you are sinking deeper. Everything sounds like you are submerged. 
 
-Adapt the posture; nobody must fall from standing. Oren has crossed bodily. He waits about one minute, then returns. Anyone who remained awake can act during that minute.
+Perception: 10 
+they see oren come back
+
 
 **OREN — after returning**
 
-> “No. Something is wrong. They should have come through.”
+> “Something is wrong. They should have come through.”
 
 **TANSY**
 
@@ -126,13 +137,16 @@ Adapt the posture; nobody must fall from standing. Oren has crossed bodily. He w
 
 This is an orientation sketch, not a puzzle diagram. Tree number and spacing are visible scenery, not a secret code. The pool is separate from the small basin in the later garden.
 
+ > You do drown, in a way. you sink and sink away from reality. It gets smaller and small until it is out of sight, and no more. You see nothing as you keep sinking but you feel as though you are not sinking down but in. You notice that you are no longer breathing and gasp for air. Your eyes open. You can't tell if they've been closed for a while, or if you just blinked. Your standing though, so that good at least. But you are all alone.  
+
+ 
+
 **READ ALOUD — Effulgent: Aelar, Chein, and Naieht if assigned here**
-
-
- > you 
+ 
 > Two rows of trees frame a still pool, each tree facing its twin across the water. Their branches divide and divide again, repeating the same shape down to the veins of a leaf. Nothing interrupts the pattern. Not a fallen twig, not a ripple.
 >
 > Your footsteps sound unusually loud on the paving. Beyond the pool, a crystal arch catches the steady light. The passage beneath it is filled with crystal too, as though an opening were something this place could not leave unfinished.
+
 
 **READ ALOUD — Umbral: Aulberos, Vivatrix, and Naieht if assigned here**
 
