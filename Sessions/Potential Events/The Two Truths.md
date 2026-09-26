@@ -1,23 +1,4 @@
-Location: **[[Sugarbend]]**, the fae village downriver from [[Electric Woman|the Old Woman's generator]]
-Central NPCs: [[Tansy Bellwether]] (hostess — serves the mushrooms, then stays behind to watch the sleepers)
-Type: Two-table split-perception **puzzle dungeon.** No combat. Not a test. Theatre of the mind start to finish.
-Connects: **[[Electric Woman]]** — the party is fed mushrooms to keep them out of the way while Sugarbend's fae go upriver to seize the sugar mill. They wake to the sound of it. Requires **two DMs running simultaneously in separate rooms.**
-Party: written for 5 level 4 characters, split **2 [[The Effulgent Soul|Effulgent]] / 3 [[The Umbral Soul|Umbral]]**. See **[[#The Split]]**.
-
-> *Two rooms, one dungeon, and nobody in it is trying to hurt anyone. The mushrooms are a gift and a leash: a long, beautiful, maddening puzzle box that runs until it's solved, and every hour the party spends inside it is an hour the fae spend upriver. One table sees the dream as the Gilded Age would like it remembered. The other sees what's underneath. The tapestry on one wall is the broken door on the other. The sheep in one field are the redcaps in the other. And the only way out is to shout what you can see through the wall to the people who can't.*
-
----
-
 ## ▶ Run Sheet
-
-**Logistics — read this first**
-- [[#What's Actually Happening (DM Only)]] — the fae plan, and why this is a time-waster.
-- [[#Two Tables, One Dungeon]] — physical setup, sync signal, and the dream's ground rules.
-- [[#The Split]] — who sees what, and why Vivatrix belongs on Umbral.
-- [[#Timing — Budgeting the 6 Hours]]
-
-**The Hook**
-1. [[#The Feast — Before the Trip]] — Tansy serves the Long Supper. Watch the village quietly empty.
 
 **The Hollow Bloom (the shared vision-dungeon)**
 2. [[#Room 1 — The Threshold]] — the gate. Four symbols in a ring; the rhyme is split between the tables.
@@ -26,94 +7,7 @@ Party: written for 5 level 4 characters, split **2 [[The Effulgent Soul|Effulgen
 5. [[#Room 4 — The Bridgewright's Span]] — Effulgent has the blueprint, Umbral has the wreckage.
 6. [[#Room 5 — The Shrine of Two Mothers]] — the offering. The way out.
 
-**Aftermath**
-7. [[#Waking — The Conflict Upriver]] — the party wakes hours later to a village emptied out and a sky lit from the direction of the mill.
-
-**DM only**
-- [[#DM Notes — Running Two Tables At Once]]
-- [[#DM Eyes Only — The Vivatrix Thread]]
-
 **Scripts (read-aloud, one per table):** [[The Two Truths - Effulgent Script]] · [[The Two Truths - Umbral Script]]
-
----
-
-## What's Actually Happening (DM Only)
-
-- [[Sugarbend]]'s pond has been **thinning for weeks.** Per [[Electric Woman]], the Old Woman has stopped letting sweet runoff reach the river — she's pouring everything into "lightning." The fae are sugar-dependent. They're getting sharp, then mean, then worse. Per lore, deprived of sugar they revert to what their ancestors were during [[The Umbral Soul]]'s last height.
-- The village has decided to **take the mill** — the sugar cane crushing works and the generator — and run it themselves. Some of them say "seize the means of production" with a straight face.
-- The party is a problem. They're strangers heading for the mill, they're well-armed, and they might be sympathetic to the Old Woman. The fae won't kill guests. They **will** keep them busy.
-- The mushrooms are **Twinsight caps**, the Long Supper's traditional dish. They drop whoever eats them into the **Hollow Bloom**, a shared dream-labyrinth the old grandmothers use to keep unwelcome guests occupied and harmless. It runs until it's solved. Everyone in it wakes at the end, rested and none the worse.
-- Nothing in the Hollow Bloom is hostile. It's a **puzzle box**, not a trial. Nobody's judging anyone. That's the joke: the fae aren't testing the party, they're *stalling* them, and the puzzles are just really, really good at it.
-- **The timeline:** the fae leave over the course of the feast and start hitting the mill roughly when the party goes under. By the time the party wakes (5–7 hours in) the assault is well underway.
-
----
-
-## Two Tables, One Dungeon
-
-The whole conceit only works with real physical separation:
-
-- **Two rooms** (or two far corners with a real barrier between them — a door, a curtain, a hallway) close enough that **raised voices carry through, but nothing else does.** No peeking. No passing notes with pictures. Voice only.
-- **Two DMs**, each running one room from **[[The Two Truths - Effulgent Script]]** or **[[The Two Truths - Umbral Script]]**. Each script is *narration and this table's half of the data.* **The answer keys in this document are for both DMs** — you both need to know the solutions to judge them. But each DM should genuinely avoid reading the other's script ahead of time; you don't want to accidentally pace to match.
-- **Agree on a sync signal** before you start (a text, a knock, a runner) for "something just changed on my side." The state of the dungeon is shared; every room-changing action needs to reach the other DM immediately.
-- **Tell the players the ground rule** before the trip starts: *"You can hear each other through the wall, muffled. You can't see or touch each other. Whatever you want the other room to know, you have to say out loud."*
-
-**Dream rules (both tables):**
-- **Nothing here can hurt them.** If a player attacks something, casts something destructive, or tries to smash their way through a wall, the dream absorbs it — the target flickers and reforms, the wall heals over, the spell goes off with no real effect. It costs them a few minutes of table time and nothing else. Don't punish it and don't lecture; just let it not work.
-- **Shortcuts return them where they started.** Flight, teleportation, *misty step*, *fey step*, and so on all work, and then the far side is exactly as far away as it was. (Room 4 leans on this.)
-- **They can't leave until the dream ends.** No one's trapped in a scary way; the trip is just the trip.
-- **HP, spell slots, and resources are untouched** by anything in here.
-
----
-
-## The Split
-
-**Tansy sorts the table herself, mid-feast** (see [[#The Feast — Before the Trip]]). She hands out two kinds of cap — **violet** and **grey** — and picks who gets which by whim. **Violet = Effulgent. Grey = Umbral.**
-
-**Recommended split: [[Vivatrix]] + [[Naieht]] + [[Chein Po|Po]] (and [[Kai]]) → Umbral (grey). [[Aelar Aurelius|Aelar]] + [[Aulberos Lightmind|Aulberos]] → Effulgent (violet).**
-
-Why this pairing (swap freely — the puzzles don't care who's where, only that it's 2/3):
-- **Vivatrix must be Umbral** — that's the whole point of [[#DM Eyes Only — The Vivatrix Thread]]. Her patron is [[The Umbral Dragon]] and she doesn't know it. Where everyone else at that table finds the room's rot and hunger unsettling, it should sit on her like something worn-in and familiar — comfortable in a way she can't explain.
-- **Naieht and Po (with Kai)** are a good Umbral pair for the same reason: they're the ones who visibly *don't* feel that comfort. Naieht's a vengeance-driven orc and Po's a reformed thief with a drake — grim honesty is not foreign to either, but neither is at ease. The contrast with Vivatrix is the point.
-- **Aelar and Aulberos take Effulgent.** Both are long-lived, contemplative, harmony-oriented characters — a Winter [[Aelar Aurelius|Eladrin]] whose own appearance shifts with mood and season, and a 600-year-old Firbolg druid whose whole arc is restoring balance. A stagnant, too-perfect paradise is quietly interesting to sit with for characters already thinking about seasons and equilibrium.
-- **In-fiction pretext for Vivatrix's cap:** Tansy hands her the grey with *"You've the look of someone who takes her tea bitter."* Tansy has no idea what she's seeing; it's just a good line and it happens to land.
-
----
-
-## Timing — Budgeting the 6 Hours
-
-| Segment | Target length | Notes |
-|---|---|---|
-| [[#The Feast — Before the Trip]] | 30–40 min | RP, clues, the split, mushrooms go down |
-| [[#Room 1 — The Threshold]] | 25–35 min | Teaches the mechanic — keep it winnable |
-| [[#Room 2 — The Tapestry and the Door]] | 20–30 min | The shortest room; it's an "aha," not a grind |
-| [[#Room 3 — The Herd]] | 75–90 min | Six riddles, heavy relay in both directions |
-| [[#Room 4 — The Bridgewright's Span]] | 60–75 min | Four stages; the biggest cooperative lift |
-| [[#Room 5 — The Shrine of Two Mothers]] | 30–45 min | Emotional beat; lower mechanical load |
-| [[#Waking — The Conflict Upriver]] | 20–30 min | Hook the next session |
-
-That totals **~4.5–5.5 hours.** To stretch it toward 6: extend the Feast (it's the safest place to add), use the **bonus rounds** at the end of Rooms 3 and 4, and don't over-hint. To trim: skip the bonus rounds and give hints sooner.
-
----
-
-## The Feast — Before the Trip
-
-Runs as one scene, both DMs present. The split happens at the end.
-
-Sugarbend receives the party the way [[Electric Woman]] sets it up: a village of nomadic fae, pacified by sugar they've grown dependent on, generally gentle *so long as no one interrupts their work.* **[[Tansy Bellwether]]** greets them at the edge of the village, insists they stay for the Long Supper, and won't hear a word about business before food.
-
-**Beats:**
-- **Warm, unhurried hospitality.** Real food, real wine, real fae music. Nothing here is a trick until it is. Tansy is honest — she just picks which true things to say.
-- **The village quietly empties.** Scatter these through the meal. Most of them read as normal village business; only in hindsight do they add up:
-  - Fae passing with rope, sacks, and empty barrels — "for the harvest."
-  - The ferry mooring at the water's edge is empty. If asked, "someone's borrowed it."
-  - Muddy tracks heading upriver in a *lot* of small footprints.
-  - The tables are set for far more than are seated. By dessert, half the fae have left "to help with something."
-  - The pond, when the party walks past it, is low and cloudy. Tansy: "It's been a bit thin lately."
-  - A fae child asks when Da gets back from "the big job." Tansy shushes them, smiling.
-  - **Also scatter irrelevant details** so none of the above stand out: a fae playing a jaw harp badly, two old fae arguing over dice, a dog-sized frog asleep under a bench, a pie cooling with a suspicious paw print in it.
-- **Tansy serves the Twinsight caps herself,** by hand, from a shallow carved bowl of two-tone mushrooms: **violet caps** and **grey caps.** She tells each guest which is theirs, with a line: *"Violet for the sweet dreamers. Grey for the ones who take their tea bitter."* Split the table 2/3 per [[#The Split]]. She's honest about what they do: *"Long dreams, dears. Lovely ones. Don't fight it."* She doesn't say how long.
-- **Let them eat.** A suspicious player is allowed to say "this feels like a trick" without it changing anything. Tansy would just smile: *"Everything I've said is true. Eat."* Refusing outright makes Sugarbend sour and cold, and the mill gets taken anyway. If someone insists, let them nibble a little, or roll it so they end up eating anyway.
-- **The world goes soft at the edges.** Physically move the two subgroups to their separate rooms **mid-description**, so the disorientation of the trip lines up with being physically split. Each DM picks up with their own script's Room 1.
 
 ---
 

@@ -49,13 +49,13 @@ version: 2
 
 ### Main character reminders
 
-| Character | Keep consistent |
-| --- | --- |
-| **Oren** | Guarded, behind on deliveries, prioritizes buyers. Illegal entry is a known risk; failed Waycap travel is a genuine surprise. |
-| **Rusk** | Fears the buyers. Wants to seize the hut intact; close to defying Oren. Cannot explain how the machinery works. |
-| **Tansy** | Practical hospitality. Stays behind and calls for Vetch. No deliberate trap. |
-| **Vetch** | Competent, occupied, unsentimental. Assumes poisoning and criticizes Oren while treating the party. |
-| **Electric woman** | Protective, intelligent, unaware of the downstream product. Her soul theory remains unresolved. |
+| Character          | Keep consistent                                                                                                               |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Oren**           | Guarded, behind on deliveries, prioritizes buyers. Illegal entry is a known risk; failed Waycap travel is a genuine surprise. |
+| **Rusk**           | Fears the buyers. Wants to seize the hut intact; close to defying Oren. Cannot explain how the machinery works.               |
+| **Tansy**          | Practical hospitality. Stays behind and calls for Vetch. No deliberate trap.                                                  |
+| **Vetch**          | Competent, occupied, unsentimental. Assumes poisoning and criticizes Oren while treating the party.                           |
+| **Electric woman** | Protective, intelligent, unaware of the downstream product. Her soul theory remains unresolved.                               |
 
 ### Decisions still needed
 

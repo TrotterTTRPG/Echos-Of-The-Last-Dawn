@@ -6,16 +6,6 @@ DM-only read-aloud script for the **Umbral** table. Mechanics, timing, dream rul
 
 ---
 
-## Room 0 — The Feast (shared scene, see [[The Two Truths#The Feast — Before the Trip]])
-
-Run this together with the Effulgent DM before splitting rooms. Once Tansy has handed out the caps and everyone has eaten, move this table to its own space and read:
-
-> The wine in your cup has gone thick and dark, like it's remembering being something else. The lanterns strung through the trees gutter and steady, gutter and steady, in time with your own pulse, which you can suddenly hear far too clearly. Tansy is still talking, warm and quick, but underneath her voice there's a second one now, slower, saying the same words a half-beat behind her — or maybe that's just your own blood in your ears. The last thing you're sure of is her little bells chiming as she turns to refill a cup — and then the feast table isn't there, and neither is anyone who isn't sitting where you are.
-
-Transition straight into Room 1. Don't leave a gap for questions; the disorientation is the point.
-
----
-
 ## Room 1 — The Threshold
 
 > You're standing at the start of a garden path that shouldn't exist — the hedges on either side are dead, brittle, black-branched things trimmed at some point into shapes you can almost recognize before your eye slides off them. The air smells like wet ash and something sweet underneath it, gone slightly off, like fruit a day past ripe. Somewhere off to your left, something is making a sound like a bird might, if it had learned birdsong secondhand and never quite gotten it right.
@@ -90,25 +80,34 @@ Transition straight into Room 1. Don't leave a gap for questions; the disorienta
 
 *Plain:* Each redcap has a fleece-coat you can't see. Which is the **whitest?** **Answer: the Stone.**
 
+**E1 — The Crown Beneath**
+> *"Wool's the half of any sheep; the rest is hid where wool runs deep. Every one of mine wears red — some worn pale, some worn dead. Point me to the deepest-dyed, the crown that's soaked the most inside."*
+
+*Plain:* Each sheep has a red cap under its wool. Which cap is the **deepest, darkest red?** **Answer: the Pond.**
+
 **U2 — Ribbon and Hook**
 > *"Ribbons tied on two of ours; one is handy with a hook. Point me to the ribboned one who has the hooked blade — take a look."*
 
 *Plain:* Two have ribbons. Only one of them carries a **hooked blade.** **Answer: the Bell Post.** (The Willow's sickle is hooked too, but it has no ribbon.)
 
-**U3 — The Order of Coats**
-> *"Now line us up from black to white, the darkest coat to the pale and light. Name us each by where we stand, and I'll open the gate by hand."*
+**E2 — Bell and Iron**
+> *"Two of mine will ring as they roam; one of the two goes iron-shod home. Not the one that treads on leather — bring me the one with bell and iron, together."*
 
-*Plain:* Put the band in order, **darkest fleece to palest.** **Answer: Willow, Cart, Fence, Bell Post, Pond, Stone.**
+*Plain:* Two sheep wear bells. Only one of those two has **iron boots.** **Answer: the Cart.** (The Willow's bell-wearer has leather boots.)
 
-**Bonus round (optional):** *"Now backwards!"* — same order, reversed: **Stone, Pond, Bell Post, Fence, Cart, Willow.**
+
 
 **When a riddle is answered correctly:** the named redcap steps forward, tips its cap, and steps back. **When it's wrong:** the old redcap clicks his tongue, restates the plain version, and adds: *"Have you asked the folk beside you what they see?"*
 
-**Noise cues from the Effulgent table:** if you hear shouting through the wall about bells, ribbons, or fleece color, the old redcap notices with a pleased grin: *"There. That's the sound of someone getting it."*
+**Noise cues from the Effulgent table:** if you hear shouting through the wall about bells, ribbons, or fleece color, the old redcap notices with a pleased grin: *"There. That's the sound of someone getting it."
+
+*
 
 **[VIV] — deliver this once, the first time the old redcap's eyes go down the line of the party, quietly enough that it reads as an aside rather than a table-wide reveal:**
 
 > *His eyes go down the line of you and catch, just for a beat, on Vivatrix — and the grin falters into something almost like respect. "...not you, though," he mutters, more to himself than to her. "You're closer to home already, aren't you." Then he's back to sizing up the rest of you, like it never happened.*
+
+
 
 **Resolution:** once both tables have finished, the **iron bell** on the post rings once, low and clear, and the band trots off down the path in a line, laughing. The way forward is open.
 
