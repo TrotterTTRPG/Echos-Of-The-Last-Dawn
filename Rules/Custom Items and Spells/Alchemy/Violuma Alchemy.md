@@ -6,7 +6,7 @@ A catalog of homebrew items, reagents, and recipes unique to [[Advelde]]. Rarity
 
 # Violuma Fungus
 
-A purple, faintly glowing fungus identified by the [[Hall of Metamagic and Theory]] from a batch of specimens the party collected. The Hall's finding: the large and small caps are **the same organism at different maturities**, not two species. The glow is not a property of the fungus itself — it is *residual arcane saturation*. Violuma grows only where raw magic bleeds into soil or stone (ley seepage, old spell-scars, [[Thalyran Magitech]] runoff), and it slowly drinks that ambient charge. This is exactly why the Hall covets it: the caps store loose spell energy that alchemy can coax back out.
+A purple, faintly glowing fungus identified by the [[Hall of Metamagic and Theory]] from a batch of specimens the party collected. The Hall's finding: the large and small caps are **the same organism at different maturities**, not two species. The glow is not a property of the fungus itself — it is *residual arcane saturation*. Violuma grows only where raw magic bleeds into soil or stone (ley seepage, old spell-scars, Thalyran Magitech runoff), and it slowly drinks that ambient charge. This is exactly why the Hall covets it: the caps store loose spell energy that alchemy can coax back out.
 
 | Form                      | Common Name | Description                                                                 |
 | ------------------------- | ----------- | -------------------------------------------------------------------------- |
@@ -75,7 +75,9 @@ These require a refined reagent plus supporting ingredients. Only the Head Alche
 - **Recipe:** 1 vial Crowncap Resin + 1 Spellbound Crystal Shard (25 gp) + 1 dose Alchemist's Base (5 gp) + 100 gp labor
 - **Effect:** When you drink this potion, you gain the effect of the *detect thoughts* spell (save DC 13). The resin sustains the mental link for the full 10-minute duration.
 
-### Potion of Sustained Sorcery  *(CUSTOM — Hall of Metamagic & Theory flagship)*
+### Potion of Sustained Sorcery
+
+*(CUSTOM — Hall of Metamagic & Theory flagship)*
 
 - **Rarity:** Rare — **Value:** 800 gp — **Craft Cost:** 150 gp + 2 vials Crowncap Resin
 - **Recipe:** **2 vials Crowncap Resin** + 1 Spellbound Crystal Shard (25 gp) + 1 dose Alchemist's Base (5 gp) + 120 gp labor
@@ -92,7 +94,9 @@ These require a refined reagent plus supporting ingredients. Only the Head Alche
 - **Recipe:** 1 pouch Sparkcap Dust + 1 Powdered Gemstone Focus (100 gp) + 100 gp labor
 - **Effect:** When you drink this potion, you gain the effect of the *clairvoyance* spell.
 
-### Potion of Truesight  *(CUSTOM)*
+### Potion of Truesight
+
+*(CUSTOM)*
 
 - **Rarity:** Rare — **Value:** 800 gp — **Craft Cost:** 210 gp + 2 pouches Sparkcap Dust
 - **Recipe:** **2 pouches Sparkcap Dust** + 1 Gorgon-glass Lens (50 gp) + 1 Wisp of Ectoplasm (40 gp) + 120 gp labor

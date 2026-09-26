@@ -17,7 +17,9 @@ The elder advises travelers to eat together and follow him, and discourages trav
 
 ## Current party preparation
 
-Aulberos and Vivatrix enter the Umbral aspect; Aelar and Chein the Effulgent aspect. Naieht becomes a ghostlike presence in both, fully in neither, with little meaningful interaction. This split is encounter preparation, not a universal alignment rule or recorded event.
+Aulberos and Vivatrix enter the Umbral aspect; Aelar and Chein the Effulgent aspect. Naieht is fully present in one aspect, chosen before play; the later design direction replaces his former ghost-between-both role. This split is encounter preparation, not a universal alignment rule or recorded event.
+
+The [[Sessions/Potential Events/The Two Truths v2 - Trip DM Run Guide|trip run guide]] supplies the selected three-part encounter and a proposed return through the seasonal garden. Its puzzle effects are encounter-specific preparation, not universal Waycap powers.
 
 ## Still to decide
 

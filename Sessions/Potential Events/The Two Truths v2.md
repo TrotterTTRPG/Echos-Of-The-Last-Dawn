@@ -13,7 +13,7 @@ version: 2
 
 Original: [[Sessions/Potential Events/The Two Truths|The Two Truths — v1]]
 
-**Current scene draft:** [[Sessions/Potential Events/The Two Truths v2 - Elder and Resolution|Elder meeting, mushroom choice, and resolution]]. It omits the purgatory encounter, which will be redesigned later.
+**Current scene draft:** [[Sessions/Potential Events/The Two Truths v2 - Elder and Resolution|Elder meeting, mushroom choice, and resolution]]. For the trip itself, use [[Sessions/Potential Events/The Two Truths v2 - Trip DM Run Guide|the DM run guide]]: crystal arch, moving bridge, seasonal garden, and proposed return. This sequence is selected; its detailed procedures are new encounter preparation.
 
 ## Confirmed starting point
 
@@ -74,13 +74,11 @@ Their bodies are moved to Sugarbend's version of a clinic, where they come to wh
 | [[Player Characters/Vivatrix|Vivatrix]] | Umbral aspect |
 | [[Player Characters/Aelar Aurelius|Aelar]] | Effulgent aspect |
 | [[Player Characters/Chein Po|Chein Po]] | Effulgent aspect |
-| [[Player Characters/Naieht|Naieht]] | Due to his constitution, his crossing proceeds only partway. He is a spirit present in both aspects of purgatory, fully in neither. |
+| [[Player Characters/Naieht|Naieht]] | Fully present in one aspect, chosen before play. The trip guide works with either side. |
 
-All five bodies remain on the material plane. Naieht's unusual position concerns his soul's presence within purgatory; it does not mean his body crosses. The two aspects remain manifestations of the same purgatory.
+All participating characters’ bodies remain on the material plane. The two aspects are manifestations of one purgatory.
 
-**Naieht's ghostlike presence:** he is unable to interact with either aspect in a very meaningful way, much like a ghost. His presence in both does not give him normal physical agency in either. This describes his incomplete crossing, not a transformation into a standard Ghost creature or access to its abilities.
-
-**Still open:** what Naieht can perceive and communicate, whether any minor interaction is possible within that limitation, and how his role works with the physical table arrangement; the reason the other four experience their assigned aspects; companion handling; how souls return to their bodies; duration; bodily condition during separation; and dangers or resource effects. His constitution explains his partial crossing, but no Constitution roll, DC, or general rule has been selected. Do not automatically retain v1's guaranteed harmlessness or six-hour delay.
+**Later design direction:** Naieht is no longer a ghost or special intermediary. Place him fully in either aspect. The [[Sessions/Potential Events/The Two Truths v2 - Trip DM Run Guide|trip guide]] supplies playable communication, puzzle actions, reset procedures, and a proposed return through the final garden. These mechanics are encounter-specific preparation. Exact elapsed time, companion handling, and numerical treatment effects remain open; no automatic long rest or general harmlessness is established.
 
 The mushrooms and the pond's addictive sugar are separate elements; no biological or alchemical connection between them has been established.
 
@@ -116,7 +114,7 @@ Variation can appear in uneven rhythms, changing reflections, shifting textures,
 
 - Anchor both accounts to the same layout and identifiable features before describing their differences. The courtyard, pool, path, or doorway provides the correspondence; its condition and behavior express the aspect.
 - For puzzles, decide which facts remain stable. Atmospheric transformation should not silently change a required symbol count, location, or answer. Whether actions in one aspect alter the other remains a mechanic to define.
-- Naieht's presence in both does not yet establish that he sees both clearly or can explain their correspondence. His perception and communication remain open.
+- Naieht participates fully on one chosen side. Use the trip guide’s shared communication procedure; he is not a required messenger.
 - Reassess v1's moving flowers, busy pastoral scenery, and static ruined counterparts against these principles. Retain any old room only after its descriptions and mechanics fit the revised place.
 
 ### Starting with the elder
@@ -136,7 +134,7 @@ These are editorial observations and open questions, not new campaign facts.
 1. **What happens next in the existing crisis?** Fairy bands have attacked the factory twice during extended vacations. What happened in those attacks, how has the old woman responded, and what does the elder want to do now? Reduced production by the woman and growing numbers of addicts are established. Output falls during vacations, routine maintenance, or studies that do not use the equipment. This is coincidental, not a deliberate cutoff: the woman and her daughters know the fairies only from the two attacks, and do not know of their dependence or trade. Why would the fae involve or avoid asking these adventurers for help?
 2. **Why would the elder involve the party in planar travel?** The elder expects the mushrooms to carry the party normally. Develop the confirmed offer to pay for a visit to the Umbral buyers and the terms that make it worthwhile for the party. The elder is not deliberately sending them into purgatory.
 3. **Why would everyone participate?** V1 depends on every PC eating the assigned mushroom. Its suggestion to roll until a reluctant character eats does not supply a believable character decision. What happens if someone refuses, stays awake, asks direct questions, or offers help instead?
-4. **How does the partial crossing resolve?** The aspect assignments above are fixed. Define Naieht's interaction with both aspects, communication between the groups, the return to their bodies, and how time and their unattended bodies are handled.
+4. **How does the partial crossing resolve?** The trip run guide proposes a garden-linked return and shared communication. Choose Naieht’s side before play; record actual material-world events and any elapsed time rather than assuming v1’s six hours.
 5. **Why do these puzzles exist in purgatory?** The gate, sheep/redcaps, bridge, and shrine need a coherent relationship to the shared place and its two aspects. Which elements should remain, and which are expendable?
 6. **What care follows the call for help?** The elder returns after about a minute and finds the partly unconscious party. Another fairy present sends for the doctor/herbalist. The doctor stabilizes them with healing medicines and magic at the clinic; both fairies interpret this as poisoning, not travel. Exact treatment mechanics, actions by companions who stayed behind, and Tansy's role remain open.
 
@@ -154,7 +152,7 @@ These are editorial observations and open questions, not new campaign facts.
 - Collected cane lacks the properties produced by a pond organism acting on the runoff through accidental biological/alchemical transformation. The organism and reaction details remain open.
 - No Umbral/Effulgent energy mechanism. The old woman supplies the runoff; her current operation feeds the pond process. Whether the fairies could eventually reproduce or replace that supply remains open.
 - Revised entry method, timing, puzzle structure, and aftermath: undecided.
-- V2 split: Aulberos and Vivatrix experience Umbral; Aelar and Chein experience Effulgent. Naieht's constitution leaves him a spirit in both aspects, fully in neither. This supersedes v1's 2/3 split.
+- V2 split: Aulberos and Vivatrix experience Umbral; Aelar and Chein experience Effulgent. Naieht belongs fully to one chosen aspect. Use the trip run guide rather than the archived v1 split.
 - Vivatrix foreshadowing and the old puzzle rooms remain available for review; their implementation is not yet revised for v2.
 
 ---
