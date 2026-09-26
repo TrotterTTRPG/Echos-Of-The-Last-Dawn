@@ -111,44 +111,39 @@ This is the intended dead end. Let them search, knock, and check for hidden swit
 
 ---
 
-## Room 4 — The Bridgewright's Span
+## Room 4 — The Moving Bridge
 
-> The path ends at the lip of a chasm so wide the far side is only a gold smear on the horizon. Below you, a luminous mist rolls in slow, lazy waves, lit from within like fog at dawn. The cliff edge curves away in both directions, farther than you can see, in a great graceful arc. There is no way around.
->
-> A **bridge** starts at your feet — a long arc of pale, humming light, warm underfoot, as though it were poured rather than built. But it stops. Ahead of you, the bridge is a series of **glowing outlines**, drawn in thin gold line, and only the nearest is sharp. The rest are just smudges of light.
+**The Herd-style shared board and full mechanics are in [[The Two Truths#Room 4 — The Moving Bridge]].** Below is what *this table sees* and does.
 
-**If a player tries a shortcut** (flying, *misty step*, *fey step*, jumping, etc.): it works — and the far side is exactly as far away as when they started. They arrive back where they began, lightly disoriented, having gone nowhere. It's a dream. Deliver this gently and don't lecture.
+> The path ends at a gulf of pale, drifting haze, bright as a cloud with the sun behind it. Ahead, the crossing breaks into a line of flat, pale platforms — six landings altogether, counting the ground under your own feet — with gaps of empty haze between them. Near the first gap, three folded lengths of clear, glass-like material lie stacked and waiting. Each one, unfolded, looks like it would make a walkway just wide enough to cross single-file.
 
-**The gaps (reveal one at a time — only when the previous one is filled):**
+**What this table can do:**
+- **Place** a strip across any gap next to a landing someone's standing on. It's slack and unsafe until secured.
+- **Secure** a placed strip — **only this table can do this.** Touching either end of it makes it go still and solid, the glass settling into a clean, steady line. Once secured, anyone can cross it.
+- **Cross** a secured strip freely.
 
-**Gap 1 — The Footing**
-> The nearest outline sharpens: a **low, wide, flat-topped block**, like a step for a giant. One corner — the **front-left** — has a small **notch** cut out of it. At the center of the outline, drawn in fine gold light, is a **flower with three petals.**
+**What this table can't do:** free up a used strip. **Only the Umbral table can release one** — and only once nobody's standing on it. If your players ask why a strip won't come loose in their hands, that's the answer, but let them work it out through the wall rather than telling them outright.
 
-**Gap 2 — The Span**
-> The next outline resolves: a **long plank**, four body-lengths at least, **bowed upward** in the middle like a drawn bow. At its center, a flower — **five petals, four of them small and even, one much longer than the rest**, reaching out like a finger.
+**When Umbral releases a strip you've secured** (cue from your co-DM): read this at whichever landing the strip was resting on.
 
-**Gap 3 — The Rail**
-> The third outline is a **frame** — **six tall upright posts** joined by a single top bar, standing along the plank's edge like a row of fence-posts. Above it, a flower of **four petals.**
+> The strip you steadied a moment ago goes soft at the edges, folds itself into a neat, carryable length, and simply isn't spanning the gap anymore. Someone, somewhere, just picked it up.
 
-**Gap 4 — The Keystone**
-> The last gap, at the very center of the span: a **wedge**, **wide at the top and narrow at the bottom**, meant to be dropped into a slot like the last stone of an arch. The flower here has **seven petals.**
+**When Umbral moves a freed strip back to your side of a gap and it's placed again:** it's now available to secure again, at its new position.
 
-**What this table does:** describe each outline **precisely** across the wall — silhouette *and* flower — so Umbral can pick the right piece from the wreckage. *Petals on this side are burned star-arms on the other; the count and the odd-one-out are what carry across.* They can't see the pieces; they can only describe the gap.
+**Feedback:**
+- **You secure it correctly:** the strip goes still and solid — no roll, no ambiguity. It's obviously done.
+- **A player tries to cross before it's secured:** it sags underfoot before they commit their weight. A clear warning, not a fall.
 
-**Feedback when Umbral sets a piece** (cue from your co-DM):
-- **Correct piece:**
-  > The outline fills in with a soft *hum,* the light going from thin gold line to solid, steady white-gold. The gap is simply *there* — as if it had always been.
-- **Wrong piece:**
-  > The outline fills, briefly, with a flickering, sickly green-tinged light, wavering at the edges. It **leans,** then slides off the edge of the bridge like a sheet of ice — and the gap is bare again, the outline a little more pointed, as if disappointed.
+**Shortcuts work normally here.** Flying, jumping, teleporting, and similar all function as they should. If a player falls through an honest mistake — a failed jump, stepping onto something unsecured — they reappear, disoriented but unhurt, on the last landing they stood on, still holding whatever they were carrying.
 
-**Noise cues from Umbral:** creaking rope, a rusty winch, the heavy scrape of something being dragged, and grunts of effort. You don't need to explain them; let this table hear the work.
+**Noise cues from Umbral:** shifting grit, a low grinding sound, and voices arguing about who's standing where. You don't need to explain them; let this table hear the work.
 
-**When all four gaps are filled:**
-> The last gap fills, and the whole bridge **rings** — one long, clear, shimmering note that seems to come from the light itself — and the humming swells warm beneath your feet. The span is whole. The far cliff, that gold smear, is suddenly *near,* like it had only been waiting.
+**When the crossing is complete (all four gaps spanned and everyone's across):**
+> The last strip settles into place with a sound like a held breath let out, and the haze below goes quiet. Behind you, the whole crossing looks, for just a moment, like a single unbroken line of pale light — and then it's just landings again, the way a finished thing stops looking remarkable the second it's done.
 
-**Bonus round (optional):** partway across, the bridge **shudders** and a small **fifth gap** opens at the midpoint — a **small square patch**, with a flower of **six petals, one much shorter than the others.** Umbral finds the matching piece in the pile.
+**Bonus round (optional):** partway across, the crossing **shudders** and a small **fifth gap** opens at the midpoint. Same rules — one more place/secure/release/carry cycle with the same three strips.
 
-*Texture:* small motes of light drift up out of the mist the whole time, lazy as pollen; if anyone looks over the edge, the mist parts for a moment to show a garden far, far below with white stones arranged in a pattern too regular to be natural, though it resolves into nothing recognizable no matter how long they study it; the bridge, once complete, is warm enough underfoot to feel almost alive.
+*Texture:* small motes of light drift up out of the haze the whole time, lazy as pollen; if anyone looks straight down through a gap, the haze parts for a moment to show something far, far below — a garden, maybe, with white stones arranged in a pattern too regular to be natural — before closing over again; the strips, when secured, are faintly warm to the touch, like glass left in the sun.
 
 ---
 
@@ -157,6 +152,12 @@ This is the intended dead end. Let them search, knock, and check for hidden swit
 > Past the bridge, the path narrows into a small grove, hushed and green-gold, centered on a raised stone altar. Atop it, a statue: a tall, winged matron, robes carved so finely they seem to move, arms outstretched and open. A pair of doves nest in the crook of one carved arm, cooing softly, entirely undisturbed by your arrival. Incense burns in a shallow dish at her feet — sweet, warm, something like honeysuckle and beeswax.
 >
 > There's no instruction carved anywhere. Just the statue, waiting, open-armed, the way you'd wait for someone to come home.
+
+**If anyone examines the base of the statue, worn words are still legible:**
+
+> *"Bring what still lives. Bring it freely, or bring nothing at all."*
+
+It's not a riddle. If a player asks what it means, that's exactly what it means: something alive — a lock of hair, a flower, a kind word meant sincerely — given because they want to, not because they're told to.
 
 **The puzzle:** the statue wants an offering given **freely and still living** — a lock of hair, a produced flower, a minor cantrip of light or growth, a sincerely spoken kind word to the statue itself. Let each player choose their own; don't prescribe one. Once everyone's ready, coordinate a countdown across the wall with the Umbral table ("on three") — **both rooms must offer at the same moment.**
 

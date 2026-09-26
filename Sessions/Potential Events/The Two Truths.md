@@ -4,7 +4,7 @@
 2. [[#Room 1 — The Threshold]] — the gate. Four symbols in a ring; the rhyme is split between the tables.
 3. [[#Room 2 — The Tapestry and the Door]] — Effulgent can't open anything. Umbral has to move the door first.
 4. [[#Room 3 — The Herd]] — the sheep are the redcaps. Six riddles, each solvable only with the other table's eyes.
-5. [[#Room 4 — The Bridgewright's Span]] — Effulgent has the blueprint, Umbral has the wreckage.
+5. [[#Room 4 — The Moving Bridge]] — three strips, four gaps. Effulgent secures; Umbral releases; nobody finishes alone.
 6. [[#Room 5 — The Shrine of Two Mothers]] — the offering. The way out.
 
 **Scripts (read-aloud, one per table):** [[The Two Truths - Effulgent Script]] · [[The Two Truths - Umbral Script]]
@@ -126,41 +126,41 @@ They are **the same creatures and the same landmarks,** seen two ways. The table
 
 ---
 
-## Room 4 — The Bridgewright's Span
+## Room 4 — The Moving Bridge
 
-**The physical space:** a huge gulf that has to be crossed, and the bridge that crosses it has to be **built.**
+*Adapted from [[The Two Truths v2 - Trip DM Run Guide#4. The moving bridge|the v2 Run Guide's moving-bridge scene]] into this document's two-room format. The v2 source assumes one shared table; this version keeps that puzzle's actual mechanic (three reusable spans, five gaps, Effulgent secures / Umbral releases) but runs it the way every other room here runs: same object, two skins, two DMs syncing state.*
 
-- **Effulgent** sees a **chasm of luminous mist**, so wide the far cliff is a gold smear, with cliff edges curving out of sight in both directions — **no way around.** A **bridge of pale light** starts at the near edge and stops, with **four gaps** in it, each shown as a **glowing outline.** Only the nearest outline is sharp; the others are smudges that resolve as the bridge advances.
-- **Umbral** sees a **black gulf**, the far side a dark smear, and the **ruined skeleton of a bridge**: a few piers, some rope, stopping short. A switchback path leads down to the floor of the gulf, where the **wreckage of the bridge** lies in a huge pile. A rusted **hoist and basket** hangs at the near edge to haul pieces up. Tangled in the wreckage, a **ghost** — the bridgewright.
+**The physical space (same for both):** a crossing broken into **six landings in a line, numbered 0 through 5.** Landing 0 is the near bank; landing 5 is the far bank, where the path continues into Room 5. Between them are **four gaps**, each only crossable with a **reusable strip** — and there are only **three strips** for four gaps, so one must be carried forward and reused partway through.
 
-**Why they can't cheat it:** flying, teleporting, and *fey step* all "work," and the far cliff is just as far away when they arrive as when they left. If someone walks the edge, it curves on forever. (See the dream rules.)
+- **Effulgent** sees a gulf of pale, drifting haze below the crossing. The landings are flat, pale platforms; the strips are folded lengths of clear, glass-like material that unfold into a walkway.
+- **Umbral** sees a gulf of drifting stone and grit below the crossing. The landings are broad stone platforms shedding grit at the edges; the strips are dark, fibrous lengths that shift like rope.
 
-**The puzzle:** Effulgent sees **what each gap needs.** Umbral has **the pieces.** Neither knows the other's half. The four gaps go **nearest to farthest**, and each is only detailed once the previous is filled.
+Both tables are looking at the **same six landings and the same three strips** — same object, two skins, exactly like [[#Room 3 — The Herd|the Herd]]. Anyone can **place** a strip across an adjacent gap and **cross** one that's secured. But:
+- Only an **Effulgent** character can **secure** a placed strip — steadying it so it's safe to stand on.
+- Only an **Umbral** character can **release** a secured strip, and only once **nobody is standing on it** — freeing it to be carried to the next gap.
 
-**The gaps (Effulgent's half):**
+**Neither table can finish the crossing alone.** Effulgent can make every strip they have rock-solid, but that's still only three strips for four gaps. Umbral can free a strip to move it forward, but can't make anything safe enough to stand on. They have to talk it through in real time: who's crossed, who's carrying what, which gap opens next — this room sustains the Room 1 lesson across the whole crossing instead of teaching it once.
 
-| # | Gap | Silhouette | Emblem |
-|---|---|---|---|
-| **1** | **The Footing** | A **low, wide, flat-topped block** with a **notch cut from the front-left corner** | A flower with **3 petals** |
-| **2** | **The Span** | A **long plank bowed upward in the middle** (arched) | A flower with **5 petals, one much longer than the rest** |
-| **3** | **The Rail** | A **frame of six upright posts** joined by a top bar | A flower with **4 petals** |
-| **4** | **The Keystone** | A **wedge, wide at the top and narrow at the bottom** | A flower with **7 petals** |
+**Feedback (both sides see a version of this):**
+- **Secured correctly (Effulgent act):** the strip goes still and steady — Umbral sees the grit-shedding edges of that strip settle at the same moment.
+- **Released correctly (Umbral act, strip clear):** the strip folds up and comes free — Effulgent sees their glassy strip fold into a carryable length at the same moment.
+- **Trying to release an occupied strip:** it draws taut around whoever's on it and refuses to fold. No fall, no harm — just a clear "not yet."
+- **Trying to cross an unsecured strip:** it sags underfoot before anyone commits their weight. A warning, not a trap.
 
-**The pieces (Umbral's half — the pile has 12; each marked with a burned N-armed star):**
+**Worked route (DM reference — don't hand this to the players):**
+1. Place and secure strips across 0–1, 1–2, and 2–3.
+2. Move everyone past landing 0. An Umbral character on landing 1 releases 0–1.
+3. Carry that freed strip forward; place and secure it across 3–4.
+4. Move everyone past landing 1. An Umbral character on landing 2 releases 1–2.
+5. Carry it to landing 4; place and secure 4–5. Everyone crosses to 5.
 
-| Type | Correct piece ✔ | Decoys ✘ |
-|---|---|---|
-| **Footing** | Notch **front-left**, **3-armed** star | Notch **front-right**, 3-armed · notch front-left, **4-armed** |
-| **Span** | **Bowed up**, **5-armed, one arm much longer** | **Straight**, 5-armed, one long · bowed up, 5-armed **all equal** |
-| **Rail** | **Six posts**, **4-armed**, intact | **Five posts**, 4-armed · **six posts, top bar snapped**, 4-armed |
-| **Keystone** | **Wide-top wedge**, **7-armed** | **Wide-bottom wedge** (upside down), 7-armed · wide-top wedge, **6-armed** |
+Other valid orders exist — don't require this one, and don't volunteer it.
 
-**How it flows:**
-- Effulgent describes the nearest gap. Umbral goes through the candidates of that **type** in the pile, matches silhouette **and** emblem, and hauls it up. (Petals on one side = arms on the other; the *count* and the *odd-one-out* survive both views.)
-- **Feedback on both sides:** when Umbral sets a piece, **Effulgent** sees the gap fill. If it's right, the light holds steady white-gold. If it's wrong, it **flickers sickly green and slides off**, and Umbral has to haul it back down. Meanwhile, on the Umbral side, the **ghost** brightens when the right piece is lifted and flickers when a wrong one is. Both are usable as a nudge.
-- Brute-forcing every candidate is *possible* — three per stage — but it's slow and they'd still need Effulgent to confirm each attempt. That's fine; it's still cooperative.
-- **All four filled:** the light bridge is whole and the skeleton bridge on the Umbral side knits itself together as if it never fell. Both tables cross. **The ghost** looks over the finished span, then at the party, and nods once before fading.
-- **Bonus round (optional, ~10–15 min):** the mist swells and the bridge **shudders** partway across; a **fifth, smaller gap** opens at the midpoint. Effulgent sees a flower with **6 petals, one much shorter** on a **small square patch.** Umbral needs a **small square patch** with a **6-armed star, one arm short** — slip it into the pile as a 13th piece if you use the bonus round.
+**Shortcuts work here, unlike the old dead-end version of this room:** flying, teleporting, jumping, or similar all function normally, and a character who bypasses a gap this way simply does. If someone falls through an honest mistake instead (a failed jump, a strip giving way underfoot before it's secured), they reappear, disoriented but unhurt, on the last landing they stood on — still holding anything they were carrying. That's a small local reset, not a blanket rule that nothing here can go wrong.
+
+**If stalled:** point at whichever strip is doing nothing right now and ask what's holding it there. If someone's been isolated on a landing, remind them a freed strip can always be carried back to reconnect it.
+
+**Bonus round (optional stretch, ~10–15 min):** partway across, the crossing **shudders** and a **fifth gap** opens at the midpoint, needing one more full place-secure-release-carry cycle with the same three strips. No new mechanic, just one more lap.
 
 ---
 
@@ -175,6 +175,10 @@ Neither table gets told who she is. In the dream she is simply the **Mother of B
 **The puzzle — a call-and-response offering:**
 - **Effulgent's** statue wants something **given freely and still living** — a lock of hair, a flower conjured or produced, a minor spell of light or growth, a genuine kind word spoken aloud to the statue.
 - **Umbral's** statue wants something **given up** — an old grudge spoken and released, a drop of blood, a treasured but non-magical item left behind, a genuine confession.
+
+**If a table is stuck on what to offer, there's a plain-language hint carved into the base of each altar** — worn, but legible up close. It's not a riddle; if a player asks what it means, tell them exactly what it says:
+- **Effulgent's** altar: *"Bring what still lives. Bring it freely, or bring nothing at all."*
+- **Umbral's** altar: *"Bring what you would be glad to lose. She keeps nothing that is not given up gladly."*
 
 Neither offering completes the ritual alone. **Both tables must offer at the same moment** — count it down across the wall ("on three!"). Let each player choose their own; don't prescribe. This is meant to land as a character beat, not a mechanical lock-pick.
 

@@ -115,59 +115,44 @@ DM-only read-aloud script for the **Umbral** table. Mechanics, timing, dream rul
 
 ---
 
-## Room 4 — The Bridgewright's Span
+## Room 4 — The Moving Bridge
 
-> The path ends at the lip of a wide gulf, black and windless, its far side a dark smear on the horizon. Below you, a mist the color of old bruises pools and shifts. The cliff edge curves away in both directions, farther than you can see. There is no way around.
->
-> A **bridge** used to start here. What's left is its skeleton: a few great stone piers standing out over the drop, frayed rope hanging from them like old veins, all of it stopping short. A rusted **hoist and basket** hangs at the near edge on a chain. A switchback path, half-fallen, leads down the cliff face to the floor of the gulf — and there, in a huge tangled pile, lies the **wreckage of the bridge**: planks, beams, stone blocks, and things that might be bone.
+**The Herd-style shared board and full mechanics are in [[The Two Truths#Room 4 — The Moving Bridge]].** Below is what *this table sees* and does.
 
-**If a player tries a shortcut** (flying, *misty step*, *fey step*, jumping, etc.): it works — and the far side is exactly as far away as when they started. They arrive back where they began, lightly disoriented, having gone nowhere. It's a dream. Deliver this gently and don't lecture.
+> The path ends at a gulf of drifting stone and grit, grey and restless below. Ahead, the crossing breaks into a line of broad stone platforms — six landings altogether, counting the ground under your own feet — shedding fine grit at every edge into the gaps between them. Near the first gap, three dark, fibrous lengths lie coiled and waiting, like old rope gone stiff.
 
-> Tangled in the wreckage, half-hidden in the rope, is a **ghost.** Translucent, grey, curled in on itself, wearing what might once have been a builder's apron, a coil of rope still looped over one arm. It doesn't attack. It doesn't speak. It looks up as you approach, and then, slowly, it looks past you toward the gulf, and back at the pile — and waits.
+**What this table can do:**
+- **Place** a strip across any gap next to a landing someone's standing on. It's slack and unsafe until secured.
+- **Release** a secured strip **that nobody is standing on** — **only this table can do this.** Touching either end frees it: it stops fighting the gap, its fibers loosen, and it folds into a carryable coil.
+- **Cross** a secured strip freely.
 
-**The ghost (the bridgewright):**
-- It can't speak. It gestures, points, and *shows.* It will not stop you from taking any piece. **It brightens when the correct piece is lifted, and flickers when a wrong one is.** That's a usable nudge; use it sparingly.
-- If a player is kind to it (sits with it, thanks it, asks it to help), it points a little more clearly.
+**What this table can't do:** make a placed strip safe to stand on in the first place. **Only the Effulgent table can secure one.** If your players try to trust an unsecured strip, it sags underfoot before they commit their weight — a clear warning, not a fall. Let them work out through the wall why nothing they touch ever quite holds still, rather than telling them outright.
 
-**The pieces (this table's half):** the pile holds **twelve pieces**, each marked with a **burned N-armed star.** Each stage, this table gets a description from the other table and must find the matching piece.
+**When Effulgent secures a strip you've placed** (cue from your co-DM): read this at whichever landing the strip spans.
 
-| Type | Piece | What it looks like | Correct? |
-|---|---|---|---|
-| **Footing** | F-a | Low, wide block, notch cut in the **front-left** corner, **3-armed** star | ✔ Gap 1 |
-| | F-b | Low, wide block, notch in the **front-right** corner, 3-armed star | ✘ |
-| | F-c | Low, wide block, notch front-left, **4-armed** star | ✘ |
-| **Span** | S-a | Long plank **bowed upward**, **5-armed star, one arm much longer** | ✔ Gap 2 |
-| | S-b | Long plank, **straight,** 5-armed star, one arm longer | ✘ |
-| | S-c | Long plank bowed upward, 5-armed star, **all arms equal** | ✘ |
-| **Rail** | R-a | Frame of **six posts**, intact top bar, **4-armed** star | ✔ Gap 3 |
-| | R-b | Frame of **five posts**, 4-armed star | ✘ |
-| | R-c | Frame of six posts, **top bar snapped,** 4-armed star | ✘ |
-| **Keystone** | K-a | Wedge, **wide at the top,** **7-armed** star | ✔ Gap 4 |
-| | K-b | Wedge, **wide at the bottom** (upside down), 7-armed star | ✘ |
-| | K-c | Wedge, wide at the top, **6-armed** star | ✘ |
+> The strip underfoot stops shifting. The grit at its edges stills, mid-fall, and doesn't drop any further. It's not gone soft or safe-looking — it's still stone-dark and rough — but you'd trust your weight on it now, and you're not sure why that certainty just arrived.
 
-**How to run it:**
-- The other table will describe **Gap 1 first.** They'll say *silhouette* and *flower* — flower petals are your star-arms. **The count and the odd-one-out carry across.**
-- Let the players go through the candidates of that **type,** compare, and decide. Getting the *type* right is easy; the silhouette details and the emblem are the puzzle. Every decoy is wrong by exactly one detail. Don't tell them which.
-- When they lift and haul a piece up, signal your co-DM. When they **set** it, the other table judges it right or wrong; you'll hear the outcome through the wall.
-- If **wrong**: the piece slides off the edge, hauled back down by the hoist chain, and the stage repeats.
-- **Bonus round (optional):** a **small square patch** with a **6-armed star, one arm short** — add it to the pile as a 13th piece.
+**When you release a strip and carry it forward:** describe the physical work honestly — it's heavy, awkward, and takes real effort to haul along the landings to the next open gap.
 
-**When each piece is set correctly** (repeat for each gap, varying the wording):
+**Feedback:**
+- **You release a clear strip correctly:** it comes free at a touch, folding into something you can carry.
+- **Trying to release an occupied strip:** it draws taut around whoever's still on it and simply won't fold. No fall, no harm — it's telling you to wait.
 
-> The piece settles with a heavy, satisfying *thunk,* and the ghost's outline steadies for a moment, brighter than before. Out across the gulf, you see the skeleton of the bridge reach a little farther.
+**Shortcuts work normally here.** Flying, jumping, teleporting, and similar all function as they should. If a player falls through an honest mistake — a failed jump, trusting something unsecured — they reappear, disoriented but unhurt, on the last landing they stood on, still holding whatever they were carrying.
 
-**When all four are set:**
+**[VIV] — deliver this quietly, to Vivatrix alone, the first time she crosses a strip the moment after it's secured, or the first time an unsecured one sags underfoot:**
 
-> The last stone drops in. The whole bridge **shudders** — and then, rope by rope and pier by pier, the wreckage rises and *knits itself back together,* as if it had never fallen. The span is whole. The ghost stands at the head of the bridge, looks out at it for a long moment, then turns to look at you. It nods once — slowly, like something settling — and then it isn't there anymore, and a small, cold breath of air goes past you across the gulf.
+> *The drop in your stomach when the stone shifts under your boot doesn't read as fear. It's closer to the feeling of a hand catching your wrist before you knew you were falling — steadying, not startling. You don't flinch. You're not sure why everyone else does.*
 
-**[VIV] — deliver this quietly, to Vivatrix alone, when the ghost first turns toward the party:**
+**Noise cues from the Effulgent table:** shouting through the wall, and, when a strip is secured or released, a satisfied "got it" or a muffled cheer. You don't need to react; let this table hear the work.
 
-> *It drifts toward you, not the others, and stops when it's close enough that you'd feel its cold — and the cold doesn't feel like cold. It feels like being tucked in. It stays near you, quiet, the whole time the others are hauling stone, and for some reason you don't mind at all.*
+**When the crossing is complete (all four gaps spanned and everyone's across):**
 
-**Noise cues from the Effulgent table:** shouting through the wall, descriptions of glowing outlines, and, when a piece is placed, a *muffled shout* or a *gasp.* You don't need to react; let this table hear the work.
+> The last strip settles into the final gap and stops shifting for good. Behind you, the grit-worn platforms and the dark, coiled lengths look, for just a moment, like a single unbroken span — and then it's just landings again, the way a finished thing stops looking remarkable the second it's done.
 
-*Texture:* the driftwood, once disturbed, smells faintly of river water though the gulf is bone dry; motes of grey ash drift upward out of the depths the whole time, slow as falling snow in reverse; if anyone looks closely at the bones tangled in the wreckage, none of them are quite the right shape for anything they recognize; the hoist chain squeals with every haul, in a note that gets steadily more irritating; the ghost's apron has small brass buttons, each stamped with a tiny star.
+**Bonus round (optional):** partway across, the crossing **shudders** and a small **fifth gap** opens at the midpoint. Same rules — one more place/secure/release/carry cycle with the same three strips.
+
+*Texture:* the grit smells faintly of river water though the gulf is bone dry; motes of grey ash drift upward out of the depths the whole time, slow as falling snow in reverse; if anyone looks straight down through a gap, the stone parts for a moment to show something far, far below — a garden, maybe, with white stones arranged in a pattern too regular to be natural — before closing over again; the strips, when released, are cold enough to sting bare hands.
 
 ---
 
@@ -181,9 +166,11 @@ DM-only read-aloud script for the **Umbral** table. Mechanics, timing, dream rul
 
 > *The ravens should unnerve you. They don't. If anything, the way they've settled — watchful, patient, utterly unbothered by the gaunt reaching thing they're perched on — feels less like a warning and more like an invitation. The ash smells clean to you. Not sweet. Just* right*, the way a room smells right after you've lived in it long enough to stop noticing.*
 
-**[VIV] — a second, optional beat, if she lingers or offers something at this altar specifically:**
+**If anyone examines the base of the statue, worn words are still legible:**
 
-> *For a moment, kneeling here, you don't feel like a guest. You feel like something that's been away a long time and just walked back in the door.*
+> *"Bring what you would be glad to lose. She keeps nothing that is not given up gladly."*
+
+It's not a riddle. If a player asks what it means, that's exactly what it means: something they're releasing on purpose — a grudge spoken and let go, a drop of blood, a confession — not something taken from them.
 
 **The puzzle:** the statue wants an offering given **up** — an old grudge spoken aloud and released, a drop of blood, a treasured but non-magical item left behind, a genuine confession. Let each player choose their own; don't prescribe one. Once everyone's ready, coordinate a countdown across the wall with the Effulgent table ("on three") — **both rooms must offer at the same moment.**
 
