@@ -8,63 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06a86b7ad6d4992e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session Notes/007/Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes"
-            }
-          },
-          {
-            "id": "e2759a935277a4fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session Notes/008/Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "c03d3272865e0c87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session Notes/008/Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes"
-            }
-          },
-          {
             "id": "6345c3d7d684e3ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Completed Events/Letter Back to Aelar.md",
+                "file": "Sessions/Potential Events/The Two Truths - Effulgent Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Letter Back to Aelar"
+              "title": "The Two Truths - Effulgent Script"
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "f264de6ced70128e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7eaf39153e9b10f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Potential Events/The Two Truths v2 - Elder and Resolution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Two Truths v2 - Elder and Resolution"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,35 +243,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6345c3d7d684e3ac",
+  "active": "f7eaf39153e9b10f",
   "lastOpenFiles": [
+    "Sessions/Potential Events/The Two Truths v2.md",
+    "Sessions/Potential Events/The Two Truths v2 - Trip DM Run Guide.md",
+    "Sessions/Potential Events/The Two Truths v2 - Elder and Resolution.md",
+    "Sessions/Potential Events/The Two Truths - Umbral Script.md",
+    "Sessions/Potential Events/The Two Truths - Effulgent Script.md",
+    "Sessions/Session Notes/008/Notes.md",
+    "Sessions/Session Notes/008/Outline.md",
+    "Sessions/Session Notes/007/Notes.md",
+    "Sessions/Potential Events/Savones Test - The Couriers Account.md",
+    "Sessions/Potential Events/Savones Test - DM Run Guide.md",
+    "Sugarbend.md",
+    "Sessions/Session Notes/009/Outline.md",
+    "Sessions/Session Notes/009/Notes.md",
+    "The Beaching.md",
+    "Sessions/Completed Events/Letter Back to Aelar.md",
     "Sessions/Potential Events/The Aelan Connection.md",
     "Sessions/Completed Events/Tracy's Favor.md",
     "Player Characters/Aulberos Lightmind.md",
     "AGENTS.md",
-    "Sugarbend.md",
-    "Sessions/Session Notes/008/Notes.md",
     "Sessions/Potential Events/The Two Truths.md",
-    "Sessions/Potential Events/The Two Truths - Umbral Script.md",
-    "Sessions/Potential Events/The Two Truths - Effulgent Script.md",
-    "Sessions/Potential Events/The Two Truths v2.md",
-    "Sessions/Session Notes/009/Outline.md",
     "Sessions/Potential Events/Electric Woman.md",
-    "Sessions/Potential Events/The Two Truths v2 - Elder and Resolution.md",
-    "Sessions/Session Notes/009/Notes.md",
     "Sessions/Session Notes/009",
     "Rules/Custom Items and Spells/Upgrades/Weapon Upgrades.md",
     "Rules/Custom Items and Spells/Upgrades/Runestones.md",
     "Rules/Custom Items and Spells/Upgrades/Magical Tattoos.md",
     "Rules/Custom Items and Spells/Upgrades/Armor Upgrades.md",
     "Rules/Custom Items and Spells/Spells/Spells and Rituals.md",
-    "Rules/Custom Items and Spells/Items/Waycaps.md",
-    "Rules/Custom Items and Spells/Items/Sweetwaters.md",
-    "Rules/Custom Items and Spells/Items/Sweetpitch.md",
-    "Rules/Custom Items and Spells/Items/Potion of Truesight.md",
-    "Rules/Custom Items and Spells/Items/Potion of Sustained Sorcery.md",
-    "Rules/Custom Items and Spells/Items/Pondstrider.md",
-    "Rules/Custom Items and Spells/Items/Glowspore Draught.md",
     "Rules/Custom Items and Spells/Upgrades",
     "Rules/Custom Items and Spells/Spells",
     "Rules/Custom Items and Spells/Items",

@@ -19,6 +19,9 @@ version: 2
 - [[#If they choose another route|Branch: refuse or change the plan]] — stay in Sugarbend, investigate, or leave.
 - [[#4. The crossing fails|4. The crossing fails]] — the elder crosses, returns, and another fairy calls for help.
 - [[#Purgatory handoff|Purgatory handoff]] — run the separate encounter; return here afterward.
+	- [[The Two Truths]]
+	- [[The Two Truths - Umbral Script]]
+	- [[The Two Truths - Effulgent Script]]
 - [[#5. Wake in the clinic|5. Wake in the clinic]] — overhear the doctor criticizing the elder.
 - [[#6. Deal with the aftermath|6. Deal with the aftermath]] — questions, payment, and whether to help further.
 - [[#7. Investigate the supply|7. Investigate the supply]] — follow the sugar from cane to pond.
