@@ -1,41 +1,84 @@
 {
   "main": {
-    "id": "24766fa4d5352fd9",
+    "id": "fa8e45f0c31203d4",
     "type": "split",
     "children": [
       {
-        "id": "c7277ca5c3aaa6c8",
+        "id": "2d0ff6f86946b871",
         "type": "tabs",
         "children": [
           {
-            "id": "8bd169d971e97036",
+            "id": "06a86b7ad6d4992e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Potential Events/The Two Truths v2 - Elder and Resolution.md",
+                "file": "Sessions/Session Notes/007/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Two Truths v2 - Elder and Resolution"
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "e2759a935277a4fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session Notes/008/Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c03d3272865e0c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session Notes/008/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "6345c3d7d684e3ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Completed Events/Letter Back to Aelar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Letter Back to Aelar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "04935306a9104eda",
+    "id": "cd77ce9a12bd7dee",
     "type": "split",
     "children": [
       {
-        "id": "19562eeaa86e21e9",
+        "id": "243718f879704f4e",
         "type": "tabs",
         "children": [
           {
-            "id": "719a4a11603b1037",
+            "id": "25fe58414b252415",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +93,7 @@
             }
           },
           {
-            "id": "ef3ca80eaaa5ccf6",
+            "id": "4385a56837b99f8c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,14 +110,11 @@
             }
           },
           {
-            "id": "1de7706b498bfbec",
+            "id": "a9d9db7339bd0431",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {
-                "showSearch": false,
-                "searchQuery": ""
-              },
+              "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -83,23 +123,55 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.5
+    "width": 311.5
   },
   "right": {
-    "id": "0aa05b380594caea",
+    "id": "1760dc69085ef64c",
     "type": "split",
     "children": [
       {
-        "id": "a412f228770e202e",
+        "id": "20107cac4b2ddc27",
         "type": "tabs",
+        "dimension": 43.83680555555556,
         "children": [
           {
-            "id": "98e7217aed4e83df",
+            "id": "51e8f84115308f3b",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_bb1a79288a0a",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 10,
+                    "month": 1,
+                    "year": 3463
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 8,
+                    "month": 1,
+                    "year": 3463
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_3b49ca8a5aa8",
+                "child": "ID_6b49393b0848"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "708f75c949689e77",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Potential Events/The Two Truths v2 - Elder and Resolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +185,11 @@
             }
           },
           {
-            "id": "b6ba1d42788907a5",
+            "id": "807c06c5a1d39f41",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Potential Events/The Two Truths v2 - Elder and Resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +198,7 @@
             }
           },
           {
-            "id": "606f4491fcf475a5",
+            "id": "73084e80c181dced",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,12 +213,11 @@
             }
           },
           {
-            "id": "29c49dbbb30de3fe",
+            "id": "463791c081b8fde6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Potential Events/The Two Truths v2 - Elder and Resolution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -157,10 +227,31 @@
             }
           }
         ]
+      },
+      {
+        "id": "8998c25f55859a29",
+        "type": "tabs",
+        "dimension": 56.16319444444444,
+        "children": [
+          {
+            "id": "2e46818bcff82fc0",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_bb1a79288a0a",
+                "id": "ID_6b49393b0848",
+                "parent": "ID_3b49ca8a5aa8"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 335.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -175,40 +266,54 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8bd169d971e97036",
+  "active": "6345c3d7d684e3ac",
   "lastOpenFiles": [
-    "Sessions/Potential Events/The Two Truths v2 - Elder and Resolution - Development Notes.md",
-    "Sessions/Potential Events/The Two Truths v2 - Elder and Resolution.md",
-    "Sessions/Session Notes/008/Notes.md",
-    "NPCs/Groups/Sugarbend Fairies.md",
-    "Sessions/Session Notes/009/Notes.md",
-    "Sessions/Session Notes/009/Outline.md",
-    "Sessions/Session Notes/009",
-    "The Moonhelm Society.md",
-    "The Moonhelm Family.md",
-    "The Beaching.md",
-    "Sugarbend.md",
+    "Sessions/Potential Events/The Aelan Connection.md",
+    "Sessions/Completed Events/Tracy's Favor.md",
+    "Player Characters/Aulberos Lightmind.md",
     "AGENTS.md",
-    "Rules/Custom Items and Spells/Custom Items and Spells.md",
-    "Rules/Custom Items and Spells/Unselected and Superseded Ideas.md",
+    "Sugarbend.md",
+    "Sessions/Session Notes/008/Notes.md",
+    "Sessions/Potential Events/The Two Truths.md",
+    "Sessions/Potential Events/The Two Truths - Umbral Script.md",
+    "Sessions/Potential Events/The Two Truths - Effulgent Script.md",
+    "Sessions/Potential Events/The Two Truths v2.md",
+    "Sessions/Session Notes/009/Outline.md",
+    "Sessions/Potential Events/Electric Woman.md",
+    "Sessions/Potential Events/The Two Truths v2 - Elder and Resolution.md",
+    "Sessions/Session Notes/009/Notes.md",
+    "Sessions/Session Notes/009",
     "Rules/Custom Items and Spells/Upgrades/Weapon Upgrades.md",
     "Rules/Custom Items and Spells/Upgrades/Runestones.md",
     "Rules/Custom Items and Spells/Upgrades/Magical Tattoos.md",
     "Rules/Custom Items and Spells/Upgrades/Armor Upgrades.md",
+    "Rules/Custom Items and Spells/Spells/Spells and Rituals.md",
+    "Rules/Custom Items and Spells/Items/Waycaps.md",
     "Rules/Custom Items and Spells/Items/Sweetwaters.md",
-    "Rules/Custom Items and Spells/Items/Underwater Working Potion.md",
-    "Rules/Custom Items and Spells/Items/Pondstrider.md",
     "Rules/Custom Items and Spells/Items/Sweetpitch.md",
     "Rules/Custom Items and Spells/Items/Potion of Truesight.md",
     "Rules/Custom Items and Spells/Items/Potion of Sustained Sorcery.md",
+    "Rules/Custom Items and Spells/Items/Pondstrider.md",
     "Rules/Custom Items and Spells/Items/Glowspore Draught.md",
-    "Rules/Custom Items and Spells/Items/Draught of Lucid Casting.md",
-    "Campaign Reference/Source Catalogue.md",
-    "Rules/Custom Items and Spells/Items",
     "Rules/Custom Items and Spells/Upgrades",
     "Rules/Custom Items and Spells/Spells",
+    "Rules/Custom Items and Spells/Items",
     "Rules/Custom Items and Spells/Alchemy",
     "Rules/Custom Items and Spells",
-    "Campaign Reference"
+    "Campaign Reference",
+    "Data/Images/The Umbral Soul Vibe.png",
+    "Sessions/Potential Events/Delivering the Devil.md.tmp.36588.05b8cf08e4d1",
+    "Data/JSON/Characters.json",
+    "Data/Images/bolo.png",
+    "Sessions/Session Notes/008/Prep.md.tmp.36588.50a64418b3e1",
+    "Lore/World & Geography/Maps/Advelde_Paint_Dot_Net_big.png",
+    "Lore/World & Geography/Maps/Greater Thalyra.png",
+    "Data/Images/Pasted image 20260207105807.png",
+    "Data/Images/Sewer Cleaner.png",
+    "Data/Images/Sewer Cleaner Stats Only.png",
+    "Data/Images/HighCaptainDurel.png",
+    "Lore/World & Geography/Maps/Advelde Map Current.png",
+    "Data/Images/high captain durel (support commander npc).png",
+    "Untitled.canvas"
   ]
 }
