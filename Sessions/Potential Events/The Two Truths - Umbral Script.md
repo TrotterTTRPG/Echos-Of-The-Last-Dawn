@@ -1,10 +1,3 @@
-DM-only read-aloud script for the **Umbral** table. Mechanics, timing, dream rules, and the **answer keys for every puzzle** live in **[[The Two Truths]]** — read that first, and keep it open. This file is narration and *this table's half of the data.* Do **not** read [[The Two Truths - Effulgent Script]] closely before running this; you want to genuinely not know exactly what the other table is looking at.
-
-**Who's likely here:** per the recommended split, [[Vivatrix]], [[Naieht]], and [[Chein Po|Po]] (with [[Kai]]). Lines addressed to Vivatrix specifically are marked **[VIV]** — deliver these quietly, to her alone, never announced to the table. If your actual split differs, reassign the [VIV] beats to whichever player is warlock of [[The Undying]]. Everyone *else* at this table should be allowed to feel exactly how unsettling this place is — the contrast between their reactions and Vivatrix's quiet ease is doing real work here, so don't soften the room for anyone but her.
-
-**Tone:** this table sees what's underneath the Gilded Age's version of the Hollow Bloom: rot, hunger, and a lot of small ugly detail. **Nothing here can hurt anyone.** This is the same delay the other room is having, just honest about the cost side of the ledger. Play it *unsettling,* not miserable, and let the redcaps be menacing in manner but bound by the rules of the game. Read a lot of texture that doesn't matter, so the two or three details that do matter are buried.
-
----
 
 ## Room 1 — The Threshold
 

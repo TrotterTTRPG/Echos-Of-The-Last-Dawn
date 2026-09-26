@@ -1,10 +1,3 @@
-DM-only read-aloud script for the **Effulgent** table. Mechanics, timing, dream rules, and the **answer keys for every puzzle** live in **[[The Two Truths]]** — read that first, and keep it open. This file is narration and *this table's half of the data.* Do **not** read [[The Two Truths - Umbral Script]] closely before running this; you want to genuinely not know exactly what the other table is looking at.
-
-**Who's likely here:** per the recommended split, [[Aelar Aurelius|Aelar]] and [[Aulberos Lightmind|Aulberos]]. Nothing in this script is player-specific.
-
-**Tone:** this table sees the Hollow Bloom the way the Gilded Age remembers itself — warm, saturated, lovely, a little too perfect. Nothing here is sinister and nothing is a trick. But it should feel like being fed too much dessert: pleasant, and just slightly hard to stop. Read a lot of texture that *doesn't* matter (colors, smells, small business, half-heard music). Bury the two or three details that do matter in twenty that don't, and never let your pacing tell the table which is which.
-
----
 
 ## Room 1 — The Threshold
 
