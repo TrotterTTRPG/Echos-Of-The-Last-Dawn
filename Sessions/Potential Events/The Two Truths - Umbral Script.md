@@ -1,5 +1,4 @@
-
-Vivitrix, Alberoes (maybe naieht)
+Vivatrix, Aulberos, and maybe Naieht
 
 ## Room 1 — The Unfinished Constellations
 
@@ -21,6 +20,10 @@ After the fourth picture, cross the star-woven path and continue to Room 2 — T
 >
 > *"... ... then, the warmth that feeds the need... ... ... last, the dark where lost things stay."*
 
+**[VIV] — deliver this quietly, to Vivatrix alone, once, whenever feels natural in this room:**
+
+> *The others are wrinkling their noses at the wet-ash smell. You're not. If anything, you're breathing it in a little deeper than you meant to — it's not pleasant, exactly, but it doesn't sit wrong in your chest the way it clearly does in theirs. It smells like somewhere familiar. You couldn't say where.*
+
 **The ring (clockwise from the top, as they face the gate):**
 - **Top** — a full sun-disc, straight rays all the way round, like a child's drawing of the sun.
 - **Right** — a **solid black disc**, no rays, no marks. Just dark.
@@ -32,10 +35,6 @@ After the fourth picture, cross the star-woven path and continue to Room 2 — T
 **The full solution:** **Bottom → Top → Left → Right** (half-sun on the line, full sun, half-sun sinking, black disc). Touching each in order makes it grind and settle. **A wrong touch makes all four rust back into place** with a dull *clunk* the other table can hear. **The gate opens only when both tables have finished** — the rust crumbles at a touch and the whole thing collapses inward into a drift of orange flakes, gone, no fanfare.
 
 *Texture to drop in if they linger:* something is dripping steadily nearby, though there's no visible water; the dead hedge-shapes seem to have turned, fractionally, to face wherever the party's standing, though nothing was seen to move; a single perfect apple sits in the dead grass, unrotted, gleaming — the only clean thing in the whole scene. It means nothing. Let them worry about it for nothing.
-
-**[VIV] — deliver this quietly, to Vivatrix alone, once, whenever feels natural in this room:**
-
-> *The others are wrinkling their noses at the wet-ash smell. You're not. If anything, you're breathing it in a little deeper than you meant to — it's not pleasant, exactly, but it doesn't sit wrong in your chest the way it clearly does in theirs. It smells like somewhere familiar. You couldn't say where.*
 
 ---
 
