@@ -4,7 +4,7 @@
 2. [[#Room 1 — The Threshold]] — the gate. Four symbols in a ring; the rhyme is split between the tables.
 3. [[#Room 2 — The Tapestry and the Door]] — Effulgent can't open anything. Umbral has to move the door first.
 4. [[#Room 3 — The Herd]] — the sheep are the redcaps. Six riddles, each solvable only with the other table's eyes.
-5. [[#Room 4 — The Moving Bridge]] — three strips, four gaps. Effulgent secures; Umbral releases; nobody finishes alone.
+5. [[#Room 4 — The Unfinished Constellations]] — dot-to-dot star charts. One side holds the solution and guides; the other draws blind; then they swap.
 6. [[#Room 5 — The Shrine of Two Mothers]] — the offering. The way out.
 
 **Scripts (read-aloud, one per table):** [[The Two Truths - Effulgent Script]] · [[The Two Truths - Umbral Script]]
@@ -126,41 +126,11 @@ They are **the same creatures and the same landmarks,** seen two ways. The table
 
 ---
 
-## Room 4 — The Moving Bridge
+## Room 4 — The Unfinished Constellations
 
-*Adapted from [[The Two Truths v2 - Trip DM Run Guide#4. The moving bridge|the v2 Run Guide's moving-bridge scene]] into this document's two-room format. The v2 source assumes one shared table; this version keeps that puzzle's actual mechanic (three reusable spans, five gaps, Effulgent secures / Umbral releases) but runs it the way every other room here runs: same object, two skins, two DMs syncing state.*
+**Run from [[Sessions/Potential Events/The Two Truths - Room 4 Constellations|Room 4 — The Unfinished Constellations]].** Both groups hear the narration. Effulgent holds two solution cards and guides Umbral in drawing two constellations without revisiting dots; then the groups reverse roles for two more. Four completed pictures create the path to Room 5.
 
-**The physical space (same for both):** a crossing broken into **six landings in a line, numbered 0 through 5.** Landing 0 is the near bank; landing 5 is the far bank, where the path continues into Room 5. Between them are **four gaps**, each only crossable with a **reusable strip** — and there are only **three strips** for four gaps, so one must be carried forward and reused partway through.
-
-- **Effulgent** sees a gulf of pale, drifting haze below the crossing. The landings are flat, pale platforms; the strips are folded lengths of clear, glass-like material that unfold into a walkway.
-- **Umbral** sees a gulf of drifting stone and grit below the crossing. The landings are broad stone platforms shedding grit at the edges; the strips are dark, fibrous lengths that shift like rope.
-
-Both tables are looking at the **same six landings and the same three strips** — same object, two skins, exactly like [[#Room 3 — The Herd|the Herd]]. Anyone can **place** a strip across an adjacent gap and **cross** one that's secured. But:
-- Only an **Effulgent** character can **secure** a placed strip — steadying it so it's safe to stand on.
-- Only an **Umbral** character can **release** a secured strip, and only once **nobody is standing on it** — freeing it to be carried to the next gap.
-
-**Neither table can finish the crossing alone.** Effulgent can make every strip they have rock-solid, but that's still only three strips for four gaps. Umbral can free a strip to move it forward, but can't make anything safe enough to stand on. They have to talk it through in real time: who's crossed, who's carrying what, which gap opens next — this room sustains the Room 1 lesson across the whole crossing instead of teaching it once.
-
-**Feedback (both sides see a version of this):**
-- **Secured correctly (Effulgent act):** the strip goes still and steady — Umbral sees the grit-shedding edges of that strip settle at the same moment.
-- **Released correctly (Umbral act, strip clear):** the strip folds up and comes free — Effulgent sees their glassy strip fold into a carryable length at the same moment.
-- **Trying to release an occupied strip:** it draws taut around whoever's on it and refuses to fold. No fall, no harm — just a clear "not yet."
-- **Trying to cross an unsecured strip:** it sags underfoot before anyone commits their weight. A warning, not a trap.
-
-**Worked route (DM reference — don't hand this to the players):**
-1. Place and secure strips across 0–1, 1–2, and 2–3.
-2. Move everyone past landing 0. An Umbral character on landing 1 releases 0–1.
-3. Carry that freed strip forward; place and secure it across 3–4.
-4. Move everyone past landing 1. An Umbral character on landing 2 releases 1–2.
-5. Carry it to landing 4; place and secure 4–5. Everyone crosses to 5.
-
-Other valid orders exist — don't require this one, and don't volunteer it.
-
-**Shortcuts work here, unlike the old dead-end version of this room:** flying, teleporting, jumping, or similar all function normally, and a character who bypasses a gap this way simply does. If someone falls through an honest mistake instead (a failed jump, a strip giving way underfoot before it's secured), they reappear, disoriented but unhurt, on the last landing they stood on — still holding anything they were carrying. That's a small local reset, not a blanket rule that nothing here can go wrong.
-
-**If stalled:** point at whichever strip is doing nothing right now and ask what's holding it there. If someone's been isolated on a landing, remind them a freed strip can always be carried back to reconnect it.
-
-**Bonus round (optional stretch, ~10–15 min):** partway across, the crossing **shudders** and a **fifth gap** opens at the midpoint, needing one more full place-secure-release-carry cycle with the same three strips. No new mechanic, just one more lap.
+The companion contains arrival narration for both aspects, drawing feedback, resets, the role reversal, and completion. Prepare four matching solution-card/blank-grid pairs before play; the drawings themselves are not yet supplied.
 
 ---
 

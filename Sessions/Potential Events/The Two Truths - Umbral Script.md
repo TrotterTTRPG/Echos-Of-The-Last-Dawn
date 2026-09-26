@@ -1,4 +1,5 @@
 Vivatrix, Aulberos, and maybe Naieht
+
 ## Room 1 — The Threshold
 
 > You're standing at the start of a garden path you don't remember walking into — the hedges on either side are dead, brittle, black-branched things trimmed at some point into shapes you can almost recognize before your eye slides off them. The air smells like wet ash and something sweet underneath it, gone slightly off, like fruit a day past ripe. Somewhere off to your left, something is making a sound like a bird might, if it had learned birdsong secondhand and never quite gotten it right.
@@ -9,7 +10,7 @@ Vivatrix, Aulberos, and maybe Naieht
 
 **[VIV] — deliver this quietly, to Vivatrix alone, once, whenever feels natural in this room:**
 
-> *The others are wrinkling their noses at the wet-ash smell. You're not. If anything, you're breathing it in a little deeper than you meant to — it's not pleasant, exactly, but it doesn't sit wrong in your chest the way it clearly does in theirs. It smells like somewhere. You couldn't say where.*
+> *The others are wrinkling their noses at the wet-ash smell. You're not. If anything, you're breathing it in a little deeper than you meant to — it's not pleasant, exactly, but it doesn't sit wrong in your chest the way it clearly does in theirs. It smells like somewhere familiar. You couldn't say where.*
 
 **The ring (clockwise from the top, as they face the gate):**
 - **Top** — a full sun-disc, straight rays all the way round, like a child's drawing of the sun.
@@ -22,8 +23,6 @@ Vivatrix, Aulberos, and maybe Naieht
 **The full solution:** **Bottom → Top → Left → Right** (half-sun on the line, full sun, half-sun sinking, black disc). Touching each in order makes it grind and settle. **A wrong touch makes all four rust back into place** with a dull *clunk* the other table can hear. **The gate opens only when both tables have finished** — the rust crumbles at a touch and the whole thing collapses inward into a drift of orange flakes, gone, no fanfare.
 
 *Texture to drop in if they linger:* something is dripping steadily nearby, though there's no visible water; the dead hedge-shapes seem to have turned, fractionally, to face wherever the party's standing, though nothing was seen to move; a single perfect apple sits in the dead grass, unrotted, gleaming — the only clean thing in the whole scene. It means nothing. Let them worry about it for nothing.
-
-
 
 ---
 
@@ -42,50 +41,21 @@ Vivatrix, Aulberos, and maybe Naieht
 *Texture:* the soot-dark walls are cold enough to raise gooseflesh, colder than the room's air should make them; a faint, tuneless hum seems to come from inside the door's wood grain itself, never resolving into anything; if anyone examines the door's scorch marks closely, they form, very nearly, the shape of a hand pressed flat against it from the other side. This means nothing. Let them chase it.
 
 ---
-## Room 4 — The Moving Bridge
+## Room 4 — The Unfinished Constellations
 
-**The Herd-style shared board and full mechanics are in [[The Two Truths#Room 4 — The Moving Bridge]].** Below is what *this table sees* and does.
+**Draw pictures 1–2; guide pictures 3–4.** Both groups can hear all narration; keep solution cards out of the other group's sight. Each picture is one continuous dot-to-dot path with no dot revisited. Reset the current picture after a mistake. Complete all four to open the crossing.
 
-> The path ends at a gulf of drifting stone and grit, grey and restless below. Ahead, the crossing breaks into a line of broad stone platforms — six landings altogether, counting the ground under your own feet — shedding fine grit at every edge into the gaps between them. Near the first gap, three dark, fibrous lengths lie coiled and waiting, like old rope gone stiff.
+**Run the full scene from [[Sessions/Potential Events/The Two Truths - Room 4 Constellations|Room 4 — The Unfinished Constellations]].** It contains both aspects' drawing feedback, the role reversal after picture 2, and the ending. The arrival for this aspect is reproduced here:
 
-**What this table can do:**
-- **Place** a strip across any gap next to a landing someone's standing on. It's slack and unsafe until secured.
-- **Release** a secured strip **that nobody is standing on** — **only this table can do this.** Touching either end frees it: it stops fighting the gap, its fibers loosen, and it folds into a carryable coil.
-- **Cross** a secured strip freely.
+![[Sessions/Potential Events/The Two Truths - Room 4 Constellations#Arrival — Umbral]]
 
-**What this table can't do:** make a placed strip safe to stand on in the first place. **Only the Effulgent table can secure one.** If your players try to trust an unsecured strip, it sags underfoot before they commit their weight — a clear warning, not a fall. Let them work out through the wall why nothing they touch ever quite holds still, rather than telling them outright.
-
-**When Effulgent secures a strip you've placed** (cue from your co-DM): read this at whichever landing the strip spans.
-
-> The strip underfoot stops shifting. The grit at its edges stills, mid-fall, and doesn't drop any further. It's not gone soft or safe-looking — it's still stone-dark and rough — but you'd trust your weight on it now, and you're not sure why that certainty just arrived.
-
-**When you release a strip and carry it forward:** describe the physical work honestly — it's heavy, awkward, and takes real effort to haul along the landings to the next open gap.
-
-**Feedback:**
-- **You release a clear strip correctly:** it comes free at a touch, folding into something you can carry.
-- **Trying to release an occupied strip:** it draws taut around whoever's still on it and simply won't fold. No fall, no harm — it's telling you to wait.
-
-**Shortcuts work normally here.** Flying, jumping, teleporting, and similar all function as they should. If a player falls through an honest mistake — a failed jump, trusting something unsecured — they reappear, disoriented but unhurt, on the last landing they stood on, still holding whatever they were carrying.
-
-**[VIV] — deliver this quietly, to Vivatrix alone, the first time she crosses a strip the moment after it's secured, or the first time an unsecured one sags underfoot:**
-
-> *The drop in your stomach when the stone shifts under your boot doesn't read as fear. It's closer to the feeling of a hand catching your wrist before you knew you were falling — steadying, not startling. You don't flinch. You're not sure why everyone else does.*
-
-**Noise cues from the Effulgent table:** shouting through the wall, and, when a strip is secured or released, a satisfied "got it" or a muffled cheer. You don't need to react; let this table hear the work.
-
-**When the crossing is complete (all four gaps spanned and everyone's across):**
-
-> The last strip settles into the final gap and stops shifting for good. Behind you, the grit-worn platforms and the dark, coiled lengths look, for just a moment, like a single unbroken span — and then it's just landings again, the way a finished thing stops looking remarkable the second it's done.
-
-**Bonus round (optional):** partway across, the crossing **shudders** and a small **fifth gap** opens at the midpoint. Same rules — one more place/secure/release/carry cycle with the same three strips.
-
-*Texture:* the grit smells faintly of river water though the gulf is bone dry; motes of grey ash drift upward out of the depths the whole time, slow as falling snow in reverse; if anyone looks straight down through a gap, the stone parts for a moment to show something far, far below — a garden, maybe, with white stones arranged in a pattern too regular to be natural — before closing over again; the strips, when released, are cold enough to sting bare hands.
+After the fourth picture, cross the star-woven path and continue to Room 5 below.
 
 ---
 
 ## Room 5 — The Shrine of Two Mothers
 
-> Past the bridge, the path narrows into a hushed, ash-grey grove centered on a cracked stone altar. Atop it, a statue: a tall, gaunt matron, robes carved in folds gone brittle-looking with age, arms outstretched — not welcoming so much as *reaching.* A pair of ravens perch in the crook of one carved arm, silent, watching the party with too much attention for birds. A shallow dish at her feet holds a thin curl of ash instead of incense, still faintly warm, as if something burned there recently and finished only just before the party arrived.
+> Past the star-woven crossing, the path narrows into a hushed, ash-grey grove centered on a cracked stone altar. Atop it, a statue: a tall, gaunt matron, robes carved in folds gone brittle-looking with age, arms outstretched — not welcoming so much as *reaching.* A pair of ravens perch in the crook of one carved arm, silent, watching the party with too much attention for birds. A shallow dish at her feet holds a thin curl of ash instead of incense, still faintly warm, as if something burned there recently and finished only just before the party arrived.
 >
 > There's no instruction carved anywhere. Just the statue, waiting, arms open, the way you'd wait for someone to come home — or the way you'd wait for someone to finally stop running.
 
