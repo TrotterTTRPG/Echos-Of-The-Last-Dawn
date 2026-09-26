@@ -64,55 +64,6 @@ Companion to [[Sessions/Potential Events/The Two Truths v2|The Two Truths v2]] a
 
 **Begin at scene 1.** If the Sugarbend guide has already delivered the fall and Tansy’s call, begin at [[#2. Arrive in one place twice]].
 
-## 1. Eat together
-
-**DM NOW:** Oren knows bringing outsiders to the Umbral breaks its law, but does not expect physical failure. Tansy Bellwether is the hostess beside them. Vetch Bitterleaf is the village doctor/herbalist, not yet present. Do not make the party consume the Waycaps just to reach this document.
-
-**OREN**
-
-> “All together. When you cross, follow me. I would not go alone.”
-
-**ASK / WAIT:** Establish who eats, and whether they sit or lie down first. If nobody eats, go to [[#Unexpected choices]].
-
-**OREN**
-
-> “Ready? Together, then.”
-
-**READ ALOUD — consumers**
-
-> You swallow. The elder is there—and then the space where he stood is empty. You are still here. The ground presses against you, but the sensation seems very far away. Voices pass over you. Holding onto the words takes effort.
-
-----
-When the mushrooms hit:  
-For everyone but Neight
-
-At first, you catch yourself in a daydream and snap yourself back to reality. It's was of you, or I should say - the best version of you. You might consider have been considering how you've changed. Or, maybe how much you haven't. 
-But reality is...weird. Your on the ground? In a somewhat crimpled heap.
-
-Naieht: You notice that one after another, your party members get a distant look in thier eyes. They are quiet, and just seem lost in thought before they start dropping to the ground.
-
-
-Eventually, Naieht also has the same happen
----- --
-
-reality is warping as you behold it. It looks as if everything were a relfection on top wavy water, while you are sinking deeper. Everything sounds like you are submerged. 
-
-Perception: 10 
-they see oren come back
-
-
-**OREN — after returning**
-
-> “Something is wrong. They should have come through.”
-
-**TANSY**
-
-> “Go and get the herbalist. Quickly—they’re still here.”
-
-**READ ALOUD**
-
-> Footsteps hurry away. Someone is speaking beside you, but the voice grows difficult to hold onto.
-
 
 
 **NEXT:** [[#2. Arrive in one place twice]]. Privately note: Vetch arranges treatment and transfer to the clinic. Vetch and Oren believe accidental poisoning; neither knows souls traveled. Staying characters may help; do not pause their world indefinitely.
@@ -125,7 +76,7 @@ they see oren come back
 
 ```text
                   NORTH / TOWARD BRIDGE
-                         ARCH
+                    CRYSTAL ARCH
           tree                         tree
           tree                         tree
                        ( POOL )
@@ -166,17 +117,157 @@ This is an orientation sketch, not a puzzle diagram. Tree number and spacing are
 
 ## 3. The crystal arch
 
-**DM NOW — answer:** the Effulgent characters hold the two supporting pillars steady while an Umbral character releases the blocking growth. Each side alone can change the scene but cannot maintain a clear, stable opening. The two side supports and the central obstruction are distinct objects; draw all three.
+### Understand the whole puzzle first — DM only
 
-**Starting state:** left support loose; right support loose; center blocked. The whole group stands clear of the arch, so demonstrations need not hurt anyone.
+**Think of a doorway with two broken doorposts and a solid block wedged into the opening.** The block prevents anyone walking through, but it also props up the arch above. If the party removes the block before fixing both posts, the arch sinks and the magical block grows back. They must make the side supports reliable before removing the thing in their way.
 
-**READ ALOUD — as they approach**
+There is **one physical arch**, seen differently by the two groups. An action on one side changes the same structure the other side sees. The characters can hear each other and coordinate.
 
-> Up close, you can trace the seams between the two pillars and the slab filling the passage. They are separate pieces, pressed tightly together beneath the arch. A narrow notch beside the right pillar offers a glimpse beyond: a little more paving, then an abrupt edge and empty air.
+**The four parts:**
 
-**DM detail:** the opening is 10 feet wide and 12 feet high; the slab is roughly forearm-thick. The gulf begins about 20 feet beyond the arch. The top of the slab supports the arch while its pillars are loose. In Effulgent, hairline fractures separate otherwise precisely aligned sections of each pillar; they do not sway until disturbed. In Umbral, the same fractures open and shed grit. Describe the seams and fractures when examined; they distinguish the parts the players can touch.
+| Part | What it does at the start | What the party needs to do |
+| --- | --- | --- |
+| Left pillar | A cracked support; cannot reliably carry its side of the arch | An Effulgent character holds it steady with a hand. |
+| Right pillar | The same problem on the other side, 10 feet away | A second Effulgent character holds this one steady. |
+| Central slab / growth / blockage | These names all mean **the same object**: the crystal block filling the doorway and helping support its top | An Umbral character touches it and lets it crumble away. |
+| Curved arch overhead | Rests on the pillars and the central block | Nobody needs to operate it. Its movement shows whether the pillars are supported. |
 
-**Reveal by inspection, without a check:** the center is separate from the two supporting pillars. In Effulgent it is perfectly joined to the paving; in Umbral it is already shedding. A gentle touch produces the first feedback below. Tell a player what their own character notices, then let them explain it.
+**Exactly how the magic works:** Effulgent touch makes the touched crystal hold its shape. Umbral touch makes it loosen and break apart. These effects are automatic here: no spell, skill check, special item, or spoken command is required. A tentative touch shows the effect; keeping a hand there continues it. A person does not need to know the solution before experimenting.
+
+**The complete solution, step by step:**
+
+1. **Aelar places a hand on the left pillar and keeps it there.** That pillar’s cracks align; it becomes stable.
+2. **Chein places a hand on the right pillar and keeps it there.** That pillar also becomes stable. Either Effulgent character may take either side; Naieht may substitute if assigned Effulgent.
+3. **While both pillars are being held, Aulberos or Vivatrix touches the central block and loosens it.** It crumbles away. Either Umbral character can do this; Naieht may substitute if assigned Umbral.
+4. **The arch now stands on its two stable pillars, with an open passage beneath it.** Completing this combination makes the stability persist. The two holders can remove their hands and everyone can walk through. No one has to stay behind.
+
+The first two steps can happen in either order. They do not need to time three touches to the same instant; **both pillar holds must simply overlap while the center is removed**. The whole party can work from the courtyard side. They do not need to reach through the block or cross first.
+
+**What happens if they try something else:**
+
+- **Remove the center with neither pillar held:** both sides of the arch sag, and the center regrows. Back to the starting state; no automatic damage.
+- **Remove the center with only one pillar held:** only the unsupported side sags, and the center regrows. This visibly identifies the missing step. The held pillar stays stable while contact continues.
+- **Let go of a pillar before the center is successfully removed:** that pillar becomes unstable again. They can put a hand back and retry.
+- **Use Effulgent touch on the center:** it becomes more solid. They have strengthened the blockage, not opened the passage. Letting go undoes this.
+- **Use Umbral touch on a pillar:** it crumbles, and the arch settles against the central block. When the character stops, the pillar regathers into its original unstable state. They can retry.
+
+**Why this puzzle exists:** it teaches the players the two aspects’ touch effects through a simple shared task. They are stabilizing useful supports and removing an obstruction. There is no riddle, correct symbol count, hidden order, or required speech about balance.
+
+**How to run discovery:** describe the cracked pillars and separate central block. Ask what they touch or inspect. Show the appropriate reaction immediately, including what the other group sees. If they try removing the center first, emphasize that the unsupported pillars gave way. Let that observation lead them to try holding the sides.
+
+**Winning condition:** both pillars are stable when the central block is removed. Announce a clear open passage and confirm that it stays open after the holders let go. The detailed descriptions below provide narration for each experiment; they add no further requirements.
+
+**A limitation to know upfront:** this is a freestanding arch, and the current scenario allows a sensible route around or over it. It is a teaching opportunity, not a compulsory sealed gate. If the party bypasses it, let that work and demonstrate the touch effects on accessible crystal before the bridge; do not invent an invisible wall.
+
+**Initial state to track:** left pillar unstable; right pillar unstable; center present. That is the entire puzzle state until success.
+
+### Approaching the arch
+
+**DM NOW:** Deliver the arrival description for each aspect, then pause. The inspection passages below are responses to what players examine, not a speech to read all at once. Every visible clue is available without a check. Their appearances differ, but both groups are examining the same two supports, curved arch, and central slab.
+
+**READ ALOUD — Effulgent**
+
+> The arch rises from the paving in broad, clear facets. Light passes through it and falls across the ground in straight bands. Its two pillars are almost painfully alike: the same narrow faces, the same stepped bases, the same branching lines caught deep within the crystal.
+>
+> Between them, a thick slab fills the passage. Its face is smooth enough to reflect you, though the reflection breaks into smaller versions of itself deeper inside. The slab reaches all the way up to the curve overhead. Where they meet, the light gathers into a bright, unbroken line.
+>
+> Nothing moves. But close to the base of each pillar, a fine horizontal crack cuts through the otherwise perfect crystal. Through a narrow notch beside the right pillar, you can see the path continuing beyond.
+
+**READ ALOUD — Umbral**
+
+> The arch leans above a scatter of crystal chips. Its pillars have split into uneven sections, their edges grinding softly against one another. Fine dust spills from a crack near the foot of the left pillar. A moment later, you hear the same dry scrape on the right.
+>
+> A thick growth fills the passage between them. Its face bristles with points: some lengthen, some split, and others loosen and fall. Beneath that restless surface, a solid slab still runs from the paving to the curve overhead. Each time a pillar shifts, the arch bears down against its top with a little crunch.
+>
+> A narrow notch beside the right pillar gives you a glimpse of the path beyond. Fragments gather beneath the opening, then break apart as fresh points push through them.
+
+**ASK / WAIT:** “What do you approach or examine?”
+
+**DM layout:** the passage between the pillars is 10 feet wide and 12 feet high; the central slab is roughly forearm-thick. Both pillars are reachable from the courtyard. The arch is freestanding, with open paving beside it. The gulf begins about 20 feet beyond. The central slab currently helps bear the arch’s weight; removing it without stabilizing both pillars causes the arch to settle and the blockage to regrow. Do not reveal this explanation before they investigate or experiment.
+
+```text
+              CURVED ARCH
+             /-----------\
+     LEFT   |  TOP OF SLAB |   RIGHT
+    PILLAR  |             |  PILLAR
+      ||    |  BLOCKAGE    |    || <-- narrow viewing notch
+   --crack--|             |--crack--
+      ||    |_____________|    ||
+   ================================= PAVING
+                    PARTY
+```
+
+### What closer examination reveals
+
+**Looking at either pillar — Effulgent**
+
+> The crack runs around the pillar, not just across its face. Above and below it, the crystal’s branching lines almost meet. Almost. One is displaced by the width of a hair. Once you notice it, the tiny mismatch stands out against everything around it.
+
+**Looking at either pillar — Umbral**
+
+> The crack opens and narrows under the weight above it. Within it, a ridge on one section catches against a hollow in the other, slips, then catches again. The pillar is still standing, but its pieces are not holding their places.
+
+**DM clue:** both pillars have the same structural problem. If players examine the second after the first, confirm that plainly. The branch patterns are visual evidence of misalignment, not a symbol-counting puzzle.
+
+**Examining the central slab — Effulgent**
+
+> A seam separates the slab from each pillar. Its lower edge meets the paving without a gap, and its top presses firmly beneath the arch. It has no handle, hinges, or keyhole. Along its face, even the smallest imperfections end in a complete crystal shape.
+
+**Examining the central slab — Umbral**
+
+> A loose cluster near the surface flakes away under the lightest pressure. For an instant there is a shallow hollow. New points rise from its bottom and close it again. The surface is constantly breaking and rebuilding; the seams down either side remain visible beneath the shifting growth.
+
+**Watching the top of the blockage — either aspect:** in Effulgent, a hairline contact marks where the arch rests on the slab. In Umbral, each movement of a pillar presses the arch against the slab and crushes a few tips. If someone asks what supports the arch, tell them **the pillars and the central slab both appear to bear its weight**.
+
+**Looking through the notch — either aspect**
+
+> Beyond the crystal, the paving continues a short way before ending at a gulf. Pale square shapes stand out over the depth, one beyond another. Nothing is moving toward you from the other side.
+
+**Walking around:** there is no hidden wall or unseen barrier beside the arch. A character can inspect its back. The same slab and seams are visible there; no latch or separate mechanism is concealed behind it. A workable bypass remains allowed, as described below.
+
+### First contact and visible reactions
+
+**DM NOW:** Ask which piece they touch and what they try. A curious touch reveals the response; they do not need to announce an unknown power. Effulgent contact tends to align and hold the touched piece. Umbral contact loosens it. These are the existing puzzle effects, not new character abilities. A quick touch previews the change; sustained contact or a deliberate attempt carries it through.
+
+**Effulgent touches a pillar — read to that character**
+
+> Beneath your palm, the two ends of a broken line meet. The crack becomes difficult to find. The crystal above your hand settles into an exact alignment, and the bright line where this side of the arch meets the slab grows thinner.
+
+**At the same moment — Umbral observers**
+
+> The pillar beside that voice stops grinding. Its loose sections draw together. Dust falls from the crack once, then stops. The opposite pillar still shifts.
+
+**If the hand is removed before the opening is completed:** the hairline mismatch returns in Effulgent; the seam begins grinding again in Umbral. Describe the change immediately. Stabilizing one side does not stabilize the other.
+
+**Umbral loosens the center — read to that character**
+
+> The points beneath your hand separate. A hollow spreads through the slab, and this time the new growth does not fill it. Through the thinning crystal, you begin to see the paving on the other side.
+
+**At the same moment — Effulgent observers**
+
+> A section of the smooth slab is gone. Light reaches through where your reflection had been. The opening widens, exposing the underside of the arch.
+
+**If either pillar is still loose — everyone**
+
+> The arch drops a finger’s breadth on its unsupported side. A sharp crack runs through the remaining crystal. Points thrust back into the opening until the slab is solid again and the arch rests against it.
+
+**DM:** show the settling before anyone commits to passing underneath. This is the reset and the clue, not surprise crushing damage. If one pillar was held, only the other side visibly dips. The group can identify what still needs attention.
+
+**Effulgent stabilizes the center:** its small flaws close; the reflection becomes clearer and the slab presses more completely against the arch. Umbral observers see its shedding surface stop breaking apart. The way remains blocked. Releasing contact restores the starting behavior.
+
+**Umbral loosens a pillar:** its lower sections crumble and the arch tilts onto the central slab. Effulgent observers see the pillar’s aligned bands separate. Once the character stops, fragments regather into the original unstable pillar. Explain that the center is still blocking the way and now taking more of the weight.
+
+**Both pillars held while the center is released — Effulgent**
+
+> The lines inside both pillars meet cleanly from base to crown. Between them, the slab thins until the path beyond is clear. The arch remains exactly where it was. When you lift your hand, the alignment holds.
+
+**The same success — Umbral**
+
+> The growth parts beneath your touch and falls away in small fragments. This time, nothing pushes up to replace it. The pillars hold, the grinding stops, and the arch stands over an open passage.
+
+**DM:** the completed arch stays stable until everyone is through, including the characters who held the pillars. Let them recognize that success; do not demand another action or secret phrase.
+
+### Action reference
 
 | Action | Immediate feedback and state |
 | --- | --- |
@@ -195,6 +286,11 @@ This is an orientation sketch, not a puzzle diagram. Tree number and spacing are
 **NEXT:** [[#4. The moving bridge]].
 
 ## 4. The moving bridge
+
+> [!abstract] Puzzle at a glance — DM only
+> **Description:** Five gaps separate the party from the far bank, but they have only three reusable bridge spans.
+> **Design:** A movement and resource puzzle. Effulgent characters secure spans ahead; Umbral characters release empty spans behind. Players coordinate positions and carry recovered pieces forward without stranding companions.
+> **Winning condition:** Get everyone to landing 5. Recycle spans to complete the crossing, or accept another workable traversal plan; no particular construction order is required.
 
 **DM NOW:** This is a shared moving-platform problem. Three reusable spans must cover five gaps. Effulgent characters secure spans; Umbral characters release an empty span so it can be reused. Moving ahead without coordinating can strand someone, but they can restore the route behind them. Do not introduce additional secret bridge rules.
 
@@ -257,6 +353,11 @@ They can use only two spans or another valid order. Do not require the worked ro
 **NEXT:** once the group reaches 5, [[#5. The seasonal garden]]. Do not force a bonus gap or another bridge behind their success.
 
 ## 5. The seasonal garden
+
+> [!abstract] Puzzle at a glance — DM only
+> **Description:** Three planting beds begin at different stages of a repeating growth cycle; a sealed doorway responds when all three flower together.
+> **Design:** A timing puzzle with player-triggered pulses. Effulgent characters grow or hold a bed; Umbral characters release later stages, including restarting exhausted soil. Players coordinate changes and pauses rather than permanently preserving or destroying everything.
+> **Winning condition:** All three beds must be at **Bloom after the same pulse**. This opens the route home; no extra offering or spoken answer is needed.
 
 **DM NOW — goal:** get all three beds to **Bloom at the end of the same pulse**. Effulgent can encourage or hold a state; Umbral can release a finished state into the next. Soil needs an Umbral release to begin again. Everything is visible and reversible.
 

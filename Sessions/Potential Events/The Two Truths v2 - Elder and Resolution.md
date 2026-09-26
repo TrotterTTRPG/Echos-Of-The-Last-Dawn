@@ -49,13 +49,13 @@ version: 2
 
 ### Main character reminders
 
-| Character | Keep consistent |
-| --- | --- |
-| **Oren** | Guarded, behind on deliveries, prioritizes buyers. Illegal entry is a known risk; failed Waycap travel is a genuine surprise. |
-| **Rusk** | Fears the buyers. Wants to seize the hut intact; close to defying Oren. Cannot explain how the machinery works. |
-| **Tansy** | Practical hospitality. Stays behind and calls for Vetch. No deliberate trap. |
-| **Vetch** | Competent, occupied, unsentimental. Assumes poisoning and criticizes Oren while treating the party. |
-| **Electric woman** | Protective, intelligent, unaware of the downstream product. Her soul theory remains unresolved. |
+| Character                | Keep consistent                                                                                                               |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Oren** - Jon           | Guarded, behind on deliveries, prioritizes buyers. Illegal entry is a known risk; failed Waycap travel is a genuine surprise. |
+| **Rusk** - Bria          | Fears the buyers. Wants to seize the hut intact; close to defying Oren. Cannot explain how the machinery works.               |
+| **Tansy** - Bria         | Practical hospitality. Stays behind and calls for Vetch. No deliberate trap.                                                  |
+| **Vetch** - Bria         | Competent, occupied, unsentimental. Assumes poisoning and criticizes Oren while treating the party.                           |
+| **Electric woman** - Jon | Protective, intelligent, unaware of the downstream product. Her soul theory remains unresolved.                               |
 
 ### Decisions still needed
 
@@ -309,39 +309,51 @@ Item reference: [[Rules/Custom Items and Spells/Items/Pondstrider|Pondstrider]].
 
 **PAUSE:** Confirm the actual consumers. The elder eats with them.
 
-**NARRATION — to characters who eat**
 
-> The mushroom gives beneath your teeth. You swallow. The elder is there in front of you—and then the space where he stood is empty.
->
-> You are still here.
->
-> The ground comes closer. You feel yourself settle against it, but the sensation is distant. Voices continue around you. Keeping hold of the words takes more effort than it should.
->
-> You cannot tell how long you have been lying there.
+## 1. Eat together
 
-**PRIVATE:** Adapt the fall if they sat or lay down beforehand. The elder has crossed bodily to the Umbral. He waits **about one minute**, then returns. Those who stayed behind can act during that time; follow their actions rather than forcing this script.
+**DM NOW:** Oren knows bringing outsiders to the Umbral breaks its law, but does not expect physical failure. Tansy Bellwether is the hostess beside them. Vetch Bitterleaf is the village doctor/herbalist, not yet present. Do not make the party consume the Waycaps just to reach this document.
 
-**NARRATION**
+**OREN**
 
-> A voice comes into focus above you. The elder's.
+> “All together. When you cross, follow me. I would not go alone.”
 
-**DIALOGUE — OREN (ELDER)**
+**ASK / WAIT:** Establish who eats, and whether they sit or lie down first. If nobody eats, go to [[#Unexpected choices]].
 
-> “No. Something is wrong. They should have come through.”
+**OREN**
 
-**NARRATION**
+> “Ready? Together, then.”
 
-> A different voice cuts in—another fairy who has been beside you.
+When the mushrooms hit:  
+For everyone but Neight
 
-**DIALOGUE — TANSY (HOSTESS)**
+At first, you catch yourself in a daydream and snap yourself back to reality. It's was of you, or I should say - the best version of you. You might consider have been considering how you've changed. Or, maybe how much you haven't. 
+But reality is...weird. Your on the ground? In a somewhat crimpled heap.
 
-> “Go and get the herbalist. Quickly—all of them are still here.”
+Naieht: You notice that one after another, your party members get a distant look in thier eyes. They are quiet, and just seem lost in thought before they start dropping to the ground.
 
-**NARRATION**
 
-> Footsteps hurry away. Someone is speaking close beside you now, but the words are becoming difficult to hold onto again.
+Eventually, Naieht also has the same happen
+---- --
 
-**PRIVATE:** Adjust “all” to the actual consumers. Tansy calls for help, not Oren. The doctor arranges care and transfer to the clinic; remaining PCs may help. Elder and doctor interpret the collapse as accidental poisoning.
+reality is warping as you behold it. It looks as if everything were a relfection on top wavy water, while you are sinking deeper. Everything sounds like you are submerged. 
+
+Perception: 10 
+they see oren come back
+
+
+**OREN — after returning**
+
+> “Something is wrong. They should have come through.”
+
+**TANSY**
+
+> “Go and get the herbalist. Quickly—they’re still here.”
+
+**READ ALOUD**
+
+> Footsteps hurry away. Someone is speaking beside you, but the voice grows difficult to hold onto.
+
 
 ### Purgatory handoff
 
