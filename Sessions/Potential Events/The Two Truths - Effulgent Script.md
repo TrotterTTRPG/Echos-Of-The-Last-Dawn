@@ -6,16 +6,6 @@ DM-only read-aloud script for the **Effulgent** table. Mechanics, timing, dream 
 
 ---
 
-## Room 0 — The Feast (shared scene, see [[The Two Truths#The Feast — Before the Trip]])
-
-Run this together with the Umbral DM before splitting rooms. Once Tansy has handed out the caps and everyone has eaten, move this table to its own space and read:
-
-> The wine you were drinking a moment ago tastes, suddenly, like it's made of light. The lanterns strung through Sugarbend's trees stop flickering and start *breathing* — a slow gold pulse, in and out, in time with something in your own chest. Tansy is still talking, warm and quick, but the words have stopped mattering and started sounding like music instead. The last thing you're sure of is her little bells chiming as she turns to refill a cup — and then the feast table simply isn't there anymore, and neither is anyone who isn't sitting where you are.
-
-Transition straight into Room 1. Don't leave a gap for questions; the disorientation is the point.
-
----
-
 ## Room 1 — The Threshold
 
 > You're standing at the mouth of a garden path you don't remember walking into. Everything is almost too much to look at directly — not bright exactly, just *saturated*, the way a color looks after rain. The air smells like warm bread, cut grass, and, underneath that, something floral you can't quite name. Somewhere off to your left, a bird is singing four notes over and over, pleased with itself. The path is lined with hedges trimmed into shapes that might be animals, or might just be hedges, cut with more care than any hedge has ever gotten.
@@ -87,26 +77,33 @@ This is the intended dead end. Let them search, knock, and check for hidden swit
 
 **The Shepherd's riddles** (deliver in order; give the *plain version* after a wrong answer or a long silence):
 
+**U1 — The Whitest Coat**
+> *"Each of us wears a second hide, stolen or grown or worn with pride. Some are dark and some are dun — which of us wears the whitest one?"*
+
+*Plain:* Each redcap has a fleece-coat you can't see. Which is the **whitest?** **Answer: the Stone.**
+
 **E1 — The Crown Beneath**
 > *"Wool's the half of any sheep; the rest is hid where wool runs deep. Every one of mine wears red — some worn pale, some worn dead. Point me to the deepest-dyed, the crown that's soaked the most inside."*
 
 *Plain:* Each sheep has a red cap under its wool. Which cap is the **deepest, darkest red?** **Answer: the Pond.**
+
+**U2 — Ribbon and Hook**
+> *"Ribbons tied on two of ours; one is handy with a hook. Point me to the ribboned one who has the hooked blade — take a look."*
+
+*Plain:* Two have ribbons. Only one of them carries a **hooked blade.** **Answer: the Bell Post.** (The Willow's sickle is hooked too, but it has no ribbon.)
 
 **E2 — Bell and Iron**
 > *"Two of mine will ring as they roam; one of the two goes iron-shod home. Not the one that treads on leather — bring me the one with bell and iron, together."*
 
 *Plain:* Two sheep wear bells. Only one of those two has **iron boots.** **Answer: the Cart.** (The Willow's bell-wearer has leather boots.)
 
-**E3 — The Order of Crowns**
-> *"Now line them up, from deepest hue to palest rag — the whole flock through. Name each by the place they stand, and I'll open the gate by hand."*
 
-*Plain:* Put the flock in order, **deepest cap to palest.** **Answer: Pond, Willow, Fence, Bell Post, Stone, Cart.**
-
-**Bonus round (optional):** *"Now backwards!"* — same order, reversed: **Cart, Stone, Bell Post, Fence, Willow, Pond.**
 
 **When a riddle is answered correctly:** the named sheep steps forward, dips its head, and steps back. **When it's wrong:** the shepherd tuts, restates the plain version, and adds: *"Have you asked the folk beside you what they see?"*
 
 **Noise cues from the Umbral table** (weave them into the scene without breaking tone): if you hear shouting through the wall about caps, boots, or hooks, the shepherd notices with mild interest: *"Oh, they've gone and found my little secret. Good."* He's a warm figure, not a coy one — he wants them to figure it out.
+
+
 
 **Resolution:** once both tables have finished, the **brass bell** on the post rings once, clear and warm, and the flock trots off down the path in an easy line. The way forward is open.
 
