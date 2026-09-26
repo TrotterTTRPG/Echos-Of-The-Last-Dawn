@@ -1,11 +1,15 @@
-
+Vivatrix, Aulberos, and maybe Naieht
 ## Room 1 — The Threshold
 
-> You're standing at the start of a garden path that shouldn't exist — the hedges on either side are dead, brittle, black-branched things trimmed at some point into shapes you can almost recognize before your eye slides off them. The air smells like wet ash and something sweet underneath it, gone slightly off, like fruit a day past ripe. Somewhere off to your left, something is making a sound like a bird might, if it had learned birdsong secondhand and never quite gotten it right.
+> You're standing at the start of a garden path you don't remember walking into — the hedges on either side are dead, brittle, black-branched things trimmed at some point into shapes you can almost recognize before your eye slides off them. The air smells like wet ash and something sweet underneath it, gone slightly off, like fruit a day past ripe. Somewhere off to your left, something is making a sound like a bird might, if it had learned birdsong secondhand and never quite gotten it right.
 >
 > Blocking the path is a gate. Wrought iron, corroded to a deep rust-black, the vines grown through it long dead and brittle, crumbling to dust wherever they're touched. In the center of the gate, four glyphs are set in a ring, each rusted into place. Beneath them, scratched into a corroded plaque, a few lines of old verse, half the letters eaten through:
 >
 > *"... ... then, the warmth that feeds the need... ... ... last, the dark where lost things stay."*
+
+**[VIV] — deliver this quietly, to Vivatrix alone, once, whenever feels natural in this room:**
+
+> *The others are wrinkling their noses at the wet-ash smell. You're not. If anything, you're breathing it in a little deeper than you meant to — it's not pleasant, exactly, but it doesn't sit wrong in your chest the way it clearly does in theirs. It smells like somewhere. You couldn't say where.*
 
 **The ring (clockwise from the top, as they face the gate):**
 - **Top** — a full sun-disc, straight rays all the way round, like a child's drawing of the sun.
@@ -19,9 +23,7 @@
 
 *Texture to drop in if they linger:* something is dripping steadily nearby, though there's no visible water; the dead hedge-shapes seem to have turned, fractionally, to face wherever the party's standing, though nothing was seen to move; a single perfect apple sits in the dead grass, unrotted, gleaming — the only clean thing in the whole scene. It means nothing. Let them worry about it for nothing.
 
-**[VIV] — deliver this quietly, to Vivatrix alone, once, whenever feels natural in this room:**
 
-> *The others are wrinkling their noses at the wet-ash smell. You're not. If anything, you're breathing it in a little deeper than you meant to — it's not pleasant, exactly, but it doesn't sit wrong in your chest the way it clearly does in theirs. It smells like somewhere. You couldn't say where.*
 
 ---
 
@@ -40,74 +42,6 @@
 *Texture:* the soot-dark walls are cold enough to raise gooseflesh, colder than the room's air should make them; a faint, tuneless hum seems to come from inside the door's wood grain itself, never resolving into anything; if anyone examines the door's scorch marks closely, they form, very nearly, the shape of a hand pressed flat against it from the other side. This means nothing. Let them chase it.
 
 ---
-
-## Room 3 — The Herd
-
-**The Herd Key and riddle answers are in [[The Two Truths#Room 3 — The Herd]].** Below is what *this table sees* and the old redcap's riddles in full.
-
-**No combat.** The redcaps are bound by the *guest-game.* They'll glare, snarl, and grin; they will not touch anyone. If a player attacks, the whole band **bolts and reforms** in a minute or so. If someone asks why nobody's attacking, the old redcap answers, with a rusted grin: *"It's a game, love. We're all so good at games."*
-
-> Beyond the doorway, the path opens onto a wide, colorless meadow — grass gone grey-brown and brittle underfoot, wildflowers reduced to husks that crunch when disturbed. Six squat, wiry figures in filthy red caps are scattered across it, hunched low, each near something: a great dead **willow** far off to the left, its branches hung with rags and small bones; a **flat stone** in the middle of the meadow, stained rust-dark; a **broken fence** near on your left, nails bristling; a **pond** of black water near on your right; an **overturned hay cart** far off to the right; and a tall **post** near the far end of the meadow, by the path that leads onward, with an **iron bell** hanging from it.
->
-> Just inside the meadow, on a three-legged stool, sits an old, old **redcap** — a graybeard, iron-shod, a cap so stiff with stains it holds its shape without a head. He looks up as you arrive and grins like he's been waiting.
->
-> *"Well now. Guests. We keep a game for guests. Three questions, and you're welcome to the path. Get them wrong, and you'll stay till you don't."* (A pause, all wrong teeth.) *"...That's a joke. Mostly."*
-
-**The redcaps (this table's view — give details when asked; do not volunteer all of it at once):**
-
-| At | What you see |
-|---|---|
-| **Willow** (far left) | Cap **dried-blood brown** · a **sickle** · **leather** boots · asleep against the trunk, snoring. *Flavor:* a missing finger. |
-| **Flat Stone** (center) | Cap **bright poppy-red** · a **cleaver** · **iron-shod** boots · gnawing on something. *Flavor:* a nose that's been broken more than once. |
-| **Fence** (near left) | Cap **deep crimson** · a **cudgel** · **leather** boots · staring steadily at the party. *Flavor:* one ear notched. |
-| **Pond** (near right) | Cap **black-red, soaked through** · **nothing in its hands** · **barefoot** · crouched at the water's edge, washing its cap — the water runs red. *Flavor:* mud to the knees. |
-| **Cart** (far right) | Cap **faded pink, sun-bleached** · a **hammer** · **iron-shod** boots · lying under the cart, picking its teeth. *Flavor:* bits of straw caught in its beard. |
-| **Bell Post** (far center) | Cap **plain cherry-red** · a **billhook** · **iron-shod** boots · standing by the post. *Flavor:* a chipped tooth; it looks very pleased with itself. |
-
-**No riddle here can be solved by looking at the redcaps alone.** Each one turns on the **second hide** they wear — a coat of wool that only the Effulgent table can see. The old redcap tells them so, in the first riddle.
-
-**The old redcap's riddles** (deliver in order; give the *plain version* after a wrong answer or a long silence):
-
-**U1 — The Whitest Coat**
-> *"Each of us wears a second hide, stolen or grown or worn with pride. Some are dark and some are dun — which of us wears the whitest one?"*
-
-*Plain:* Each redcap has a fleece-coat you can't see. Which is the **whitest?** **Answer: the Stone.**
-
-**E1 — The Crown Beneath**
-> *"Wool's the half of any sheep; the rest is hid where wool runs deep. Every one of mine wears red — some worn pale, some worn dead. Point me to the deepest-dyed, the crown that's soaked the most inside."*
-
-*Plain:* Each sheep has a red cap under its wool. Which cap is the **deepest, darkest red?** **Answer: the Pond.**
-
-**U2 — Ribbon and Hook**
-> *"Ribbons tied on two of ours; one is handy with a hook. Point me to the ribboned one who has the hooked blade — take a look."*
-
-*Plain:* Two have ribbons. Only one of them carries a **hooked blade.** **Answer: the Bell Post.** (The Willow's sickle is hooked too, but it has no ribbon.)
-
-**E2 — Bell and Iron**
-> *"Two of mine will ring as they roam; one of the two goes iron-shod home. Not the one that treads on leather — bring me the one with bell and iron, together."*
-
-*Plain:* Two sheep wear bells. Only one of those two has **iron boots.** **Answer: the Cart.** (The Willow's bell-wearer has leather boots.)
-
-
-
-**When a riddle is answered correctly:** the named redcap steps forward, tips its cap, and steps back. **When it's wrong:** the old redcap clicks his tongue, restates the plain version, and adds: *"Have you asked the folk beside you what they see?"*
-
-**Noise cues from the Effulgent table:** if you hear shouting through the wall about bells, ribbons, or fleece color, the old redcap notices with a pleased grin: *"There. That's the sound of someone getting it."
-
-*
-
-**[VIV] — deliver this once, the first time the old redcap's eyes go down the line of the party, quietly enough that it reads as an aside rather than a table-wide reveal:**
-
-> *His eyes go down the line of you and catch, just for a beat, on Vivatrix — and the grin falters into something almost like respect. "...not you, though," he mutters, more to himself than to her. "You're closer to home already, aren't you." Then he's back to sizing up the rest of you, like it never happened.*
-
-
-
-**Resolution:** once both tables have finished, the **iron bell** on the post rings once, low and clear, and the band trots off down the path in a line, laughing. The way forward is open.
-
-*Texture:* the willow's rags stir in a wind that isn't blowing anywhere else; the cart's wheels, turned up to the sky, spin slowly and never quite stop; the old redcap chews something dark and thoughtful as he waits and will offer a player a piece (it's a very old acorn, and it means nothing); the redcaps' iron boots ring on the stones like a distant, wrong sort of laughter.
-
----
-
 ## Room 4 — The Moving Bridge
 
 **The Herd-style shared board and full mechanics are in [[The Two Truths#Room 4 — The Moving Bridge]].** Below is what *this table sees* and does.
