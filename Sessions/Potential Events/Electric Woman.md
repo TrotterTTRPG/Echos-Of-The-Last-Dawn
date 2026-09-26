@@ -1,3 +1,5 @@
+**Name:** Hedra Brasswick. Her daughters call her Ma; she asks strangers to address her as Mistress Brasswick.
+
 An Old Woman and Daughters run a generator for the town. They burn sugar cane to power something they call lightning energy.
 
 > One of the daughters is named Ally

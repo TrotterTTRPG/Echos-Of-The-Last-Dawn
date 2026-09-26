@@ -1,7 +1,19 @@
 
-## Room 1 — The Threshold
+## Room 1 — The Unfinished Constellations
 
-> You're standing at the mouth of a garden path you don't remember walking into. Everything is almost too much to look at directly — not bright exactly, just *saturated*, the way a color looks after rain. The air smells like warm bread, cut grass, and, underneath that, something floral you can't quite name. Somewhere off to your left, a bird is singing four notes over and over, pleased with itself. The path is lined with hedges trimmed into shapes that might be animals, or might just be hedges, cut with more care than any hedge has ever gotten.
+**Guide pictures 1–2; draw pictures 3–4.** Both groups can hear all narration; keep solution cards out of the other group's sight. Each picture is one continuous dot-to-dot path with no dot revisited. Reset the current picture after a mistake. Complete all four to open the crossing.
+
+**Run the full scene from [[Sessions/Potential Events/The Two Truths - Room 1 Constellations|Room 1 — The Unfinished Constellations]].** It contains both aspects' drawing feedback, the role reversal after picture 2, and the ending. The arrival for this aspect is reproduced here:
+
+![[Sessions/Potential Events/The Two Truths - Room 1 Constellations#Arrival — Effulgent]]
+
+After the fourth picture, cross the star-woven path and continue to Room 2 — The Threshold below.
+
+---
+
+## Room 2 — The Threshold
+
+> The star-woven crossing brings you to the mouth of a garden path. Everything is almost too much to look at directly — not bright exactly, just *saturated*, the way a color looks after rain. The air smells like warm bread, cut grass, and, underneath that, something floral you can't quite name. Somewhere off to your left, a bird is singing four notes over and over, pleased with itself. The path is lined with hedges trimmed into shapes that might be animals, or might just be hedges, cut with more care than any hedge has ever gotten.
 >
 > Blocking the path is a gate. Wrought in pale gold metal, twisted into looping vines — and *alive:* actual vines have grown through and around the metalwork so thoroughly you can't tell where the forge work ends and the garden begins. In the center of the gate, four flowers are set in a ring, each a different bloom. Beneath them, carved into a stone lintel in flowing script, a few lines of verse — weathered, and only every other line is legible:
 >
@@ -21,7 +33,7 @@
 
 ---
 
-## Room 2 — The Tapestry and the Door
+## Room 3 — The Tapestry and the Door
 
 > The path opens into a round chamber, walled in warm honey-colored stone, open to a soft twilight sky through a gap in the ceiling far overhead. On the far wall hangs an enormous **tapestry** — woven so finely it could be a window instead of cloth. It shows a court in mid-dance: fae in bright silk, a ring of lantern-light, a couple at the center caught mid-turn, laughing at something just out of frame. The colors are so rich you could believe the dancers are about to finish the step.
 
@@ -45,9 +57,9 @@ This is the intended dead end. Let them search, knock, and check for hidden swit
 
 ---
 
-## Room 3 — The Herd
+## Room 4 — The Herd
 
-**The Herd Key and riddle answers are in [[The Two Truths#Room 3 — The Herd]].** Below is what *this table sees* and the Shepherd's riddles in full.
+**The Herd Key and riddle answers are in [[The Two Truths#Room 4 — The Herd]].** Below is what *this table sees* and the Shepherd's riddles in full.
 
 > Beyond the archway, the path opens onto a wide, sun-warmed meadow — the kind of green that looks freshly painted. Wildflowers everywhere, lazy and low. Six sheep are scattered across it, each near something — a great **willow** far off to the left, a **flat stone** in the middle of the meadow, a **broken fence** near on your left, a small clear **pond** near on your right, an **overturned hay cart** far off to the right, and a tall **post with a brass bell** near the far end of the meadow, by the path that leads onward.
 >
@@ -104,21 +116,9 @@ This is the intended dead end. Let them search, knock, and check for hidden swit
 
 ---
 
-## Room 4 — The Unfinished Constellations
-
-**Guide pictures 1–2; draw pictures 3–4.** Both groups can hear all narration; keep solution cards out of the other group's sight. Each picture is one continuous dot-to-dot path with no dot revisited. Reset the current picture after a mistake. Complete all four to open the crossing.
-
-**Run the full scene from [[Sessions/Potential Events/The Two Truths - Room 4 Constellations|Room 4 — The Unfinished Constellations]].** It contains both aspects' drawing feedback, the role reversal after picture 2, and the ending. The arrival for this aspect is reproduced here:
-
-![[Sessions/Potential Events/The Two Truths - Room 4 Constellations#Arrival — Effulgent]]
-
-After the fourth picture, cross the star-woven path and continue to Room 5 below.
-
----
-
 ## Room 5 — The Shrine of Two Mothers
 
-> Past the star-woven crossing, the path narrows into a small grove, hushed and green-gold, centered on a raised stone altar. Atop it, a statue: a tall, winged matron, robes carved so finely they seem to move, arms outstretched and open. A pair of doves nest in the crook of one carved arm, cooing softly, entirely undisturbed by your arrival. Incense burns in a shallow dish at her feet — sweet, warm, something like honeysuckle and beeswax.
+> Beyond the herd, the path narrows into a small grove, hushed and green-gold, centered on a raised stone altar. Atop it, a statue: a tall, winged matron, robes carved so finely they seem to move, arms outstretched and open. A pair of doves nest in the crook of one carved arm, cooing softly, entirely undisturbed by your arrival. Incense burns in a shallow dish at her feet — sweet, warm, something like honeysuckle and beeswax.
 >
 > There's no instruction carved anywhere. Just the statue, waiting, open-armed, the way you'd wait for someone to come home.
 

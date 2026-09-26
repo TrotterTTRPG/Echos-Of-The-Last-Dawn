@@ -1,17 +1,25 @@
 ## ▶ Run Sheet
 
 **The Hollow Bloom (the shared vision-dungeon)**
-2. [[#Room 1 — The Threshold]] — the gate. Four symbols in a ring; the rhyme is split between the tables.
-3. [[#Room 2 — The Tapestry and the Door]] — Effulgent can't open anything. Umbral has to move the door first.
-4. [[#Room 3 — The Herd]] — the sheep are the redcaps. Six riddles, each solvable only with the other table's eyes.
-5. [[#Room 4 — The Unfinished Constellations]] — three strips, four gaps. Effulgent secures; Umbral releases; nobody finishes alone.
-6. [[#Room 5 — The Shrine of Two Mothers]] — the offering. The way out.
+1. [[#Room 1 — The Unfinished Constellations]] — guide the other group through two dot-to-dot drawings, then reverse roles for two more.
+2. [[#Room 2 — The Threshold]] — the gate. Four symbols in a ring; the rhyme is split between the tables.
+3. [[#Room 3 — The Tapestry and the Door]] — Effulgent cannot open the way until Umbral moves the door.
+4. [[#Room 4 — The Herd]] — the sheep are the redcaps. Six riddles using both groups’ observations.
+5. [[#Room 5 — The Shrine of Two Mothers]] — the offering and the way out.
 
 **Scripts (read-aloud, one per table):** [[The Two Truths - Effulgent Script]] · [[The Two Truths - Umbral Script]]
 
 ---
 
-## Room 1 — The Threshold
+## Room 1 — The Unfinished Constellations
+
+**Run from [[Sessions/Potential Events/The Two Truths - Room 1 Constellations|Room 1 — The Unfinished Constellations]].** Both groups hear the narration. Effulgent holds two solution cards and guides Umbral in drawing two constellations without revisiting dots; then the groups reverse roles for two more. Four completed pictures create the path to Room 2 — The Threshold.
+
+The companion contains arrival narration for both aspects, drawing feedback, resets, the role reversal, and completion. Prepare four matching solution-card/blank-grid pairs before play; the drawings themselves are not yet supplied.
+
+---
+
+## Room 2 — The Threshold
 
 **The physical space (same for both):** a garden gate blocking the only way forward. Set into its face is a **ring of four symbols**, arranged like the points of a compass. Beneath them, a four-line rhyme, **half legible on each side.**
 
@@ -46,7 +54,7 @@ The ring is deliberately **not** in cyclic order (clockwise from the top it read
 
 ---
 
-## Room 2 — The Tapestry and the Door
+## Room 3 — The Tapestry and the Door
 
 **The physical space:** a wall blocking further progress. **Effulgent** sees a heavy, beautiful **tapestry** of the fae court dancing. **Umbral** sees a **broken door**, half off its hinges, in the same wall.
 
@@ -62,7 +70,7 @@ The ring is deliberately **not** in cyclic order (clockwise from the top it read
 
 ---
 
-## Room 3 — The Herd
+## Room 4 — The Herd
 
 **The physical space:** a wide meadow crossed by the path forward, with **six creatures** spread across it and **one more figure** — the **Herder** — sitting on a stool where the path enters. The meadow has six **landmarks**; each creature stands at one.
 - **Effulgent** sees a **flock of sheep** and a **kindly old shepherd.**
@@ -126,14 +134,6 @@ They are **the same creatures and the same landmarks,** seen two ways. The table
 
 ---
 
-## Room 4 — The Unfinished Constellations
-
-**Run from [[Sessions/Potential Events/The Two Truths - Room 4 Constellations|Room 4 — The Unfinished Constellations]].** Both groups hear the narration. Effulgent holds two solution cards and guides Umbral in drawing two constellations without revisiting dots; then the groups reverse roles for two more. Four completed pictures create the path to Room 5.
-
-The companion contains arrival narration for both aspects, drawing feedback, resets, the role reversal, and completion. Prepare four matching solution-card/blank-grid pairs before play; the drawings themselves are not yet supplied.
-
----
-
 ## Room 5 — The Shrine of Two Mothers
 
 **The physical space:** each table arrives at a small grove and a raised stone altar — the **same shrine**, perceived twice.
@@ -190,9 +190,9 @@ Both tables wake together (merge the rooms here). The feast table, the lanterns 
 ## DM Notes — Running Two Tables At Once
 
 - **The single hardest part of this session is state-sync.** Agree on your signal before you start, and use it every time a room-changing action happens (door forced, riddle answered, piece placed, offering made). The signal can be small — a text saying "R3 U1 done" — but it has to be reliable.
-- **Both tables should always have something to do.** Rooms 3 and 4 are built so both tables are working simultaneously; Rooms 1 and 2 are shorter and lean on cross-talk. If one table finishes early, the *other* is on the critical path — let them sweat, and let the finished table shout encouragement or a detail through the wall.
+- **Both tables should always have something to do.** Room 1 gives both groups turns guiding and drawing; Room 4 uses both groups’ observations. Rooms 2 and 3 are shorter and lean on cross-talk. If one table finishes early, the *other* is on the critical path — let them sweat, and let the finished table shout encouragement or a detail through the wall.
 - **Let both rooms fail forward.** Puzzle info flows through the wall. The only "hint system" you need is the other table's ears. Hold back on nudges until someone's genuinely stuck.
-- **Don't let either DM improvise a hard contradiction.** If a player asks something your script doesn't cover, keep it vague and sensory ("old, warped, heavier than it looks") rather than inventing a hard detail that might clash with the other room. This matters most in Rooms 3 and 4, where a wrong invented detail can break the key.
+- **Don't let either DM improvise a hard contradiction.** If a player asks something your script doesn't cover, keep it vague and sensory ("old, warped, heavier than it looks") rather than inventing a hard detail that might clash with the other room. This matters most in Rooms 1 and 4, where a wrong invented detail can break the key.
 - **Nothing in here is a trap.** There's no failure state that costs resources. If a table is frustrated, hand them a hint. The dream's job is to be a long, lovely, occasionally maddening delay, not a wall.
 - **Hidden details are the point.** Both scripts are stuffed with irrelevant texture on purpose. Don't linger on the important stuff, and don't rush past the unimportant stuff. If the players can tell from your pacing which detail matters, you're reading it wrong.
 
@@ -203,6 +203,6 @@ Both tables wake together (merge the rooms here). The feast table, the lanterns 
 [[Vivatrix]]'s patron, **[[The Undying]] / [[The Umbral Dragon]]**, is never named here and nothing in this session should confirm it to her player. The whole thread is atmosphere, not exposition:
 
 - **She sits Umbral, and it should feel like coming home.** Her tablemates should be visibly unsettled by the rot, the hunger, and the wrongness. She isn't. She finds the ash-smell oddly clean, the redcaps oddly polite, the ghost oddly kind. **Never explain why.**
-- Per **[[The Two Truths - Umbral Script]]**, there are private, quiet asides seeded through Rooms 1, 3, 4, and 5 — and one more on waking. They're written for her alone. **Never announce them to the table.** Deliver them as quiet personal color, the way you'd hand a player a note.
-- **The old redcap's aside in Room 3** is the strongest: *"You're closer to home already, aren't you."* The Herder isn't working for anyone, and doesn't know what it's seeing. It's just a very old fae who recognizes a scent.
+- Per **[[The Two Truths - Umbral Script]]**, there are private, quiet asides seeded through the room scripts — and one more on waking. They're written for her alone. **Never announce them to the table.** Deliver them as quiet personal color, the way you'd hand a player a note.
+- **The old redcap's aside in Room 4** is the strongest: *"You're closer to home already, aren't you."* The Herder isn't working for anyone, and doesn't know what it's seeing. It's just a very old fae who recognizes a scent.
 - **This is a seed, not a payoff.** Nothing in this session reveals the Umbral Dragon connection. The goal is that, in hindsight, this night reads as foreshadowing — and that Vivatrix's player gets to feel, for one night, what it's like to be comfortable in the dark.

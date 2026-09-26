@@ -5,9 +5,9 @@ tags:
 status: prepared-encounter
 ---
 
-# Room 4 — The Unfinished Constellations
+# Room 1 — The Unfinished Constellations
 
-Replacement for Room 4 in [[Sessions/Potential Events/The Two Truths|The Two Truths]]. Both groups hear all narration. The solution cards, not private spoken information, provide the difference between what each group knows.
+Opening encounter in [[Sessions/Potential Events/The Two Truths|The Two Truths]]. Both groups hear all narration. The solution cards, not private spoken information, provide the difference between what each group knows.
 
 ## Puzzle at a glance
 
@@ -19,13 +19,13 @@ Replacement for Room 4 in [[Sessions/Potential Events/The Two Truths|The Two Tru
 
 **Mistakes:** wipe or erase the whole current attempt and retry. Earlier completed pictures remain complete. No damage, resource cost, or hidden time limit. Crossing lines between dots is not prohibited; revisiting a dot is.
 
-**Win:** four correctly reproduced constellations open the path through the doorway. No constellation-name guess, offering, or extra riddle is required. The destination is Room 5 in the five-room scenario; this scene does not itself return them to Sugarbend.
+**Win:** four correctly reproduced constellations open the path through the doorway. No constellation-name guess, offering, or extra riddle is required. The destination is Room 2 — The Threshold in the five-room scenario; this scene does not itself return them to Sugarbend.
 
 **Physical preparation still needed:** four solution cards and their matching blank dot grids, pencils, and erasers. This note supplies the approved narrative, not finished puzzle handouts. Before play, check that each intended route can be drawn continuously without revisiting any dot. Give Effulgent the solutions for pictures 1–2 and Umbral their blank grids; reverse for pictures 3–4. Orient each matching pair consistently.
 
 ## Arrival — Effulgent
 
-> The path ends at a circular terrace of pale stone. Above you, stars fill a clear sky. None flicker. Each shines with the same steady light, and between certain stars run lines so fine they might have been scratched into glass.
+> The ground beneath you resolves into a circular terrace of pale stone. Above you, stars fill a clear sky. None flicker. Each shines with the same steady light, and between certain stars run lines so fine they might have been scratched into glass.
 >
 > Two constellations stand directly overhead, complete in every detail.
 >
@@ -37,7 +37,7 @@ Give this group the first two solution cards.
 
 ## Arrival — Umbral
 
-> The path ends at a circular terrace whose outer stones are slowly breaking away. Their fragments rise instead of falling, disappearing into the sky.
+> The ground beneath you resolves into a circular terrace whose outer stones are slowly breaking away. Their fragments rise instead of falling, disappearing into the sky.
 >
 > Above you, stars brighten, dim, and trail loose threads of light. Clouds unwind between them. Yet a handful of stars keep their places, scattered across two dark stretches of sky.
 >
@@ -121,4 +121,4 @@ Read the last sentence only if someone attempts a revisit. Umbral sees each atte
 >
 > The path holds beneath your first step.
 
-Read the final sentence when someone steps onto it. Everyone can cross; no one must keep drawing or stay behind. Continue to Room 5. The two aspects offer different experiences of one completed route: a finished structure in Effulgent and change making a way forward in Umbral.
+Read the final sentence when someone steps onto it. Everyone can cross; no one must keep drawing or stay behind. Continue to Room 2 — The Threshold. The two aspects offer different experiences of one completed route: a finished structure in Effulgent and change making a way forward in Umbral.

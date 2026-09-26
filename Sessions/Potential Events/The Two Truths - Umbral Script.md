@@ -1,9 +1,21 @@
 
 Vivitrix, Alberoes (maybe naieht)
 
-## Room 1 — The Threshold
+## Room 1 — The Unfinished Constellations
 
-> You're standing at the start of a garden path that shouldn't exist — the hedges on either side are dead, brittle, black-branched things trimmed at some point into shapes you can almost recognize before your eye slides off them. The air smells like wet ash and something sweet underneath it, gone slightly off, like fruit a day past ripe. Somewhere off to your left, something is making a sound like a bird might, if it had learned birdsong secondhand and never quite gotten it right.
+**Draw pictures 1–2; guide pictures 3–4.** Both groups can hear all narration; keep solution cards out of the other group's sight. Each picture is one continuous dot-to-dot path with no dot revisited. Reset the current picture after a mistake. Complete all four to open the crossing.
+
+**Run the full scene from [[Sessions/Potential Events/The Two Truths - Room 1 Constellations|Room 1 — The Unfinished Constellations]].** It contains both aspects' drawing feedback, the role reversal after picture 2, and the ending. The arrival for this aspect is reproduced here:
+
+![[Sessions/Potential Events/The Two Truths - Room 1 Constellations#Arrival — Umbral]]
+
+After the fourth picture, cross the star-woven path and continue to Room 2 — The Threshold below.
+
+---
+
+## Room 2 — The Threshold
+
+> The star-woven crossing brings you to a garden path that shouldn't exist — the hedges on either side are dead, brittle, black-branched things trimmed at some point into shapes you can almost recognize before your eye slides off them. The air smells like wet ash and something sweet underneath it, gone slightly off, like fruit a day past ripe. Somewhere off to your left, something is making a sound like a bird might, if it had learned birdsong secondhand and never quite gotten it right.
 >
 > Blocking the path is a gate. Wrought iron, corroded to a deep rust-black, the vines grown through it long dead and brittle, crumbling to dust wherever they're touched. In the center of the gate, four glyphs are set in a ring, each rusted into place. Beneath them, scratched into a corroded plaque, a few lines of old verse, half the letters eaten through:
 >
@@ -27,7 +39,7 @@ Vivitrix, Alberoes (maybe naieht)
 
 ---
 
-## Room 2 — The Tapestry and the Door
+## Room 3 — The Tapestry and the Door
 
 > The path opens into a round chamber, its honey-colored stone gone soot-dark and cold, open to a starless black sky through a gap in the ceiling far overhead. On the far wall hangs a door — heavy, warped, half off its lower hinge, hanging at a wrong angle. Old scorch marks fan out from the frame. It looks like it's been like this for a very long time, and like it's still, somehow, the only way through.
 
@@ -43,21 +55,15 @@ Vivitrix, Alberoes (maybe naieht)
 
 ---
 
-## Room 4 — The Unfinished Constellations
+## Room 4 — The Herd
 
-**Draw pictures 1–2; guide pictures 3–4.** Both groups can hear all narration; keep solution cards out of the other group's sight. Each picture is one continuous dot-to-dot path with no dot revisited. Reset the current picture after a mistake. Complete all four to open the crossing.
-
-**Run the full scene from [[Sessions/Potential Events/The Two Truths - Room 4 Constellations|Room 4 — The Unfinished Constellations]].** It contains both aspects' drawing feedback, the role reversal after picture 2, and the ending. The arrival for this aspect is reproduced here:
-
-![[Sessions/Potential Events/The Two Truths - Room 4 Constellations#Arrival — Umbral]]
-
-After the fourth picture, cross the star-woven path and continue to Room 5 below.
+Use [[Sessions/Potential Events/The Two Truths#Room 4 — The Herd|the shared Herd scene and answer key]]. This script has no separate Umbral Herd passage; use the shared description and responses before continuing to Room 5.
 
 ---
 
 ## Room 5 — The Shrine of Two Mothers
 
-> Past the star-woven crossing, the path narrows into a hushed, ash-grey grove centered on a cracked stone altar. Atop it, a statue: a tall, gaunt matron, robes carved in folds gone brittle-looking with age, arms outstretched — not welcoming so much as *reaching.* A pair of ravens perch in the crook of one carved arm, silent, watching the party with too much attention for birds. A shallow dish at her feet holds a thin curl of ash instead of incense, still faintly warm, as if something burned there recently and finished only just before the party arrived.
+> Beyond the herd, the path narrows into a hushed, ash-grey grove centered on a cracked stone altar. Atop it, a statue: a tall, gaunt matron, robes carved in folds gone brittle-looking with age, arms outstretched — not welcoming so much as *reaching.* A pair of ravens perch in the crook of one carved arm, silent, watching the party with too much attention for birds. A shallow dish at her feet holds a thin curl of ash instead of incense, still faintly warm, as if something burned there recently and finished only just before the party arrived.
 >
 > There's no instruction carved anywhere. Just the statue, waiting, arms open, the way you'd wait for someone to come home — or the way you'd wait for someone to finally stop running.
 
