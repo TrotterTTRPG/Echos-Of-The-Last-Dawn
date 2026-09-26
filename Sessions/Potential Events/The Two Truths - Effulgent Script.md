@@ -104,45 +104,21 @@ This is the intended dead end. Let them search, knock, and check for hidden swit
 
 ---
 
-## Room 4 — The Moving Bridge
+## Room 4 — The Unfinished Constellations
 
-**The Herd-style shared board and full mechanics are in [[The Two Truths#Room 4 — The Moving Bridge]].** Below is what *this table sees* and does.
+**Guide pictures 1–2; draw pictures 3–4.** Both groups can hear all narration; keep solution cards out of the other group's sight. Each picture is one continuous dot-to-dot path with no dot revisited. Reset the current picture after a mistake. Complete all four to open the crossing.
 
-> The path ends at a gulf of pale, drifting haze, bright as a cloud with the sun behind it. Ahead, the crossing breaks into a line of flat, pale platforms — six landings altogether, counting the ground under your own feet — with gaps of empty haze between them. Near the first gap, three folded lengths of clear, glass-like material lie stacked and waiting. Each one, unfolded, looks like it would make a walkway just wide enough to cross single-file.
+**Run the full scene from [[Sessions/Potential Events/The Two Truths - Room 4 Constellations|Room 4 — The Unfinished Constellations]].** It contains both aspects' drawing feedback, the role reversal after picture 2, and the ending. The arrival for this aspect is reproduced here:
 
-**What this table can do:**
-- **Place** a strip across any gap next to a landing someone's standing on. It's slack and unsafe until secured.
-- **Secure** a placed strip — **only this table can do this.** Touching either end of it makes it go still and solid, the glass settling into a clean, steady line. Once secured, anyone can cross it.
-- **Cross** a secured strip freely.
+![[Sessions/Potential Events/The Two Truths - Room 4 Constellations#Arrival — Effulgent]]
 
-**What this table can't do:** free up a used strip. **Only the Umbral table can release one** — and only once nobody's standing on it. If your players ask why a strip won't come loose in their hands, that's the answer, but let them work it out through the wall rather than telling them outright.
-
-**When Umbral releases a strip you've secured** (cue from your co-DM): read this at whichever landing the strip was resting on.
-
-> The strip you steadied a moment ago goes soft at the edges, folds itself into a neat, carryable length, and simply isn't spanning the gap anymore. Someone, somewhere, just picked it up.
-
-**When Umbral moves a freed strip back to your side of a gap and it's placed again:** it's now available to secure again, at its new position.
-
-**Feedback:**
-- **You secure it correctly:** the strip goes still and solid — no roll, no ambiguity. It's obviously done.
-- **A player tries to cross before it's secured:** it sags underfoot before they commit their weight. A clear warning, not a fall.
-
-**Shortcuts work normally here.** Flying, jumping, teleporting, and similar all function as they should. If a player falls through an honest mistake — a failed jump, stepping onto something unsecured — they reappear, disoriented but unhurt, on the last landing they stood on, still holding whatever they were carrying.
-
-**Noise cues from Umbral:** shifting grit, a low grinding sound, and voices arguing about who's standing where. You don't need to explain them; let this table hear the work.
-
-**When the crossing is complete (all four gaps spanned and everyone's across):**
-> The last strip settles into place with a sound like a held breath let out, and the haze below goes quiet. Behind you, the whole crossing looks, for just a moment, like a single unbroken line of pale light — and then it's just landings again, the way a finished thing stops looking remarkable the second it's done.
-
-**Bonus round (optional):** partway across, the crossing **shudders** and a small **fifth gap** opens at the midpoint. Same rules — one more place/secure/release/carry cycle with the same three strips.
-
-*Texture:* small motes of light drift up out of the haze the whole time, lazy as pollen; if anyone looks straight down through a gap, the haze parts for a moment to show something far, far below — a garden, maybe, with white stones arranged in a pattern too regular to be natural — before closing over again; the strips, when secured, are faintly warm to the touch, like glass left in the sun.
+After the fourth picture, cross the star-woven path and continue to Room 5 below.
 
 ---
 
 ## Room 5 — The Shrine of Two Mothers
 
-> Past the bridge, the path narrows into a small grove, hushed and green-gold, centered on a raised stone altar. Atop it, a statue: a tall, winged matron, robes carved so finely they seem to move, arms outstretched and open. A pair of doves nest in the crook of one carved arm, cooing softly, entirely undisturbed by your arrival. Incense burns in a shallow dish at her feet — sweet, warm, something like honeysuckle and beeswax.
+> Past the star-woven crossing, the path narrows into a small grove, hushed and green-gold, centered on a raised stone altar. Atop it, a statue: a tall, winged matron, robes carved so finely they seem to move, arms outstretched and open. A pair of doves nest in the crook of one carved arm, cooing softly, entirely undisturbed by your arrival. Incense burns in a shallow dish at her feet — sweet, warm, something like honeysuckle and beeswax.
 >
 > There's no instruction carved anywhere. Just the statue, waiting, open-armed, the way you'd wait for someone to come home.
 
