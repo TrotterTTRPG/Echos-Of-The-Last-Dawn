@@ -336,7 +336,7 @@ Naieht: You notice that one after another, your party members get a distant look
 Eventually, Naieht also has the same happen
 ---- --
 
-reality is warping as you behold it. It looks as if everything were a relfection on top wavy water, while you are sinking deeper. Everything sounds like you are submerged. 
+reality is warping as you behold it. It looks as if everything were a reflection on top wavy water, while you are sinking deeper. Everything sounds like you are submerged. 
 
 Perception: 10 
 they see oren come back
@@ -564,15 +564,15 @@ Offer clues in response to their approach. These are prepared discoveries, not i
 
 ## Close and record
 
-| Outcome | What remains |
-| --- | --- |
-| Cooperative supply agreement | The agreed schedule and downtime arrangements need to work; buyer response may be pending. |
-| More time secured, no supply fix | Temporary relief; the intermittent supply and growing demand remain. |
-| Organism identified, no implementation | Useful knowledge; cultivation and scaling still need work. |
-| Factory protected, no agreement | Improved immediate safety; shortage and tensions persist. |
-| Factory seized or damaged | Continued operation depends on actual expertise and consequences. |
-| Party leaves | Honor departure; retain unresolved scarcity and relationships. |
-| Another solution proposed | Judge it against the process, resources, and NPC interests. |
+| Outcome                                | What remains                                                                               |
+| -------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Cooperative supply agreement           | The agreed schedule and downtime arrangements need to work; buyer response may be pending. |
+| More time secured, no supply fix       | Temporary relief; the intermittent supply and growing demand remain.                       |
+| Organism identified, no implementation | Useful knowledge; cultivation and scaling still need work.                                 |
+| Factory protected, no agreement        | Improved immediate safety; shortage and tensions persist.                                  |
+| Factory seized or damaged              | Continued operation depends on actual expertise and consequences.                          |
+| Party leaves                           | Honor departure; retain unresolved scarcity and relationships.                             |
+| Another solution proposed              | Judge it against the process, resources, and NPC interests.                                |
 
 **DIALOGUE — OREN (ELDER), if he accepts a cooperative agreement**
 

@@ -8,9 +8,6 @@ status: proposed
 
 # Sugar House Siege
 
-> [!warning] Preparation, not recorded play
-> This is a proposed wave fight at [[Sessions/Potential Events/Electric Woman|Hedra Brasswick's sugar house]]. The attackers are Umbral buyers of [[Rules/Custom Items and Spells/Items/Sweetpitch|Sweetpitch]] who have come to seize the source. Who the Duchess is was a DM decision on 2026-11-07 (see [[#Who the Duchess is]]). Her appearance in this fight, her name, and every stat block below are proposals until used at the table.
-
 **Built for:** five level-4 PCs (Aelar, Aulberos, Chein Po + Kai, Naieht, Vivatrix), 2014 rules.
 **Difficulty:** each wave alone is around or above the Deadly threshold (2,500 adjusted XP for this party). Together the three waves total about **10,700 adjusted XP**, roughly 85% of the party's whole adventuring-day budget, with no rest in between. Expect at least one PC to go down. Use the dials at the bottom to scale it.
 **Lightning:** none of these creatures resists or is immune to lightning.
