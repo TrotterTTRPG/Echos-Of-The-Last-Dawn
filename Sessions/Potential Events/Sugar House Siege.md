@@ -140,10 +140,6 @@ A self-made Umbral power whose shape won't hold still: her gown drifts between m
 
 ## Rewards
 
-> [!note] These rewards are proposed for winning the siege. Record what the party actually receives in the session notes.
-
-**Level up.** Surviving the siege is a milestone: the party reaches **level 5**.
-
 **The Dornthalm book.** Hedra gives the party the book of diagrams she used to build the works. It is **one of the missing [[Dornthalm]] books that [[Aelar Aurelius]] was accused of stealing**. The suspicion was false ([[Campaign Reference/Party and Personal Threads|Party and Personal Threads]]). Hedra brought it from Dornthalm and can't really read it. She worked from the diagrams alone, which show how to build a sugar cane factory, though she believes the lightning is the point ([[Sessions/Potential Events/Electric Woman|Electric Woman]]).
 - Having the book doesn't prove who took it or clear Aelar's name automatically. How Hedra came by it, whether she remembers Aelar from Dornthalm, and what returning it would mean all stay to be decided in play.
 - What the text says beyond the diagrams is also undecided.
