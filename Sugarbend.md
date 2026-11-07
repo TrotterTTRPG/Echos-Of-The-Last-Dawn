@@ -26,7 +26,7 @@ The principal motivations are:
 - **Protecting established trade.** Keeping sugar flowing preserves an enterprise the fairies have already built.
 - **Keeping dependent fairies supplied during an existing crisis.** Reserves are depleted and sugar is scarce. They are already barely staving off problems among fairies who have not had their fix, with a large addicted population in the Umbral adding pressure beyond Sugarbend itself.
 
-Specific Umbral buyers, intermediaries, or powerful interests may remain loosely defined. No particular patron, debt, advance payment, shipment deadline, or compulsory-service arrangement has been established.
+Sugarbend sells to **several** Umbral buyers. **DM decision, 2026-11-07:** the largest is **Duchess Morrowmire**, a self-titled drug lord who belongs to no court and is the main distributor of Sweetpitch in the Umbral. She is one buyer among several; the others remain loosely defined. Her attack on the sugar house is preparation, not recorded play; see [[Sessions/Potential Events/Sugar House Siege#Who the Duchess is|Sugar House Siege]]. No particular patron, debt, advance payment, shipment deadline, or compulsory-service arrangement has been established.
 
 ## People
 

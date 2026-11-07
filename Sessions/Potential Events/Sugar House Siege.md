@@ -9,7 +9,7 @@ status: proposed
 # Sugar House Siege
 
 > [!warning] Preparation, not recorded play
-> This is a proposed wave fight at [[Sessions/Potential Events/Electric Woman|Hedra Brasswick's sugar house]]. The attackers are Umbral buyers of [[Rules/Custom Items and Spells/Items/Sweetpitch|Sweetpitch]] who have come to seize the source. [[Sugarbend]] left the buyers' identities undefined. The Duchess, her name, and every stat block below are proposals until used at the table.
+> This is a proposed wave fight at [[Sessions/Potential Events/Electric Woman|Hedra Brasswick's sugar house]]. The attackers are Umbral buyers of [[Rules/Custom Items and Spells/Items/Sweetpitch|Sweetpitch]] who have come to seize the source. Who the Duchess is was a DM decision on 2026-11-07 (see [[#Who the Duchess is]]). Her appearance in this fight, her name, and every stat block below are proposals until used at the table.
 
 **Built for:** five level-4 PCs (Aelar, Aulberos, Chein Po + Kai, Naieht, Vivatrix), 2014 rules.
 **Difficulty:** each wave alone is around or above the Deadly threshold (2,500 adjusted XP for this party). Together the three waves total about **10,700 adjusted XP**, roughly 85% of the party's whole adventuring-day budget, with no rest in between. Expect at least one PC to go down. Use the dials at the bottom to scale it.
@@ -82,11 +82,21 @@ Each wave is what the buyers *think* is enough. When it fails, they escalate.
 - **Aelar is an eladrin.** She recognizes him as fey and may offer him a place at her side, or call him a traitor to his blood. This beat is optional.
 - **Off-ramps:** she retreats at 30 HP or fewer, or if she's offered enough Sweetpitch or a credible supply deal. Hurt pride is acceptable to her. Losing her supply is not. Whatever deal or grudge she leaves with becomes a future thread, so record it if it happens.
 
+### Who the Duchess is
+
+*DM decision, 2026-11-07.*
+
+- **Drug lord, not a noble.** She belongs to no Umbral court. Her power comes from controlling supply, not from rank.
+- **Self-titled.** "Duchess" is a title she gave herself. No court granted it.
+- **One buyer among several, but the main distributor.** Oren sells to more than one Umbral buyer. She is the largest, and most of the Sweetpitch reaching the Umbral's addicted fairies passes through her network. That is why the shortage hurts her most and why she comes herself.
+
+Still open: who the other buyers are, how her network is organized, and whether any court tolerates or profits from her trade.
+
 ### Duchess Morrowmire *(homebrew, proposed)*
 
 *Medium fey, neutral evil*
 
-An Umbral noble whose shape won't hold still: her gown drifts between moth-wing, bark, and smoke, and her features slide when no one is looking straight at her. Black tar stains her lips and fingertips, and the veins at her wrists have gone dark with it.
+A self-made Umbral power whose shape won't hold still: her gown drifts between moth-wing, bark, and smoke, and her features slide when no one is looking straight at her. Black tar stains her lips and fingertips, and the veins at her wrists have gone dark with it.
 
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 120 (16d8 + 48)
