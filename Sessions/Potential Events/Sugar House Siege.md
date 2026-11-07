@@ -131,6 +131,21 @@ An Umbral noble whose shape won't hold still: her gown drifts between moth-wing,
 
 ---
 
+## Rewards
+
+> [!note] These rewards are proposed for winning the siege. Record what the party actually receives in the session notes.
+
+**Level up.** Surviving the siege is a milestone: the party reaches **level 5**.
+
+**The Dornthalm book.** Hedra gives the party the book of diagrams she used to build the works. It is **one of the missing [[Dornthalm]] books that [[Aelar Aurelius]] was accused of stealing**. The suspicion was false ([[Campaign Reference/Party and Personal Threads|Party and Personal Threads]]). Hedra brought it from Dornthalm and can't really read it. She worked from the diagrams alone, which show how to build a sugar cane factory, though she believes the lightning is the point ([[Sessions/Potential Events/Electric Woman|Electric Woman]]).
+- Having the book doesn't prove who took it or clear Aelar's name automatically. How Hedra came by it, whether she remembers Aelar from Dornthalm, and what returning it would mean all stay to be decided in play.
+- What the text says beyond the diagrams is also undecided.
+
+**Moth-Shadow Mantle** *(wondrous item, cloak, uncommon, requires attunement; homebrew)*. Taken from the Duchess, or given up by her as part of a bargain. The cloak drifts between moth-wing, bark, and smoke, like her gown.
+- Once per long rest, when you are hit by an attack roll, you can use your reaction to swap places with a willing ally within 30 feet that you can see. The ally becomes the target of the attack instead.
+
+---
+
 ## Dials
 
 **Easier**
